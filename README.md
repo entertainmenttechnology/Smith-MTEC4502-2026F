@@ -9,16 +9,19 @@ This repository is your working space for developing a career strategy, research
 Students are currently working on:
 
 1. [**Assignment 00 - Course Workspace and Research Setup**](assignments/00_Course_Workspace_and_Research_Setup.md) - Set up your personal workspace, register your GitHub username, configure Zotero, and begin collecting potential portfolio materials.
+2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
+3. [**Assignment 1a - Reflective Essay Draft**](assignments/01a_Reflective_Essay_Draft.md) - Speculation & self-assessment reflective essay draft.
 
 Update this section as the semester progresses so it links to the active assignment or assignments.
 
 ## Start Here
 
-1. Read the [course materials](course-materials/README.md), including the current syllabus and schedule.
-2. Complete [Assignment 00: Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md) before beginning Assignment 1a.
-3. Create your personal repository or approved hosted workspace using [student-work/STUDENT-FOLDER-TEMPLATE.md](student-work/STUDENT-FOLDER-TEMPLATE.md).
-4. Read the relevant [resources](resources/) before beginning each assignment.
-5. Commit and push your work regularly so that your process and revisions remain visible.
+1. Read and acknowledge the [Syllabus](course-materials/MTEC_4502_Syllabus_2026F.md). This is a required assignment and must be completed before any other coursework.
+2. Read the rest of the [course materials](course-materials/README.md) and schedule.
+3. Complete [Assignment 00: Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md) before beginning Assignment 1a.
+4. Create your personal repository or approved hosted workspace using [student-work/STUDENT-FOLDER-TEMPLATE.md](student-work/STUDENT-FOLDER-TEMPLATE.md).
+5. Read the relevant [resources](resources/) before beginning each assignment.
+6. Commit and push your work regularly so that your process and revisions remain visible.
 
 ---
 

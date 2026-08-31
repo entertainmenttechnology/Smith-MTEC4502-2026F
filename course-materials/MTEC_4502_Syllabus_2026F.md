@@ -3,20 +3,25 @@
 ## Course Information
 
 **Institution:** CUNY New York City College of Technology (City Tech)  
-**Term:** [TERM AND YEAR]  
-**Section:** [SECTION]  
-**Mode of Instruction:** [IN PERSON / HYBRID / ONLINE]  
-**Meeting Details:** [DAY, TIME, AND LOCATION OR ONLINE DETAILS]  
-**Course Repository:** [REPOSITORY URL]  
+**Term:** Spring 2026  
+**Section:** [D01 - 10983]  
+**Mode of Instruction:** HYBRID    
+**Meeting Details:** 
+- LG38, Namm complex, Monday 2:30-5:00 *   
+- Zoom - 649-104-8253 passcode 'Advise'
+  
+**Course Repository:**  [https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F)
+
+\* LG-38 is sometimes hard to find: here is a link to [video directions](https://www.youtube.com/watch?v=eVTpFg-3JWQ)  
 
 ---
 
 ## Instructor Information
 
-* **Instructor:** [INSTRUCTOR NAME]
-* **Email:** [INSTRUCTOR EMAIL]
-* **Office Location:** [OFFICE LOCATION]
-* **Office Hours:** [OFFICE HOURS]
+* **Instructor:** David B. Smith
+* **Email:** dsmith@citytech.cuny.edu
+* **Office Location:** LG-38
+* **Office Hours:** M, T, 2:00 - 3:00 and by appointment or drop in (at your own risk!)
 
 ---
 
@@ -113,29 +118,35 @@ For the successful completion of this course, the student should be able to:
 
 ## Course Session Sequence
 
-Replace the date and format columns after confirming the academic calendar and section meeting pattern. Add no-class dates, holidays, make-up meetings, or day-pattern substitutions as separate rows where needed.
 
 | Session | Date | Format | Topic / Focus | Assignment / Deliverable |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | [DATE] | [FORMAT] | Course introduction; career development and professional placement | Assignment 00: Course Workspace and Research Setup due; begin Assignment 1a: Reflective Essay Draft |
-| **2** | [DATE] | [FORMAT] | Charting a career path | Assignment 1a due |
-| **3** | [DATE] | [FORMAT] | Self-analysis and career strategy | Assignment 1b: Strategic Framework and Gap Analysis due |
-| **4** | [DATE] | [FORMAT] | Matching skills and opportunities | Assignment 1c: Visualization draft due |
-| **5** | [DATE] | [FORMAT] | Presenting frameworks | Assignment 1d and 1e; final framework package due |
-| **6** | [DATE] | [FORMAT] | Resume development | Resume draft due |
-| **7** | [DATE] | [FORMAT] | Resume and portfolio-item evaluation | Portfolio item list and platform selection |
-| **8** | [DATE] | [FORMAT] | Portfolio implementation | Updated resume and portfolio draft |
-| **9** | [DATE] | [FORMAT] | Portfolio feedback: Round 1 | Portfolio update |
-| **10** | [DATE] | [FORMAT] | Portfolio feedback: Round 2 | [CHECK-IN OR DELIVERABLE] |
-| **11** | [DATE] | [FORMAT] | Cover letters | Cover letter draft due |
-| **12** | [DATE] | [FORMAT] | Cover-letter feedback and workplace ethics | Updated cover letter |
-| **13** | [DATE] | [FORMAT] | Budgeting as professional practice | Budget reflection and standalone artifact due |
-| **14** | [DATE] | [FORMAT] | Portfolio integration and professional pitch | Portfolio pitch rehearsal |
-| **15** | [DATE] | [FORMAT] | Final presentations and pitch | Final portfolio and course package due |
+| **1** | 09/02 | FTF | Course introduction; career development and professional placement | Assignment 00: Course Workspace and Research Setup due; begin Assignment 1a: Reflective Essay Draft |
+| **2** | 09/09 | H | Charting a career path | Assignment 1a due |
+| **3** | 09/16 | FTF | Self-analysis and career strategy | Assignment 1b: Strategic Framework and Gap Analysis due |
+| **4** | 09/23 | H | Matching skills and opportunities | Assignment 1c: Visualization draft due |
+| **5** | 09/30 | FTF | Presenting frameworks | Assignment 1d and 1e; final framework package due |
+| **6** | 10/07 | H | Resume development | Resume draft due |
+| **7** | 10/14 | FTF | Resume and portfolio-item evaluation | Portfolio item list and platform selection |
+| **8** | 10/21 | H | Portfolio implementation | Updated resume and portfolio draft |
+| **9** | 10/28 | FTF | Portfolio feedback: Round 1 | Portfolio update |
+| **10** | 11/04 | H | Portfolio feedback: Round 2 | [CHECK-IN OR DELIVERABLE] |
+| **11** | 11/11 | FTF | Cover letters | Cover letter draft due |
+| **12** | 11/18 | H | Cover-letter feedback and workplace ethics | Updated cover letter |
+| **NO** | 11/25 | - | **Thanksgiving: no classes scheduled** | |
+| **13** | 12/02 | H | Budgeting as professional practice | Budget reflection and standalone artifact due |
+| **14** | 12/09 | FTF | Portfolio integration and professional pitch | Portfolio pitch rehearsal |
+| **15** | 12/16 | FTF | Final presentations and pitch | Final portfolio and course package due |
+
+\* *See [Schedule and Course Changes](#schedule-and-course-changes) below: this sequence is subject to change.*
 
 ---
 
 ## Course Policies
+
+### Schedule and Course Changes
+
+Every section of this course moves at a different pace. Assignments, modalities, and other scheduling and organizational details in this syllabus and the course session sequence are subject to change at the instructor's discretion as the semester progresses. The base requirements, learning outcomes, and grading and assessment criteria described in this syllabus will not change.
 
 ### Research and Citation
 

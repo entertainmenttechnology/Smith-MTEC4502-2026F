@@ -1,5 +1,6 @@
 # Course Materials
 
-Use [MTEC_4502_Syllabus_Template.md](MTEC_4502_Syllabus_Template.md) to create the syllabus for a new course offering. Replace its bracketed placeholders with the current term, section, meeting details, instructor information, repository URL, and calendar dates.
+Use [MTEC_4502_Syllabus_2026F.md](MTEC_4502_Syllabus_2026F.md) for the current course syllabus. Bracketed placeholders should be replaced with the current term, section, meeting details, instructor information, repository URL, and calendar dates.
 
-Add current Brightspace and published syllabus links to the course-specific repository after it is created.
+
+> **Note:** Schedules, assignments, and modalities are subject to change. See the "Schedule and Course Changes" policy in the syllabus for the authoritative statement — base requirements, outcomes, and grading do not change.
