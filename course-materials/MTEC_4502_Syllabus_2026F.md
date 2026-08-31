@@ -1,4 +1,4 @@
-# MTEC 4502 - Career and Portfolio Seminar
+# MTEC 4502 - Career and Portfolio Seminar Syllabus
 
 ## Course Information
 
