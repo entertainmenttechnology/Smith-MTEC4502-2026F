@@ -1,0 +1,44 @@
+name: Assignment Link Submission
+description: Submit a link to an assignment document, folder, repository, or hosted artifact.
+title: "Assignment [Number]: [Student Name]"
+labels:
+  - assignment-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit a shareable link to your work. Do not include student IDs, grades, passwords, private contact information, or other sensitive information.
+  - type: input
+    id: assignment
+    attributes:
+      label: Assignment
+      description: Enter the assignment number and title.
+      placeholder: "01a - Reflective Essay Draft"
+    validations:
+      required: true
+  - type: input
+    id: work-link
+    attributes:
+      label: Work link
+      description: Link to the specific document, folder, repository, or hosted artifact.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: submission-note
+    attributes:
+      label: Submission note
+      description: Briefly describe what you are submitting and identify any feedback you would like.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: The link is accessible to the instructor.
+          required: true
+        - label: I documented all external research sources in Zotero.
+          required: true
+        - label: This Issue contains no sensitive personal or academic information.
+          required: true

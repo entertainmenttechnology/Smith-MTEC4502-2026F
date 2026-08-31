@@ -1,0 +1,58 @@
+name: Accessibility Scanner
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  scan-accessibility:
+    runs-on: ubuntu-latest
+    name: Scan Course Materials for Accessibility Issues
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Auto-discover all markdown files
+        id: discover
+        shell: bash
+        run: |
+          # Find all markdown files and convert to GitHub.com URLs
+          REPO="${{ github.repository }}"
+          BRANCH="${{ github.ref_name }}"
+          BASE_URL="https://github.com/${REPO}/blob/${BRANCH}"
+          
+          # Generate URL list (excluding .git directory)
+          URLS=$(find . -name "*.md" -type f | grep -v ".git" | sed 's|^\./||' | sort | while read -r file; do
+            # URL encode spaces and special characters
+            encoded_file=$(echo "$file" | sed 's/ /%20/g')
+            echo "${BASE_URL}/${encoded_file}"
+          done | tr '\n' '|')
+          
+          # Remove trailing pipe and convert to newline-delimited
+          URLS=${URLS%|}
+          URLS=$(echo "$URLS" | tr '|' '\n')
+          
+          # Output for debugging
+          echo "Found markdown files:"
+          echo "$URLS"
+          
+          # Set output using multiline format
+          echo "urls<<EOF" >> $GITHUB_OUTPUT
+          echo "$URLS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Scan accessibility on GitHub.com URLs
+        uses: github/accessibility-scanner@v2
+        with:
+          # Dynamically generated URLs from all markdown files in the repository
+          urls: ${{ steps.discover.outputs.urls }}
+          repository: ${{ github.repository }}
+          token: ${{ secrets.GH_TOKEN }}
+          cache_key: a11y-scan-mtec4502-${{ github.ref_name }}
+          skip_copilot_assignment: true  # Prevent automated Copilot PR creation

@@ -1,0 +1,39 @@
+name: Course Workspace Setup
+description: Register your GitHub username and share your MTEC 4502 workspace link.
+title: "Setup: [Student Name]"
+labels:
+  - workspace-setup
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Complete this form after you have received access to the private course repository. Do not include student IDs, phone numbers, passwords, grades, or other sensitive information.
+  - type: input
+    id: github-username
+    attributes:
+      label: GitHub username
+      description: Enter the GitHub username you submitted privately through Brightspace.
+      placeholder: username
+    validations:
+      required: true
+  - type: input
+    id: workspace-url
+    attributes:
+      label: Personal workspace URL
+      description: Link to your personal repository, document folder, or instructor-approved hosted workspace.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: setup-checklist
+    attributes:
+      label: Setup checklist
+      description: Confirm that each item is complete.
+      value: |
+        - [ ] My workspace uses the required folder structure.
+        - [ ] My instructor can access the workspace through the link above.
+        - [ ] I installed Zotero Desktop and the Zotero Connector.
+        - [ ] I joined the shared course Zotero library.
+        - [ ] I created a folder and began collecting potential portfolio materials.
+    validations:
+      required: true
