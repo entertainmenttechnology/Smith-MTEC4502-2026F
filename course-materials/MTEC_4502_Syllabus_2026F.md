@@ -3,11 +3,11 @@
 ## Course Information
 
 **Institution:** CUNY New York City College of Technology (City Tech)  
-**Term:** Spring 2026  
+**Term:** Fall 2026  
 **Section:** [D01 - 10983]  
 **Mode of Instruction:** HYBRID    
 **Meeting Details:** 
-- LG38, Namm complex, Monday 2:30-5:00 *   
+- LG38, Namm complex, Wednesdays 2:30-5:00*   
 - Zoom - 649-104-8253 passcode 'Advise'
   
 **Course Repository:**  [https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F)
