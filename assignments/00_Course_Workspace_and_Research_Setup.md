@@ -35,7 +35,8 @@ Use the [Student Work Template](../student-work/STUDENT-FOLDER-TEMPLATE.md) to c
 ### 4. Configure Research Workflow
 
 * Install [Zotero Desktop](https://www.zotero.org/) and the Zotero Connector browser plugin.
-* Join the [Shared Course Zotero Library]([ZOTERO GROUP URL]).
+* Ensure you have a personal library and can access it.
+* Join Zotero and create a user account. We will hook this up to the shared directory at class 2.  
 * Save one test source to your personal Zotero library to confirm the Connector is working.
 
 ### 5. Join Discord
