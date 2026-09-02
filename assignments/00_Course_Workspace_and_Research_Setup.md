@@ -38,7 +38,11 @@ Use the [Student Work Template](../student-work/STUDENT-FOLDER-TEMPLATE.md) to c
 * Join the [Shared Course Zotero Library]([ZOTERO GROUP URL]).
 * Save one test source to your personal Zotero library to confirm the Connector is working.
 
-### 5. Begin Collecting Portfolio Materials
+### 5. Join Discord
+Here is the classs discord servert link.  PLease use an identity that allows your name to be unveiled.  
+[https://discord.gg/8XBgKJpmgD](https://discord.gg/8XBgKJpmgD)
+
+### 6. Begin Collecting Portfolio Materials
 
 Begin gathering potential material from prior courses, personal projects, internships, employment, performances, productions, and collaborations. Create a working folder in your personal workspace for project files, images, videos, links, drafts, and notes.
 
