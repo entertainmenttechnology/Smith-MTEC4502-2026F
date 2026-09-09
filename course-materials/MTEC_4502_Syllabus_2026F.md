@@ -232,7 +232,7 @@ The Writing Center provides in-person and online support for essays, resumes, co
 
 ### How do I access course materials and assignments?
 
-The [course repository]([COURSE REPOSITORY URL]) is the source of truth for course materials, assignment briefs, resources, and current workflow guidance. Students must register their GitHub usernames privately through [Brightspace]([LMS URL]) before receiving access to the private course repository. Brightspace is used for sensitive information, private course communications, grades, and formal submissions when the instructor requires them.
+The [GitHub course repository](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F) is the current source of truth for course materials, assignment briefs, resources, and workflow guidance. Students must register their GitHub usernames privately through [Brightspace]([LMS URL]) before receiving access to the private course repository. Brightspace is used for sensitive information, private course communications, grades, and formal submissions when the instructor requires them.
 
 ### What do I need to do every week?
 
@@ -252,7 +252,7 @@ Yes. AI may be used as a documented, critically evaluated collaborator. See the 
 
 ### How do I turn in assignments?
 
-Maintain your work in a personal course repository, document folder, or other approved hosted resource. Unless an assignment brief states otherwise, submit the required shareable link to the relevant document, folder, repository, or hosted artifact by opening an Issue in the private course repository. Use [Brightspace]([LMS URL]) for sensitive information, grades, and formal submissions when required. Do not place sensitive personal information in a public repository. Your final professional portfolio must be published separately from the course workspace.
+Submit each assignment through the [Brightspace Assignments area](https://brightspace.cuny.edu/d2l/home/1337499), available through **Assignments** in the course title menu. Each submission link is labeled **Upload Assignment [n] here**. Follow the specific assignment instructions: depending on the assignment, you may upload a document or enter a required shareable link in the submission form. Maintain your working files in a personal course repository, document folder, or other approved hosted resource, and do not place sensitive personal information in a public repository. Your final professional portfolio must be published separately from the course workspace.
 
 ---
 
