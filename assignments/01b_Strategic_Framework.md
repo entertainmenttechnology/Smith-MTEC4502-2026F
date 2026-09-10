@@ -15,7 +15,7 @@ Build upon your baseline reflection (Part 1a) by conducting real-world job marke
 ## Assignment Components & Deliverables
 
 ### Mandatory Research Requirement (Zotero)
-Before gathering job listings, ensure you have installed the **Zotero Connector**. **All job listings, company profiles, and industry sources referenced in this assignment must be added to your Zotero library** and cited properly in your submission.
+Before gathering job listings, ensure you have installed the [**Zotero Connector**](https://www.zotero.org/download/connectors). **All job listings, company profiles, and industry sources referenced in this assignment must be added to your Zotero library** and cited properly in your submission.
 
 ### Part 1: Job Requirements Analysis
 1. **Identify Job Listings:** Research 3–5 job listings across entry-level, mid-career, and senior positions to map a full trajectory. Use platforms like LinkedIn, Indeed, or the [ENT Department Job Board](https://openlab.citytech.cuny.edu/groups/entertainment-technology-student-resources/docs/entertainment-technology-jobs-and-internships/). Save each listing to Zotero.
