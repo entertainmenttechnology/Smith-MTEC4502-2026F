@@ -13,6 +13,16 @@ Students are currently working on:
 3. [**Assignment 1a - Reflective Essay Draft**](assignments/01a_Reflective_Essay_Draft.md) - Baseline reflection used as the foundation for the later strategic framework.
 4. [**Assignment 00 - Course Workspace and Research Setup**](assignments/00_Course_Workspace_and_Research_Setup.md) - Set up your personal workspace, register your GitHub username, configure Zotero, and begin collecting potential portfolio materials.
 
+<details>
+  <summary>Previous assignment links</summary>
+
+- [Assignment 00 - Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md)
+- [Assignment 1a - Reflective Essay Draft](assignments/01a_Reflective_Essay_Draft.md)
+- [Assignment 1 - Career Strategy Master Overview](assignments/01_Career_Strategy_Master_Overview.md)
+- [Assignment 1b - Strategic Framework & Job Market Gap Analysis](assignments/01b_Strategic_Framework.md)
+
+</details>
+
 Update this section as the semester progresses so it links to the active assignment or assignments.
 
 ## Start Here
