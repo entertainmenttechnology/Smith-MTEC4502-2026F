@@ -22,7 +22,7 @@ Use the [Student Work Template](../student-work/STUDENT-FOLDER-TEMPLATE.md) to c
 ### 2. Register Your GitHub Account and Join the Course Repository
 
 * Create or confirm access to a GitHub account.
-* Submit your GitHub username privately through [Brightspace]([LMS URL]) by the Week 1 deadline.
+* Submit your GitHub username privately through [Brightspace](https://brightspace.cuny.edu/d2l/home/1337499) by the Week 1 deadline.
 * After the instructor confirms enrollment, accept the invitation to the private course repository.
 * Do not post student IDs, private contact information, passwords, confidential client or employer material, or other sensitive information in the course repository or your public workspace.
 
@@ -51,11 +51,12 @@ This is an early inventory, not a final portfolio selection. Consider which mate
 
 ### 6. Review Submission and Privacy Expectations
 
-* Submit assignment links through GitHub Issues in the private course repository unless an assignment brief specifies a different method.
+* Use your personal workspace as the working archive for process, drafts, and revisions.
+* Submit formal assignments through the corresponding Brightspace submission link at [Brightspace](https://brightspace.cuny.edu/d2l/home/1337499).
 * Use Brightspace for private course communications, sensitive information, grades, and any formal submission the instructor requests.
 
 ---
 
 ## Deliverable
 
-Create a GitHub Issue in the private course repository using the **Course Workspace Setup** form. Include your GitHub username, the shareable URL for your personal repository, document folder, or approved hosted workspace, and confirmation that you have begun a portfolio-materials inventory. Be prepared to open the workspace during the Week 1 class session.
+Submit the **Course Workspace Setup** assignment through the Brightspace link for Assignment 00. Include your GitHub username, the shareable URL for your personal repository, document folder, or approved hosted workspace, and confirmation that you have begun a portfolio-materials inventory. Be prepared to open the workspace during the Week 1 class session.

@@ -36,6 +36,7 @@ Your draft (750–1000 words) should be structured with the following headings:
 
 ## Submission Requirements
 
-* **Format:** Shareable Google Doc link or PDF added to your student workspace folder (`student-work/firstname-lastname/assignments/`).
+* **Format:** Submit your final draft as a shareable Google Doc link or PDF through the Brightspace submission link for Assignment 1a.
 * **Length:** 750–1000 words.
+* **Workspace:** Keep a copy in your student workspace folder (`student-work/firstname-lastname/assignments/`) for process documentation and revision history.
 * **In-Class:** Be prepared to discuss your reflection and key insights during our Week 2 session.

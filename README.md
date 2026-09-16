@@ -10,8 +10,6 @@ Students are currently working on:
 
 1. [**Assignment 1b - Strategic Framework & Job Market Gap Analysis**](assignments/01b_Strategic_Framework.md) - Use 3–5 real job listings and Zotero research to identify skills gaps, align your goals to the market, and draft a realistic 1–3 year strategy.
 2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
-3. [**Assignment 1a - Reflective Essay Draft**](assignments/01a_Reflective_Essay_Draft.md) - Baseline reflection used as the foundation for the later strategic framework.
-4. [**Assignment 00 - Course Workspace and Research Setup**](assignments/00_Course_Workspace_and_Research_Setup.md) - Set up your personal workspace, register your GitHub username, configure Zotero, and begin collecting potential portfolio materials.
 
 <details>
   <summary>Previous assignment links</summary>
@@ -32,7 +30,8 @@ Update this section as the semester progresses so it links to the active assignm
 3. Complete [Assignment 00: Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md) before beginning Assignment 1a.
 4. Create your personal repository or approved hosted workspace using [student-work/STUDENT-FOLDER-TEMPLATE.md](student-work/STUDENT-FOLDER-TEMPLATE.md).
 5. Read the relevant [resources](resources/) before beginning each assignment.
-6. Commit and push your work regularly so that your process and revisions remain visible.
+6. Use your personal workspace as the process archive, but submit formal assignments through the corresponding Brightspace links at [Brightspace](https://brightspace.cuny.edu/d2l/home/1337499).
+7. Commit and push your work regularly so that your process and revisions remain visible.
 
 ---
 

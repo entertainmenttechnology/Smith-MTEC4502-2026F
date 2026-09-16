@@ -58,4 +58,5 @@ Before gathering job listings, ensure you have installed the [**Zotero Connector
 ## Submission Format
 
 * Combine Parts 1–4 into a clean document (750–1000 words + tables).
-* Save in your personal student workspace (`student-work/firstname-lastname/assignments/`).
+* Submit the final version through the Brightspace submission link for Assignment 1b.
+* Keep a copy in your personal student workspace (`student-work/firstname-lastname/assignments/`) for process documentation and revision history.
