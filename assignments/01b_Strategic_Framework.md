@@ -10,6 +10,16 @@
 
 Build upon your baseline reflection (Part 1a) by conducting real-world job market research. You will analyze actual job postings and industry requirements to identify skill gaps, evaluate personal alignment, and outline actionable short-term and long-term milestones.
 
+### In-Class Deliverable for Today
+For this week’s session, the goal is to produce a working draft of the strategic framework rather than a polished final document. By the end of class, each student should have:
+
+- 3–5 job listings saved to Zotero
+- a preliminary comparison table of required skills, tools, and responsibilities
+- a first-pass skills gap analysis comparing the market to their current strengths
+- a draft of short-term and long-term goals
+
+This draft will serve as the foundation for the final 750–1000 word strategic framework and gap analysis submission.
+
 ---
 
 ## Assignment Components & Deliverables
