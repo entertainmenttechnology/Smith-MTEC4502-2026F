@@ -3,10 +3,14 @@
 Welcome to the MTEC 4502 course repository.
 
 This repository is your working space for developing a career strategy, researching emerging opportunities, and building a portfolio of professional evidence throughout the semester. Start here, then use the assignment prompts and course materials to guide your work week by week.
+### Class links resources week 03
+
+[Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)  
+[Zotero Site](https://www.zotero.org/groups/6416274/mtec4502/library)  
 
 ## Current Assignments
 
-Students are currently working on:
+You are currently working on:
 
 1. [**Assignment 1b - Strategic Framework & Job Market Gap Analysis**](assignments/01b_Strategic_Framework.md) - Use 3–5 real job listings and Zotero research to identify skills gaps, align your goals to the market, and draft a realistic 1–3 year strategy.
 2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
