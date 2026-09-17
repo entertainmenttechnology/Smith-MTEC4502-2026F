@@ -35,7 +35,7 @@ Assignment 1 is broken down into five distinct, sequential components:
 | :--- | :--- | :---: | :--- |
 | **[01a](01a_Reflective_Essay_Draft.md)** | **Reflective Essay Draft** | **Week 2** | Pure internal self-reflection (no outside research or AI). 750–1000 words. |
 | **[01b](01b_Strategic_Framework.md)** | **Strategic Framework & Gap Analysis** | **Week 3** | Job-market research (3–5 listings), skills-gap analysis, and 1–3 year goal setting. |
-| **[01c](01c_Integrating_Visualization.md)** | **Integrating Visualization** | **Week 4** | Platform comparison (MindMeister, Lucidchart, Trello, etc.) and visual outline draft. |
+| **[01c](01c_Integrating_Visualization.md)** | **Integrating Visualization** | **Week 4** | Job-site and career-identity analysis, required SWOT and Skills-Gap Radar visuals, and platform comparison. |
 | **[01d](01d_Future_Modeling_and_Adaptive_Planning.md)** | **Future Modeling & Adaptive Planning** | **Week 5** | Future of Work stress test (MIT, WEF, NYT readings), Zotero research, & revised visual map. |
 | **[01e](01e_AI_Analysis_and_Reflection.md)** | **AI Collaboration Reflection** | **Week 5** | Documentation of AI tools used, prompt log, limitations, and ethical evaluation. |
 

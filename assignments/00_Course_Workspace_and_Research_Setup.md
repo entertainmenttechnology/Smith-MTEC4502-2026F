@@ -38,6 +38,8 @@ Use the [Student Work Template](../student-work/STUDENT-FOLDER-TEMPLATE.md) to c
 * Ensure you have a personal library and can access it.
 * Join Zotero and create a user account. We will hook this up to the shared directory at class 2.  
 * Save one test source to your personal Zotero library to confirm the Connector is working.
+* Use the shared Zotero library's `Job Sites` collection as the source list for Week 4 research. Do not reorganize or rename that course collection.
+* Create a top-level `Student Collections` collection if it does not already exist, then create one subcollection using your name. Save your job advertisements and related notes in that personal subcollection.
 
 ### 5. Join Discord
 Here is the classs discord servert link.  PLease use an identity that allows your name to be unveiled.  

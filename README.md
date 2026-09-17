@@ -3,21 +3,18 @@
 Welcome to the MTEC 4502 course repository.
 
 This repository is your working space for developing a career strategy, researching emerging opportunities, and building a portfolio of professional evidence throughout the semester. Start here, then use the assignment prompts and course materials to guide your work week by week.
-### Class links resources week 03
-
-[Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)  
-[Zotero Site](https://www.zotero.org/groups/6416274/mtec4502/library)  
-
 ## Current Assignments
 
 You are currently working on:
 
-1. [**Assignment 1b - Strategic Framework & Job Market Gap Analysis**](assignments/01b_Strategic_Framework.md) - Use 3–5 real job listings and Zotero research to identify skills gaps, align your goals to the market, and draft a realistic 1–3 year strategy.
+1. [**Assignment 1c - Integrating Visualization into Your Career Strategy**](assignments/01c_Integrating_Visualization.md) - Analyze job-site usefulness for your career identity and create a SWOT analysis and Skills-Gap Radar chart from your Part 1b research.
 2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
 
 <details>
-  <summary>Previous assignment links</summary>
+  <summary>Past Assignments and Resources</summary>
 
+- [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
+- [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)
 - [Assignment 00 - Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md)
 - [Assignment 1a - Reflective Essay Draft](assignments/01a_Reflective_Essay_Draft.md)
 - [Assignment 1 - Career Strategy Master Overview](assignments/01_Career_Strategy_Master_Overview.md)
@@ -35,7 +32,8 @@ Update this section as the semester progresses so it links to the active assignm
 4. Create your personal repository or approved hosted workspace using [student-work/STUDENT-FOLDER-TEMPLATE.md](student-work/STUDENT-FOLDER-TEMPLATE.md).
 5. Read the relevant [resources](resources/) before beginning each assignment.
 6. Use your personal workspace as the process archive, but submit formal assignments through the corresponding Brightspace links at [Brightspace](https://brightspace.cuny.edu/d2l/home/1337499).
-7. Commit and push your work regularly so that your process and revisions remain visible.
+7. For Week 4, review every source listed in the shared Zotero `Job Sites` collection, create your own named subcollection under `Student Collections`, and save your selected job advertisements there.
+8. Commit and push your work regularly so that your process and revisions remain visible.
 
 ---
 
