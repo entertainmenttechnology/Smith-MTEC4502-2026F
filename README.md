@@ -72,7 +72,7 @@ Lesson plans, slides, readings, and other instructional content provided by the 
 
 ### **`/resources`**
 
-Reference materials, templates, guides, and curated research (career taxonomy, emerging roles, portfolio platforms, etc.).
+Reference materials, templates, guides, and curated research (career taxonomy, emerging roles, portfolio platforms, etc.). Shared cross-course guidance is maintained in the [Entertainment Technology Teaching Resources Wiki](https://github.com/entertainmenttechnology/Smith-ET-Teaching-Resources/wiki), including the [Visualization Tools and Methods guide](https://github.com/entertainmenttechnology/Smith-ET-Teaching-Resources/wiki/Visualization-Tools-and-Methods).
 
 ### **`/student-work`**
 

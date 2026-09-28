@@ -30,6 +30,8 @@ The Zotero collection is the current research reference for this work. Formal as
 ## Assignment Steps
 
 ### Step 1: Research Visualization Platforms
+Use the shared [Visualization Tools and Methods guide](https://github.com/entertainmenttechnology/Smith-ET-Teaching-Resources/wiki/Visualization-Tools-and-Methods) as a starting point. Your comparison should still evaluate which tools fit your own career visualization and explain your choice.
+
 1. **Explore Platforms:** Research at least 3 visualization tools (e.g., MindMeister, Lucidchart, Miro, Trello, Coggle, Draw.io, Canva).
 2. **Deliverable (150–200 words):** Write a brief platform comparison evaluating ease of use, design flexibility, collaboration features, and accessibility (free vs. paid tiers). State which platform you chose and why.
 
