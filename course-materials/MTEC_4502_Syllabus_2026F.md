@@ -125,7 +125,7 @@ For the successful completion of this course, the student should be able to:
 | **2** | 09/09 | H | Charting a career path | Assignment 1a due |
 | **3** | 09/16 | FTF | Self-analysis and career strategy | Assignment 1b: Strategic Framework and Gap Analysis due |
 | **4** | 09/23 | H | Matching skills and opportunities | Assignment 1c: Visualization draft due |
-| **5** | 09/30 | FTF | Presenting frameworks | Assignment 1d and 1e; final framework package due |
+| **5** | 09/30 | FTF | Presenting frameworks | Assignment 1d |
 | **6** | 10/07 | H | Resume development | Resume draft due |
 | **7** | 10/14 | FTF | Resume and portfolio-item evaluation | Portfolio item list and platform selection |
 | **8** | 10/21 | H | Portfolio implementation | Updated resume and portfolio draft |
