@@ -9,7 +9,7 @@
 
 ## Overview & Purpose
 
-Assignment 1 forms the foundational career-planning phase of MTEC 4502 (worth **20% of your total course grade**). Rather than treating career planning as a static resume exercise, this 5-week scaffolded assignment guides you from **internal self-reflection** to **job-market gap analysis**, **visual modeling**, **future-of-work stress testing**, and **collaborative AI reflection**.
+Assignment 1 forms the foundational career-planning phase of MTEC 4502 (worth **20% of your total course grade**). Rather than treating career planning as a static resume exercise, this multi-week scaffolded assignment (Weeks 2 through 6) guides you from **internal self-reflection** to **job-market gap analysis**, **visual modeling**, **AI-assisted stress testing of your strategy**, and **future-of-work analysis**.
 
 The work you produce here serves as the core narrative and content for your final professional portfolio.
 
@@ -36,8 +36,10 @@ Assignment 1 is broken down into five distinct, sequential components:
 | **[01a](01a_Reflective_Essay_Draft.md)** | **Reflective Essay Draft** | **Week 2** | Pure internal self-reflection (no outside research or AI). 750–1000 words. |
 | **[01b](01b_Strategic_Framework.md)** | **Strategic Framework & Gap Analysis** | **Week 3** | Job-market research (3–5 listings), skills-gap analysis, and 1–3 year goal setting. |
 | **[01c](01c_Integrating_Visualization.md)** | **Integrating Visualization** | **Week 4** | Job-site and career-identity analysis, required SWOT and Skills-Gap Radar visuals, and platform comparison. |
-| **[01e](01e_Future_Modeling_and_Adaptive_Planning.md)** | **Future Modeling & Adaptive Planning** | **Week 5** | Future of Work stress test (MIT, WEF, NYT readings), Zotero research, & revised visual map. |
-| **[01f](01f_AI_Analysis_and_Reflection.md)** | **AI Collaboration Reflection** | **Week 5** | Documentation of AI tools used, prompt log, limitations, and ethical evaluation. |
+| **[01d](01d_AI_Collaboration_and_Career_Futures.md)** | **AI Collaboration and Career Futures** | **Week 5** | AI-assisted interrogation of your current strategy; speculative career trajectories; critical evaluation of the AI exchange. |
+| **[01e](01e_Future_Modeling_and_Adaptive_Planning.md)** | **Future Modeling & Adaptive Planning** | **Week 6** | Future of Work stress test (MIT, WEF, NYT readings), Zotero research, & revised visual map. |
+
+> **Note:** Assignment 1f (AI Collaboration Reflection) is retired — see [assignments/archive](archive/01f_AI_Analysis_and_Reflection.md). Its purpose is covered by 01d.
 
 ---
 
@@ -47,15 +49,15 @@ Assignment 1 is broken down into five distinct, sequential components:
 flowchart TD
     A[01a: Internal Reflection] -->|Identify Desires & Aspirations| B[01b: Job Market Gap Analysis]
     B -->|Map Required vs Current Skills| C[01c: Visual Strategy Map]
-    C -->|Stress Test Against Trends| D[01d: Future of Work Adaptation]
-    D -->|Evaluate & Document Partner Tools| E[01e: AI Reflection & Final Package]
+    C -->|Stress Test via AI Collaboration| D[01d: AI Collaboration & Career Futures]
+    D -->|Stress Test Against Macro Trends| E[01e: Future of Work Adaptation]
 ```
 
 1. **Step 1 (01a):** Establish your personal voice and goals based exclusively on your internal reflection (Due Week 2).
 2. **Step 2 (01b):** Test your desires against real-world job postings to identify exact skill and competency gaps (Due Week 3).
 3. **Step 3 (01c):** Transform your written strategy into an initial visual diagram or roadmap (Due Week 4).
-4. **Step 4 (01d):** Stress-test your roadmap against macro industry trends and technological shifts (Due Week 5).
-5. **Step 5 (01e):** Review how AI assisted (or challenged) your process and document your methodology (Due Week 5).
+4. **Step 4 (01d):** Use AI to interrogate your current strategy and speculate on possible career trajectories (Due Week 5).
+5. **Step 5 (01e):** Stress-test your roadmap against macro industry trends and technological shifts (Due Week 6).
 
 ---
 

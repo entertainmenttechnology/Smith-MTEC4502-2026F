@@ -71,5 +71,3 @@ Keep the working files and links in your personal course workspace. Cite every e
 ## How this work will be assessed
 
 Assessment will consider the quality of your evidence and source tracing; how specifically you questioned and corrected the AI; whether your scenarios differ meaningfully and disclose their assumptions; the care you took in checking a consequential claim; and the reasoning behind your revision or decision to retain your strategy. The number of prompts, enthusiasm for AI, and agreement with its suggestions are not measures of quality.
-
-**Instructor note before repository publication:** The current Assignment 1 master overview still labels 1d as Future Modeling and 1e as AI Reflection. Update that sequence and its links to place this assignment at 1d and the fuller Future of Work analysis after the next lecture. Do not publish contradictory links to students.

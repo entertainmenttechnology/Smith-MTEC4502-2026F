@@ -7,12 +7,13 @@ This repository is your working space for developing a career strategy, research
 
 You are currently working on:
 
-1. [**Assignment 1c - Integrating Visualization into Your Career Strategy**](assignments/01c_Integrating_Visualization.md) - Analyze job-site usefulness for your career identity and create a SWOT analysis and Skills-Gap Radar chart from your Part 1b research.
+1. [**Assignment 1d - AI Collaboration and Career Futures**](assignments/01d_AI_Collaboration_and_Career_Futures.md) - Use AI to interrogate your current career strategy, speculate on two distinct career trajectories, and critically evaluate the collaboration.
 2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
 
 <details>
   <summary>Past Assignments and Resources</summary>
 
+- [Assignment 1c - Integrating Visualization into Your Career Strategy](assignments/01c_Integrating_Visualization.md)
 - [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
 - [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)
 - [Assignment 00 - Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md)

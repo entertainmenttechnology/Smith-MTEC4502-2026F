@@ -1,16 +1,16 @@
-# Assignment 1d: Future Modeling, Advanced Visualization, and Adaptive Planning
+# Assignment 1e: Future Modeling, Advanced Visualization, and Adaptive Planning
 
 **Course:** MTEC 4502 – Career and Portfolio Seminar  
 **Instructor:** Dr. David B. Smith  
-**Due:** Week 5  
+**Due:** Week 6  
 
 ---
 
 ## Overview
 
-This assignment is the direct continuation of **Assignment 1c (Integrating Visualization)**. 
+This assignment continues from **Assignment 1d (AI Collaboration and Career Futures)** and revisits the visual map you first built in **Assignment 1c (Integrating Visualization)**.
 
-While 1c established your initial visual map, 1d subjects your entire career framework to a **Future of Work Stress Test**. You will ground your planning in macro-level industry projections, refine your visualization, and integrate citations into our shared Zotero library.
+While 1c established your initial visual map and 1d stress-tested your strategy through AI collaboration, 1e subjects your entire career framework to a **Future of Work Stress Test**. You will ground your planning in macro-level industry projections, refine your visualization, and integrate citations into our shared Zotero library.
 
 ---
 

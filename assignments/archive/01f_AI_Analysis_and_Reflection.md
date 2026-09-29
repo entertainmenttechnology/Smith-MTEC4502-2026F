@@ -1,14 +1,16 @@
-# Assignment 1e: AI Collaboration Analysis & Critical Reflection
+> **Retired — not active coursework.** Per the instructor's statement in the [2026-09-23 class session](../../course-materials/Session_Notes/2026-09-23_zoom_summary.md), Assignment 1f is obsolete; its purpose is covered by Assignment 1d (AI Collaboration and Career Futures). Kept here for reference only.
+
+# Assignment 1f: AI Collaboration Analysis & Critical Reflection
 
 **Course:** MTEC 4502 – Career and Portfolio Seminar  
 **Instructor:** Dr. David B. Smith  
-**Due:** Week 5  
+**Due:** Week 6  
 
 ---
 
 ## Objective
 
-Evaluate how Artificial Intelligence (AI) tools were integrated as collaborative partners across the research, ideation, drafting, and visualization stages of Assignment 1. The goal is to critically assess AI-generated output, identify limitations or hallucinations, and document your methodology while maintaining full authorial integrity.
+Evaluate how Artificial Intelligence (AI) tools were integrated as collaborative partners across the research, ideation, drafting, and visualization stages of Assignment 1 as a whole (1a–1e). This is a cumulative reflection, distinct from the specific AI exchange documented in Assignment 1d. The goal is to critically assess AI-generated output, identify limitations or hallucinations, and document your methodology while maintaining full authorial integrity.
 
 ---
 

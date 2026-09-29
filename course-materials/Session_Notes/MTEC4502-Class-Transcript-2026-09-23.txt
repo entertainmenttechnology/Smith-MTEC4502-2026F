@@ -1,0 +1,3776 @@
+
+MTEC4502 Class Transcript
+2026-09-24
+
+
+
+WEBVTT
+
+00:09:56.000 --> 00:09:59.000
+David Smith: We'll be back.
+
+00:09:59.000 --> 00:10:07.000
+David Smith: Hi. What week is this? Is this week 4? This is week 4. And we're online? And we are online. Yes. Feel free, John, wherever you want to set up.
+
+00:10:08.000 --> 00:10:11.000
+David Smith: I just when I got lunch.
+
+00:10:11.000 --> 00:10:17.000
+David Smith: Well, get lunch. You can eat while we're doing it. I don't… I'm not one of those kinds of people.
+
+00:10:20.000 --> 00:10:28.000
+David Smith: Okay. So hi, August. I know Gabriel's gonna be here online because I saw him, and he realized he was heading home.
+
+00:10:28.000 --> 00:10:38.000
+David Smith: and I guess we'll wait a few more minutes. We should. We should try to get a a little bit more of a.
+
+00:10:35.000 --> 00:10:36.000
+August Snyder: Okay.
+
+00:10:38.000 --> 00:10:39.000
+David Smith: Of a… of a group.
+
+00:10:40.000 --> 00:10:58.000
+David Smith: But, you know, just moving forward, I'll just give you the basic is that what I want to do today is that we did a little bit of visualization. I'm going to ask each student to sort of show their visual chart or whatever it is, no matter how turgid, even if it's like a crayon that they did a second before they present, they need to show something.
+
+00:10:58.000 --> 00:11:02.000
+David Smith: I'm sure you have something and, you're muted.
+
+00:11:02.000 --> 00:11:07.000
+August Snyder: Yeah, I have a little bit. Yeah, nothing crazy, but yeah.
+
+00:11:04.000 --> 00:11:19.000
+David Smith: Yeah, it's just a little right now. I mean, the idea is just let's start thinking visually as well as textually. You know, we have different communication modalities. Let's use them. And then what we'll do is we'll do a little bit of a speculation about how do we turn our sort of.
+
+00:11:19.000 --> 00:11:20.000
+David Smith: Um, so…
+
+00:11:20.000 --> 00:11:35.000
+David Smith: SWOT analysis or our ability to come up with some gap analysis into actionable actions. So then we do that and then we're going to talk a little bit about the use of AI. That's that's the next layer up. Hi John. And then.
+
+00:11:35.000 --> 00:11:37.000
+David Smith: And then, um…
+
+00:11:38.000 --> 00:11:54.000
+David Smith: And then we do the next part, 1.D, send you off and we're getting close. Next week is week five that by this point we should have completed our strategic roadmap, which is never done.
+
+00:11:54.000 --> 00:12:02.000
+David Smith: We'll continue to refine it, but enough that we have plans. And then… Hey there! Hey, JJ! And then, um…
+
+00:12:02.000 --> 00:12:15.000
+David Smith: and then we will. And then but then we start to move into the world of portfolios, cover letters, resumes, and things like that. So that will be the bulk of the class.
+
+00:12:15.000 --> 00:12:21.000
+David Smith: And I see that I think I now have critical mass, so let me…
+
+00:12:21.000 --> 00:12:22.000
+David Smith: Um…
+
+00:12:22.000 --> 00:12:25.000
+David Smith: Let me identify…
+
+00:12:25.000 --> 00:12:27.000
+David Smith: Yeah, here we are.
+
+00:12:27.000 --> 00:12:47.000
+David Smith: And I guess I just have to run this slideshow. And I'm going to go back to Zoom. So I have a question because I get confused. I'm old, so I am allowed to get a little confused as long as I correct my confusion.
+
+00:12:47.000 --> 00:13:02.000
+David Smith: Um, is when we are doing our writing, so I'm asking you to speculate or something, each of you has an internal journal that you're using, or are we sharing a Google Doc? What are we, what are we doing in this class?
+
+00:13:07.000 --> 00:13:09.000
+David Smith: Do we remember?
+
+00:13:10.000 --> 00:13:15.000
+Gabriel Aguilar: I don't believe I have a Google Doc. I don't believe. I have a Google Doc.
+
+00:13:13.000 --> 00:13:26.000
+David Smith: your… your own Google Doc to keep to… as we do these, like, little thought experiments and exercises, everybody is writing into a share… their shared journal, or whatever we want to call it, yes? Is that the case?
+
+00:13:28.000 --> 00:13:29.000
+David Smith: Or is it?
+
+00:13:28.000 --> 00:13:32.000
+JJ Liriano: Yeah, I'm writing into my own document, like my own pages.
+
+00:13:30.000 --> 00:13:45.000
+David Smith: It's your own document. That was my question because I think my other class in 3501, and you've seen it. You were in my 3501, August and Gabriel and Riccardi, is that I sometimes have shared Google Docs. And I just had a brain fart here.
+
+00:13:33.000 --> 00:13:35.000
+Gabriel Aguilar: But…
+
+00:13:33.000 --> 00:13:35.000
+JJ Liriano: Yeah.
+
+00:13:45.000 --> 00:13:46.000
+David Smith: That's what…
+
+00:13:48.000 --> 00:13:50.000
+David Smith: Yeah, yeah.
+
+00:13:51.000 --> 00:14:05.000
+David Smith: Perfect. Okay. Yeah. Because that's what I want. I will have a couple of provocation questions during this particular activity in which I'm going to ask you to write into your personal journal. And of course.
+
+00:14:05.000 --> 00:14:16.000
+David Smith: you are allowed to extract this or use it for other things, but I just wanted to make sure that that's the case, and that I… and you're not saying, where's the Google Doc? Okay, so let me share my screen.
+
+00:14:20.000 --> 00:14:23.000
+David Smith: Yeah, okay. There we go. Sharing.
+
+00:14:23.000 --> 00:14:26.000
+David Smith: I think I just share this, yes?
+
+00:14:26.000 --> 00:14:28.000
+David Smith: Let's find out.
+
+00:14:31.000 --> 00:14:33.000
+David Smith: And…
+
+00:14:33.000 --> 00:14:35.000
+David Smith: Let me get this out of the way.
+
+00:14:35.000 --> 00:14:45.000
+David Smith: Okay, so can you see my, uh, my purple week 4 career strategy and dialogue, right? That's what we're seeing, I just want to make sure. Okay.
+
+00:14:45.000 --> 00:14:54.000
+David Smith: So as I had, as we had worked last week, we had done just a little bit with visualization.
+
+00:14:54.000 --> 00:15:05.000
+David Smith: And also the idea that we are starting to analyze our capabilities against.
+
+00:15:05.000 --> 00:15:25.000
+David Smith: those that the industry actually wants. And so that's sort of what we were doing in this last area. We have this one, uh, point… I mean, this one point C, that's sort of the assignment for today. I guess I need to up… to create the upload place into Brightspace for that, uh, to go, so I'll do that, uh, during the class.
+
+00:15:25.000 --> 00:15:42.000
+David Smith: And what we want to do then is I want to start with a little bit of sharing. So we will go around the class. Each of you, I'll engage share screens. Each of you will share your screen with one visualization.
+
+00:15:42.000 --> 00:15:59.000
+David Smith: that you have come up with in the last week, and then I want you to sort of describe. Did you learn anything, or I learned nothing, or it it it corroborated my thinking, or I learned something completely different. I don't know whatever it is.
+
+00:15:59.000 --> 00:16:18.000
+David Smith: And, um, and then what I want is, uh, for each student, uh, for the moment, I have to think this out, I want to get students' feedback, uh, when other people examine the model. So let's do it this way. You're going to show your visualization.
+
+00:16:18.000 --> 00:16:35.000
+David Smith: We'll give students — that's all of you. We'll give each of you 30 seconds just to write down what do you think this visualization means and what information is it providing. And then that person will describe what they think it's showing and providing.
+
+00:16:35.000 --> 00:16:42.000
+David Smith: And then we'll have a little feedback. And we'll just go around the class on this particular one.
+
+00:16:42.000 --> 00:16:46.000
+David Smith: So, uh, yeah, pull up.
+
+00:16:52.000 --> 00:17:06.000
+David Smith: So, uh… yeah, so that is what I want to do at the beginning. Is… any questions on that? Is everyone should just be prepared to have your one image, you're going to show the image.
+
+00:17:06.000 --> 00:17:21.000
+David Smith: We're going to everyone is going to write silently into their journal for 30 seconds saying, what what did they get? And I'm really interested in first impressions, things that are confusing, and then we'll open it up. I'll have.
+
+00:17:21.000 --> 00:17:32.000
+David Smith: that particular person describe what they think it is, and then a real quick roundtable for suggestions, ideas, etc, in terms of how we might improve it.
+
+00:17:32.000 --> 00:17:41.000
+David Smith: And that will be the first part. And then we'll go into our next areas, which is analysis, right? We're moving now into analysis.
+
+00:17:41.000 --> 00:17:57.000
+David Smith: Sort of, we've done our speculation. Then we did our research, and then we did some SWOT. So we did analysis. Oh, and now we're strategizing. Now, with our analysis, we need to design. We need to create a plan.
+
+00:17:57.000 --> 00:18:02.000
+David Smith: That's sort of our goal, the strategic development plan. Okay, any questions?
+
+00:18:03.000 --> 00:18:18.000
+David Smith: Okay, so what I'm going to do then is I'm just going to do this. I'm going to start from the top and work my way down. Let me stop my share. Let me allow other people to share. And the person on the top of my screen is Gabriel.
+
+00:18:18.000 --> 00:18:21.000
+David Smith: Let's see. Let me…
+
+00:18:21.000 --> 00:18:25.000
+David Smith: Who can share? All participants.
+
+00:18:25.000 --> 00:18:27.000
+David Smith: Thank you.
+
+00:18:27.000 --> 00:18:40.000
+David Smith: Okay, so here's the rule. Gabriel, I'm sure, listens and responds very well. He's going to show you something, he's not going to say a thing, and you're going to write about it. So just show the one visual image, whatever you want to use.
+
+00:18:41.000 --> 00:18:46.000
+David Smith: Okay. Everybody, right, 30 seconds. What do you see?
+
+00:18:46.000 --> 00:18:48.000
+David Smith: Does it make sense?
+
+00:19:19.000 --> 00:19:23.000
+David Smith: Okay, that was 30 seconds. Um…
+
+00:19:23.000 --> 00:19:31.000
+David Smith: What did I say? And I was going to have people say what they think or that you're going to talk first. I think I said you're going to talk first, right?
+
+00:19:34.000 --> 00:19:35.000
+David Smith: Okay.
+
+00:19:59.000 --> 00:20:01.000
+Gabriel Aguilar: Copy down links from, like.
+
+00:20:02.000 --> 00:20:04.000
+Gabriel Aguilar: I had… I basically had…
+
+00:20:08.000 --> 00:20:24.000
+David Smith: What does the chart, what is the chart telling us? I don't care about process right now. I just want to know what do you think the chart is describing to the person that's looking at the chart? And then we're going to see how closely people feel that you did it or where we might be able to.
+
+00:20:24.000 --> 00:20:27.000
+David Smith: Improve or disprove or whatever.
+
+00:20:33.000 --> 00:20:37.000
+Gabriel Aguilar: skills I need in order to fulfill the requirements for certain jobs.
+
+00:20:37.000 --> 00:20:39.000
+Gabriel Aguilar: And…
+
+00:20:39.000 --> 00:20:44.000
+Gabriel Aguilar: the comparison between two different routes that I can go down.
+
+00:20:44.000 --> 00:20:45.000
+David Smith: Mm-hmm.
+
+00:20:48.000 --> 00:20:51.000
+David Smith: Okay, what do people see? What do you see?
+
+00:20:51.000 --> 00:20:54.000
+David Smith: Other people, you can just jump in.
+
+00:20:56.000 --> 00:20:58.000
+JJ Liriano: I can say something then.
+
+00:20:58.000 --> 00:20:59.000
+David Smith: Go ahead.
+
+00:20:58.000 --> 00:21:01.000
+JJ Liriano: Um, I see that…
+
+00:21:01.000 --> 00:21:06.000
+JJ Liriano: A lot of the bulk is good. A lot of the bulky, um…
+
+00:21:06.000 --> 00:21:11.000
+JJ Liriano: He acquired. There's just like some certain places where like needs to like just sharpen.
+
+00:21:11.000 --> 00:21:12.000
+JJ Liriano: is.
+
+00:21:12.000 --> 00:21:18.000
+JJ Liriano: is learning at for like the the target creative and the target theater parts.
+
+00:21:18.000 --> 00:21:19.000
+JJ Liriano: Which is good.
+
+00:21:19.000 --> 00:21:20.000
+JJ Liriano: That's it.
+
+00:21:24.000 --> 00:21:26.000
+David Smith: Anyone else?
+
+00:21:32.000 --> 00:21:37.000
+David Smith: What about the difference between… we actually have two visualizations on this, right?
+
+00:21:38.000 --> 00:21:43.000
+David Smith: Um, and we can certainly see where they are, um…
+
+00:21:43.000 --> 00:21:53.000
+David Smith: uh, related to. I'm assuming on the right-hand side that negative is good or bad.
+
+00:21:54.000 --> 00:22:03.000
+David Smith: So negative is bad, because you say negative equals surplus, or negative minus… what is… what does that mean at the bottom? Negative…
+
+00:22:04.000 --> 00:22:06.000
+David Smith: Equals surplus.
+
+00:22:07.000 --> 00:22:10.000
+Gabriel Aguilar: Uh, I don't know what that means.
+
+00:22:09.000 --> 00:22:14.000
+David Smith: Okay, so you need to be able to describe everything that's on your chart, no matter how you…
+
+00:22:10.000 --> 00:22:11.000
+Gabriel Aguilar: Yeah.
+
+00:22:12.000 --> 00:22:15.000
+Gabriel Aguilar: Yeah, I think I'm gonna have it delete the second chart.
+
+00:22:15.000 --> 00:22:31.000
+David Smith: Yeah, and you know what you can do, what I've discovered works really well. Depending on your bot, you just tell it to put it into vector graphics or an eight-dot illustrator or Canva or Draw.
+
+00:22:31.000 --> 00:22:37.000
+David Smith: IO or something, and you just tell it, put it into that, and then you can, then you can work on it yourself, you know.
+
+00:22:36.000 --> 00:22:37.000
+Gabriel Aguilar: Yeah.
+
+00:22:37.000 --> 00:22:39.000
+David Smith: Um.
+
+00:22:38.000 --> 00:22:43.000
+Gabriel Aguilar: But the one on the left is what I asked for. I thought it was interesting.
+
+00:22:41.000 --> 00:22:52.000
+David Smith: It looks really good. It definitely demonstrates. I'm assuming that you understand that the data are correct underneath.
+
+00:22:51.000 --> 00:22:53.000
+Gabriel Aguilar: Yeah.
+
+00:22:52.000 --> 00:22:59.000
+David Smith: Yeah, OK. And what is this telling you? Is this telling you like that? What is it telling you? I just want to know.
+
+00:22:58.000 --> 00:23:06.000
+Gabriel Aguilar: Um, I think that it's telling me I'm more aligned with a creative tech agency at the moment.
+
+00:23:05.000 --> 00:23:07.000
+David Smith: Mm-hmm.
+
+00:23:06.000 --> 00:23:09.000
+Gabriel Aguilar: Um, being part of a larger project, rather than…
+
+00:23:09.000 --> 00:23:23.000
+Gabriel Aguilar: um, being responsible for the safety of others. I think it's kind of… you know, I think my skill gaps kind of lie in safety, and not necessarily in ability to…
+
+00:23:28.000 --> 00:23:33.000
+David Smith: And that's what you're seeing with this rigging and safety certification, right?
+
+00:23:54.000 --> 00:23:57.000
+Gabriel Aguilar: Just general, like, workplace values.
+
+00:23:57.000 --> 00:23:58.000
+David Smith: Yeah.
+
+00:23:58.000 --> 00:24:07.000
+David Smith: Okay, um, yeah, okay, and I see the tar… okay, I see that this is a mapping of…
+
+00:24:08.000 --> 00:24:13.000
+David Smith: The blue is what you currently consider your skill level to be.
+
+00:24:12.000 --> 00:24:26.000
+Gabriel Aguilar: Yeah, I think it's a little bit inflated in some areas. I think I'll, I mean, I quizzed myself and then I looked at it and was like, I don't know. You know, like, you know, once I saw the visual, I was like, you know.
+
+00:24:13.000 --> 00:24:14.000
+David Smith: It.
+
+00:24:26.000 --> 00:24:29.000
+Gabriel Aguilar: But I also think that…
+
+00:24:26.000 --> 00:24:41.000
+David Smith: You know, in my mind, it's always better to underestimate your skills than to overestimate your skills. It's better to say, oh, I don't know enough about this, take an additional course, and then find out actually you knew more than anybody at the business anyway. It's just safer.
+
+00:24:33.000 --> 00:24:34.000
+Gabriel Aguilar: Yes.
+
+00:24:41.000 --> 00:24:56.000
+David Smith: Um, and you can always… repetition is amazing as a learning tool. Just keep doing it, keep doing it, do it, do it again, do it again, and you get better! I mean, that's just sort of the way we are built up.
+
+00:24:56.000 --> 00:25:01.000
+David Smith: So, I noticed also that, um, on the…
+
+00:25:01.000 --> 00:25:10.000
+David Smith: Um, on the right-hand side, that it's clear that there are areas where.
+
+00:25:11.000 --> 00:25:23.000
+David Smith: Additional certification or study would help either career path. So there's some stuff in here that we can start to take a look at in terms of prioritization, et cetera, et cetera, et cetera.
+
+00:25:22.000 --> 00:25:28.000
+Gabriel Aguilar: Yeah, and I do get the chart now. The chart on the right is saying that, effectively, like.
+
+00:25:28.000 --> 00:25:30.000
+Gabriel Aguilar: Um, I…
+
+00:25:30.000 --> 00:25:38.000
+Gabriel Aguilar: If I don't have it on the right, it is bad. And if I do have it on the left, it is good.
+
+00:25:41.000 --> 00:25:43.000
+Gabriel Aguilar: And then comparing…
+
+00:25:41.000 --> 00:25:47.000
+David Smith: But they will never have it on the right and the left. They're mutually exclusive, correct?
+
+00:25:47.000 --> 00:25:49.000
+David Smith: Um…
+
+00:25:49.000 --> 00:25:52.000
+David Smith: So, it looks to me that…
+
+00:25:52.000 --> 00:25:57.000
+David Smith: To the right is bad. The negatives are better. Is that not true?
+
+00:25:59.000 --> 00:26:07.000
+David Smith: Because I'm just looking at safety certification, and you just said that's the thing I know nothing on, and yet it's off to the right to 3.
+
+00:26:10.000 --> 00:26:11.000
+David Smith: Yep.
+
+00:26:15.000 --> 00:26:16.000
+David Smith: Sorry.
+
+00:26:17.000 --> 00:26:29.000
+David Smith: Right. What's interesting to me also on this chart, and then we'll go to the next person, is that you don't have anything that's right in the middle. There is no thing saying you meet but do not exceed expectations, and that seems interesting to me for some reason.
+
+00:26:29.000 --> 00:26:30.000
+Gabriel Aguilar: Yeah.
+
+00:26:29.000 --> 00:26:32.000
+David Smith: What's the zero? There are no zeros.
+
+00:26:32.000 --> 00:26:35.000
+David Smith: Um, so…
+
+00:26:35.000 --> 00:26:50.000
+David Smith: But but otherwise, you know, it it looks to me like this is a very valuable I mean, it looks valuable to me. That's all I'm going to say for the moment. We'll look, you know, I'll look more deeply and we'll continue to do this. And I see you also have other types of charts and things that were in your.
+
+00:26:50.000 --> 00:26:55.000
+David Smith: paper that are also visualization. But this, of course, is the most visual looking.
+
+00:26:55.000 --> 00:27:01.000
+David Smith: Okay, any others, any other comments, statements, or anything on…
+
+00:27:01.000 --> 00:27:02.000
+David Smith: And this.
+
+00:27:05.000 --> 00:27:13.000
+David Smith: If not. then let's go to the next person, because I don't want to spend too much time on this. Jj, you're next on my list.
+
+00:27:14.000 --> 00:27:17.000
+JJ Liriano: Wait, Alicia, are you sure?
+
+00:27:20.000 --> 00:27:23.000
+JJ Liriano: Are you sure it's free? Okay.
+
+00:27:26.000 --> 00:27:28.000
+JJ Liriano: Can you hear me?
+
+00:27:27.000 --> 00:27:30.000
+David Smith: Hello, I don't see…
+
+00:27:29.000 --> 00:27:37.000
+Gabriel Aguilar: It's at the bottom of the bar, uh, near where you can, like, at the bottom there's, like, chat, react, share…
+
+00:27:33.000 --> 00:27:35.000
+JJ Liriano: To share?
+
+00:27:35.000 --> 00:27:37.000
+David Smith: Yeah, hit share.
+
+00:27:39.000 --> 00:27:41.000
+JJ Liriano: Okay, I think I see, okay.
+
+00:27:41.000 --> 00:27:43.000
+JJ Liriano: Okay, let me get it up then.
+
+00:27:55.000 --> 00:27:57.000
+JJ Liriano: Okay, I think I'm good.
+
+00:27:55.000 --> 00:27:57.000
+David Smith: Hey!
+
+00:27:58.000 --> 00:28:08.000
+David Smith: OK, so for the first 30 seconds, everybody look at it and tell me, what do you learn from this? Just write down stream of consciousness every bit of the way.
+
+00:28:54.000 --> 00:29:03.000
+David Smith: Okay, so that was enough. What did I do? I had people comment first, right? That's what I did.
+
+00:29:03.000 --> 00:29:06.000
+David Smith: Um, and…
+
+00:29:06.000 --> 00:29:10.000
+David Smith: Was it JJ or Riccardi who commented last time?
+
+00:29:13.000 --> 00:29:15.000
+JJ Liriano: Uh, on Gabriel's?
+
+00:29:15.000 --> 00:29:17.000
+David Smith: Yeah, on Gabriel's.
+
+00:29:17.000 --> 00:29:20.000
+JJ Liriano: I know I sent a comment.
+
+00:29:20.000 --> 00:29:23.000
+JJ Liriano: Vocally, like audio.
+
+00:29:21.000 --> 00:29:24.000
+David Smith: Yeah, yeah, yeah, okay. Um…
+
+00:29:26.000 --> 00:29:37.000
+David Smith: Okay, so, uh, let's see. Anyone want to say what do… I mean, this is yours, JJ, so you can't… I mean, yeah. So, uh…
+
+00:29:38.000 --> 00:29:42.000
+David Smith: Uh… comments? What do we see?
+
+00:29:46.000 --> 00:29:47.000
+Gabriel Aguilar: I saw that you…
+
+00:29:48.000 --> 00:29:53.000
+Gabriel Aguilar: placed your interpersonal skills as much higher than your.
+
+00:30:07.000 --> 00:30:09.000
+David Smith: Anyone else?
+
+00:30:18.000 --> 00:30:24.000
+David Smith: Okay, take it away, JJ. What did you do here? What do you see and what?
+
+00:30:24.000 --> 00:30:30.000
+David Smith: ideas does this give you? I mean, I know you wrote it on the left. I'm still expecting you to say something.
+
+00:30:34.000 --> 00:30:37.000
+JJ Liriano: Yeah, so, um, I tried sectioning it in, like.
+
+00:30:37.000 --> 00:30:46.000
+JJ Liriano: What I would need to know as soon as I look for careers, and as soon as I like, I level up in the career path.
+
+00:30:46.000 --> 00:30:50.000
+JJ Liriano: And I I so I have associate manager. So.
+
+00:30:50.000 --> 00:30:59.000
+JJ Liriano: I I compared myself to, you know, associate someone just starting, and it's obviously it's much closer than someone that's, like, a manager later on.
+
+00:30:59.000 --> 00:31:00.000
+David Smith: Mm-hmm.
+
+00:30:59.000 --> 00:31:04.000
+JJ Liriano: And I wanted to show, you know, the the stuff that.
+
+00:31:04.000 --> 00:31:09.000
+JJ Liriano: I have confidence, the stuff I need to work on, and the stuff that, like, it's me, regardless of where I go.
+
+00:31:09.000 --> 00:31:15.000
+JJ Liriano: So I I put in, you know, like stuff about me like communication problem solving. So that's 1 thing.
+
+00:31:15.000 --> 00:31:23.000
+JJ Liriano: That is who I am and will help out the places where I'm shorter at compared to like other things.
+
+00:31:23.000 --> 00:31:26.000
+JJ Liriano: Um, this one has, like…
+
+00:31:26.000 --> 00:31:34.000
+JJ Liriano: pretty much all like the technical stuff. I do have the creative part that I didn't add to this. But this is just like only for like.
+
+00:31:34.000 --> 00:31:37.000
+JJ Liriano: like the technical aspect of what I could do.
+
+00:31:38.000 --> 00:31:44.000
+David Smith: Right, and I mean, it could be… you could have many more, um, accesses on it.
+
+00:31:41.000 --> 00:31:43.000
+JJ Liriano: Yeah.
+
+00:31:43.000 --> 00:31:44.000
+JJ Liriano: It's like…
+
+00:31:44.000 --> 00:31:46.000
+JJ Liriano: Yeah. It's, like, really focused, this graph.
+
+00:31:44.000 --> 00:31:46.000
+David Smith: Um, also…
+
+00:31:46.000 --> 00:31:56.000
+David Smith: You can also do separate charts. One's a soft skills, and one's a hard skills. One's software, one's hardware. You know, sometimes, uh, those reveal as well.
+
+00:31:56.000 --> 00:31:58.000
+David Smith: I'm.
+
+00:31:58.000 --> 00:32:03.000
+David Smith: What I find interesting as well is that the JavaScript.
+
+00:32:03.000 --> 00:32:04.000
+David Smith: is…
+
+00:32:05.000 --> 00:32:13.000
+David Smith: the one that's… that the associate needs JavaScript more than the manager, in… in terms of your particular analysis.
+
+00:32:14.000 --> 00:32:16.000
+David Smith: Yeah.
+
+00:32:18.000 --> 00:32:19.000
+JJ Liriano: Uh, yeah.
+
+00:32:19.000 --> 00:32:21.000
+JJ Liriano: I guess it's like…
+
+00:32:21.000 --> 00:32:26.000
+JJ Liriano: I'm assuming that like Javascript is one of those things where it's like.
+
+00:32:26.000 --> 00:32:35.000
+JJ Liriano: Once you hit a certain level, you're maybe just looking over other people's JavaScript and making sure the whole general project is good.
+
+00:32:36.000 --> 00:32:40.000
+JJ Liriano: That's what I assumed when I saw this graphic meeting.
+
+00:32:39.000 --> 00:32:43.000
+David Smith: Maybe, but then I'm curious why HTML, CS, is the opposite.
+
+00:32:46.000 --> 00:32:56.000
+David Smith: Because to me, what I'm seeing, this is what I'm seeing. I'm seeing over on this side. I don't know if people can see me. Well, I can do this. Here we go. I'm seeing over on. Boy, that was horrible.
+
+00:32:56.000 --> 00:32:58.000
+David Smith: Let me get rid of that.
+
+00:32:58.000 --> 00:33:04.000
+David Smith: I'm seeing… here we go. I'm seeing soft skills here.
+
+00:33:04.000 --> 00:33:10.000
+David Smith: I'm seeing a little bit of soft skill, but some industry technical stuff.
+
+00:33:04.000 --> 00:33:05.000
+JJ Liriano: Yeah. Okay.
+
+00:33:10.000 --> 00:33:20.000
+David Smith: I'm seeing sort of domain areas. I mean, maybe not react so much. And then I'm seeing languages.
+
+00:33:20.000 --> 00:33:23.000
+David Smith: Right? Those are sort of… sort of…
+
+00:33:23.000 --> 00:33:33.000
+David Smith: And, you know, GitHub should, you know, who knows? I mean, this should probably be version control, but this is what was showing up. They were saying they wanted to see GitHub experience.
+
+00:33:33.000 --> 00:33:35.000
+David Smith: In the advertisements?
+
+00:33:35.000 --> 00:33:46.000
+JJ Liriano: Oh, yeah, a lot of them just wanted like, yeah, to Github, because it's a lot of companies wanted you to like, be able to like, show and share what you have with everyone else.
+
+00:33:39.000 --> 00:33:40.000
+David Smith: Yep.
+
+00:33:43.000 --> 00:33:45.000
+David Smith: Yep.
+
+00:33:46.000 --> 00:33:51.000
+David Smith: Yeah, I mean, clearly, GitHub is an incredibly important, uh…
+
+00:33:51.000 --> 00:33:57.000
+David Smith: competency that anyone getting into software development needs to have.
+
+00:33:57.000 --> 00:34:16.000
+David Smith: There are other version control systems, of course, there are other ways of doing stuff, but GitHub is by far the largest embedded base, and so that becomes useful. The idea about database, SQL is a query language, structured query language is what it stands for.
+
+00:34:16.000 --> 00:34:26.000
+David Smith: Um, I don't think of it as much of a language… well, I mean, I don't think of it as much as a language as a table of, um…
+
+00:34:26.000 --> 00:34:40.000
+David Smith: different types of commands, so I guess it is a language. But there's more to it that's under the hood. Database is incredibly important. Of course, backend, since you wanted to do… that was horrible… since you want to do full stack.
+
+00:34:40.000 --> 00:34:49.000
+David Smith: You know, you need back end, you need front end. What I don't see, if you're doing full stack, you are doing full stack, right? That was your idea.
+
+00:34:51.000 --> 00:34:56.000
+David Smith: Is that right? Yeah. I don't see design components.
+
+00:34:51.000 --> 00:34:54.000
+JJ Liriano: Yeah. Yeah.
+
+00:34:56.000 --> 00:35:04.000
+JJ Liriano: Yeah, I kind of left out design component. I kind of focused just more on like the technical aspect just to see where I was at.
+
+00:35:03.000 --> 00:35:21.000
+David Smith: Yeah, yeah, it could be. I'm just… I'm just making comments out here, because full stack implies that you can do the whole thing yourself, um, and that means that you have at least rudimentary design, which means that probably you need to add productivity suite, like Adobe or, you know, other…
+
+00:35:10.000 --> 00:35:11.000
+JJ Liriano: Yeah.
+
+00:35:21.000 --> 00:35:26.000
+David Smith: Other things like that to fit that particular sort of equation.
+
+00:35:23.000 --> 00:35:24.000
+JJ Liriano: Yeah.
+
+00:35:26.000 --> 00:35:27.000
+David Smith: But.
+
+00:35:28.000 --> 00:35:42.000
+David Smith: Yeah, good. Okay, well, this is good. I'm very encouraged. Let me get rid of this, and then I am moving on, because, as I said, I just want. I don't. I don't want to spend too much time on this particular activity. We'll take a deeper look. The next person on my list is Ricardi.
+
+00:36:02.000 --> 00:36:04.000
+Ricardi Riche: Okay, can you guys see this?
+
+00:36:03.000 --> 00:36:08.000
+David Smith: Yes, don't say anything. 30 seconds. Everybody right.
+
+00:36:08.000 --> 00:36:10.000
+David Smith: What do you see?
+
+00:36:39.000 --> 00:36:53.000
+David Smith: Okay, comments. Anderson, I'm going to call you out. What do you see? What do you think you're seeing here? What is this visualization telling you about this person, which is Riccardi, of course?
+
+00:36:51.000 --> 00:37:13.000
+Anderson Tenecela: Um, that, um, when it comes to experience in, like, you know, like, modeling and art and concept, like, it's pretty good. Um, the technical art is something that needs to be worked on a little bit, um, same with rigging, so it's like, um, there's some aspects of modeling that, that…
+
+00:37:13.000 --> 00:37:18.000
+Anderson Tenecela: Where the target is basically there, but there's stuff where it also needs improvement as well.
+
+00:37:17.000 --> 00:37:19.000
+David Smith: Mm-hmm.
+
+00:37:19.000 --> 00:37:21.000
+David Smith: Okay.
+
+00:37:20.000 --> 00:37:21.000
+Anderson Tenecela: I'm not about to go.
+
+00:37:21.000 --> 00:37:23.000
+David Smith: Um, anyone else?
+
+00:37:28.000 --> 00:37:33.000
+David Smith: Yeah, so I'll just throw a couple things in here. Uh, one…
+
+00:37:33.000 --> 00:37:48.000
+David Smith: on the chart, you should say what the… what the discipline or what the job title is somewhere. It doesn't say it. I mean, I can intuit, and I know what you want to do, so I know what it is, but you're not saying, like, you know, uh…
+
+00:37:48.000 --> 00:37:52.000
+David Smith: 3D Immersive Artist, or whatever, whatever your, um…
+
+00:37:52.000 --> 00:37:53.000
+David Smith: You're.
+
+00:37:53.000 --> 00:37:56.000
+David Smith: Your title is, uh, for this.
+
+00:37:56.000 --> 00:38:04.000
+David Smith: And what I'm looking at then is this is a specific application.
+
+00:38:04.000 --> 00:38:16.000
+David Smith: that is really sort of part of 3D modeling, yes? I mean, Blender is one of many environments, so it's not surprising that these are so similar to each other.
+
+00:38:08.000 --> 00:38:10.000
+Ricardi Riche: Oh, yeah.
+
+00:38:16.000 --> 00:38:27.000
+David Smith: Um, and I'm interested in why 3D modeling is slightly more than the blender. I would… it would be interesting just to see how…
+
+00:38:27.000 --> 00:38:29.000
+David Smith: How that worked.
+
+00:38:29.000 --> 00:38:31.000
+David Smith: And then…
+
+00:38:32.000 --> 00:38:37.000
+David Smith: Animation and rigging.
+
+00:38:37.000 --> 00:38:41.000
+David Smith: are two components of 3D modeling as well, right?
+
+00:38:41.000 --> 00:38:43.000
+David Smith: And, uh…
+
+00:38:43.000 --> 00:38:45.000
+David Smith: And then…
+
+00:38:46.000 --> 00:38:52.000
+David Smith: What do you mean when you say concept art versus environment art?
+
+00:38:55.000 --> 00:38:58.000
+Ricardi Riche: Um, when I say, um…
+
+00:38:58.000 --> 00:39:01.000
+Ricardi Riche: Concept and environment is like.
+
+00:39:01.000 --> 00:39:10.000
+Ricardi Riche: Um, I can… I can… I'm not very well with, like, um, like, drawing backgrounds and stuff like that for certain games, like 2D games, and…
+
+00:39:10.000 --> 00:39:11.000
+David Smith: Okay.
+
+00:39:10.000 --> 00:39:18.000
+Ricardi Riche: Some… some jobs would actually ask for that, for, like, environmental… environment artists, specifically.
+
+00:39:17.000 --> 00:39:22.000
+David Smith: Okay, so this is art doing backgrounds, basically.
+
+00:39:18.000 --> 00:39:21.000
+Ricardi Riche: which um I'm not yeah.
+
+00:39:21.000 --> 00:39:23.000
+Ricardi Riche: Yeah. Yeah.
+
+00:39:22.000 --> 00:39:32.000
+David Smith: Okay, and the concept is speculative art or conceptual art? You know, there's a… there's a difference. Conceptual art is its own thing.
+
+00:39:26.000 --> 00:39:29.000
+Ricardi Riche: Yeah, most mainly, yeah.
+
+00:39:47.000 --> 00:39:48.000
+David Smith: Mm-hmm.
+
+00:39:50.000 --> 00:39:58.000
+Ricardi Riche: I don't have it yet, but when it comes to 3D modeling, I understand what I need to do and how to get it done.
+
+00:39:58.000 --> 00:40:12.000
+David Smith: But you're giving yourself practically the same marks, right? That's you. And this is also you. They're under the four. Is that one, two, three, four? Yeah, they're under the four. So they're both like 3.6, 3.7.
+
+00:39:58.000 --> 00:40:00.000
+Ricardi Riche: Um…
+
+00:40:02.000 --> 00:40:04.000
+Ricardi Riche: Yeah.
+
+00:40:12.000 --> 00:40:23.000
+David Smith: it's the, uh… it's the target that has 3D modeling slightly more, but only a little bit. I mean, that's almost, like, just noise, you know?
+
+00:40:18.000 --> 00:40:19.000
+Ricardi Riche: more.
+
+00:40:23.000 --> 00:40:27.000
+David Smith: So it makes sense.
+
+00:40:28.000 --> 00:40:30.000
+David Smith: And, uh…
+
+00:40:31.000 --> 00:40:44.000
+David Smith: Yeah, and then this is the one soft skill, right? And I'm assuming that these are terms that come up in the advertisements, that's why they're here. So there were some that had Blender saying you have to work in Blender?
+
+00:40:39.000 --> 00:40:41.000
+Ricardi Riche: Yeah.
+
+00:40:44.000 --> 00:40:45.000
+Ricardi Riche: Yes.
+
+00:40:45.000 --> 00:40:46.000
+David Smith: Okay.
+
+00:40:48.000 --> 00:40:52.000
+David Smith: Okay, good. No, this is good. Yeah. Anything else you want to say.
+
+00:40:48.000 --> 00:40:51.000
+Ricardi Riche: Um, yeah, yeah.
+
+00:40:52.000 --> 00:40:55.000
+Ricardi Riche: Um, no, not really.
+
+00:40:55.000 --> 00:41:05.000
+Ricardi Riche: I do need to improve on my technical a lot more. I feel like this kind of helped me to see where I'm at.
+
+00:41:05.000 --> 00:41:06.000
+David Smith: Right.
+
+00:41:06.000 --> 00:41:13.000
+David Smith: Well, let me ask you, how do you… because we know that we can sort of arrive at…
+
+00:41:13.000 --> 00:41:31.000
+David Smith: um, the target by looking at advertisements and then counting the number of times that particular, um, jobs require a specific thing. That makes sense. How do you decide that you are not proficient in technical.
+
+00:41:31.000 --> 00:41:38.000
+David Smith: Um, but you are two levels higher in environmental.
+
+00:41:38.000 --> 00:41:46.000
+David Smith: I'm just and there's no wrong answer here. I'm just trying to figure out how you made the determinations about yourself.
+
+00:41:47.000 --> 00:41:58.000
+Ricardi Riche: Um, for that, um, because I tend to, I would say, sketch out, like, some environmental sometime, from time to time, so it just got, kind of, that's why I kind of…
+
+00:41:54.000 --> 00:41:56.000
+David Smith: Mm-hmm.
+
+00:41:58.000 --> 00:42:01.000
+Ricardi Riche: Had it a little bit higher on that.
+
+00:42:01.000 --> 00:42:03.000
+Ricardi Riche: Spectrum.
+
+00:42:02.000 --> 00:42:11.000
+David Smith: So you felt it. You feel that you're better at environmental art. Yeah, I mean, this is one of the things is that, um…
+
+00:42:04.000 --> 00:42:05.000
+Ricardi Riche: Yeah.
+
+00:42:12.000 --> 00:42:27.000
+David Smith: When you start to assess your skills in a particular area, it's probably useful to also identify a benchmark or some other way of being able to determine that you do meet particular thresholds.
+
+00:42:27.000 --> 00:42:35.000
+David Smith: So we'll talk more about that. That becomes part of the strategy guide anyway. But it's something to think about.
+
+00:42:35.000 --> 00:42:42.000
+David Smith: It's, to me, what's interesting also is you only really have one soft skill on here, is the communication.
+
+00:42:42.000 --> 00:42:54.000
+David Smith: So it may be useful also to sort of think, take a look at what other sorts of soft skills are being requested and see how you fit with that.
+
+00:42:54.000 --> 00:42:57.000
+David Smith: Um, otherwise, I think it looks pretty good.
+
+00:42:57.000 --> 00:42:59.000
+Ricardi Riche: Thank you.
+
+00:42:58.000 --> 00:43:01.000
+David Smith: Okay, so let me clear all this.
+
+00:43:01.000 --> 00:43:06.000
+David Smith: And, the next person is August.
+
+00:43:23.000 --> 00:43:24.000
+David Smith: Mm-hmm.
+
+00:43:29.000 --> 00:43:31.000
+David Smith: Yep, that's right. Don't say a thing.
+
+00:43:34.000 --> 00:43:37.000
+David Smith: 30 seconds. Everybody write.
+
+00:44:10.000 --> 00:44:12.000
+David Smith: Okay.
+
+00:44:12.000 --> 00:44:22.000
+David Smith: I think that's enough. Anyone want to pop in and say anything that comes to mind? What do you know about this person just from looking at this chart?
+
+00:44:23.000 --> 00:44:27.000
+JJ Liriano: It's a lot more hands-on rather than like in digital.
+
+00:44:28.000 --> 00:44:30.000
+David Smith: The hands-on stuff?
+
+00:44:30.000 --> 00:44:36.000
+JJ Liriano: Yeah, the whole thing seems more hands-on. You're working with your hands rather than a mouse and keyboard.
+
+00:44:36.000 --> 00:44:42.000
+David Smith: Yeah, the 3D modeling is probably mouse and keyboard, you know.
+
+00:44:39.000 --> 00:44:40.000
+JJ Liriano: Yeah.
+
+00:44:40.000 --> 00:44:41.000
+JJ Liriano: Yeah. Okay.
+
+00:44:42.000 --> 00:44:44.000
+JJ Liriano: Like, you're, you're… yeah.
+
+00:44:42.000 --> 00:44:53.000
+David Smith: Um, but yeah, I mean, yeah. And then Arduino, of course, is hardware embedded, and we know that August is interested in the embedded stuff, um, but there's some programming there as well.
+
+00:44:53.000 --> 00:44:57.000
+David Smith: But yeah, it looks to me that this is on the fabrication side.
+
+00:44:59.000 --> 00:45:02.000
+David Smith: Okay, August, tell me what you learned about yourself.
+
+00:45:02.000 --> 00:45:13.000
+August Snyder: Um, yeah, I mean, I think, you know, I don't know if… I don't think it's perfect. I think some things need to be adjusted in different levels, uh, but this is kind of just, like, looking at a couple jobs and seeing what they were, like, what they.
+
+00:45:08.000 --> 00:45:10.000
+David Smith: Mmhm.
+
+00:45:19.000 --> 00:45:20.000
+David Smith: Mmhm.
+
+00:45:30.000 --> 00:45:31.000
+David Smith: Mm-hmm.
+
+00:45:35.000 --> 00:45:37.000
+David Smith: Yeah. Yeah.
+
+00:45:38.000 --> 00:45:46.000
+David Smith: And I think overall it makes sense that if you're going in that direction, you want to develop competencies in a variety of different 3D modeling platforms.
+
+00:45:46.000 --> 00:45:52.000
+David Smith: Rhino is very popular, mostly in architecture, is where I see it more.
+
+00:45:49.000 --> 00:45:51.000
+August Snyder: Mm-hmm.
+
+00:45:52.000 --> 00:45:56.000
+David Smith: Another one. Have you ever done anything in SolidWorks?
+
+00:45:56.000 --> 00:45:59.000
+August Snyder: I have, yeah. I use SolidWorks, yeah.
+
+00:45:57.000 --> 00:45:58.000
+David Smith: Okay.
+
+00:45:58.000 --> 00:46:11.000
+David Smith: Because, I mean, I think that's important that you need both surface and solid modeling. And if you have both, then that's useful. And maybe you want to split the chart up a little bit more.
+
+00:46:10.000 --> 00:46:11.000
+August Snyder: Yep.
+
+00:46:11.000 --> 00:46:23.000
+David Smith: Or the idea of, you know, this is the large, um, uh, chart, having multiple charts in different particular areas, or, you know, soft skills versus hard skills. I'm repeating myself.
+
+00:46:23.000 --> 00:46:25.000
+David Smith: But, um…
+
+00:46:25.000 --> 00:46:40.000
+David Smith: Yeah, I note also that I see two different approaches, and perhaps that's because some of the other charts had multiple skill levels on the same chart. But in this case, I'm assuming, August, that.
+
+00:46:40.000 --> 00:46:47.000
+David Smith: Your chart is defined that this is the required competency level.
+
+00:46:51.000 --> 00:47:01.000
+August Snyder: like, said, oh, you have to be, like, oh, be able to do this certain amount of skill, so I didn't feel like there was a very specific thing. But yeah, I think, I think my, like, my ultimate goal would be to get all these skills to what I consider.
+
+00:47:01.000 --> 00:47:04.000
+August Snyder: the maximum, you know, you can always go higher. But.
+
+00:47:04.000 --> 00:47:06.000
+David Smith: Right, or even…
+
+00:47:04.000 --> 00:47:06.000
+August Snyder: But, yeah.
+
+00:47:06.000 --> 00:47:21.000
+David Smith: like that. You know, I mean, what we want to do is exceed competencies in multiple areas and meet competencies in every area and maybe not be quite as competent in one area. And that's it.
+
+00:47:07.000 --> 00:47:08.000
+August Snyder: Yeah.
+
+00:47:17.000 --> 00:47:18.000
+August Snyder: Yeah.
+
+00:47:21.000 --> 00:47:25.000
+David Smith: Right? Depending on the thing. Um.
+
+00:47:25.000 --> 00:47:33.000
+David Smith: Okay, good. So, uh… let's see… my next person is John.
+
+00:47:35.000 --> 00:47:41.000
+John Viernes: Yeah, really, really sorry, uh, but can we… can we do this all… all in, but…
+
+00:47:41.000 --> 00:47:43.000
+John Viernes: Can we talk privately?
+
+00:47:43.000 --> 00:47:47.000
+David Smith: Well, I mean, not during class. We can certainly talk privately.
+
+00:47:47.000 --> 00:47:48.000
+John Viernes: No.
+
+00:47:47.000 --> 00:47:49.000
+David Smith: Okay.
+
+00:47:48.000 --> 00:47:53.000
+John Viernes: I… I've been trying to get T-Meter to work for a while, but…
+
+00:47:53.000 --> 00:47:57.000
+David Smith: Which to work. I'm sorry. Which application are you using.
+
+00:47:53.000 --> 00:47:55.000
+John Viernes: Do you need female…
+
+00:47:56.000 --> 00:47:58.000
+John Viernes: Team meter.
+
+00:47:58.000 --> 00:47:59.000
+David Smith: Team?
+
+00:48:00.000 --> 00:48:02.000
+John Viernes: Thank you.
+
+00:48:02.000 --> 00:48:05.000
+David Smith: Say it again, I'm sorry.
+
+00:48:03.000 --> 00:48:06.000
+John Viernes: The one you showed us, like, last week.
+
+00:48:05.000 --> 00:48:07.000
+David Smith: I'm sorry?
+
+00:48:06.000 --> 00:48:07.000
+John Viernes: Thank you.
+
+00:48:07.000 --> 00:48:15.000
+John Viernes: The one you showed us last week, the website that we needed to make our skills matrix.
+
+00:48:14.000 --> 00:48:19.000
+David Smith: Yeah. So, okay, well, we can take a look at that later.
+
+00:48:19.000 --> 00:48:35.000
+David Smith: And do you have other visualization? Because I only needed it to be like one type of visualization. There are a variety. There are SWOT analysis, for example, which is just like a square. And you put your strengths, your weaknesses, your opportunities, threats.
+
+00:48:35.000 --> 00:48:36.000
+David Smith: Thank you.
+
+00:49:13.000 --> 00:49:19.000
+David Smith: Okay, here we go. 30 seconds. Here's the visualization. Oh, let me.
+
+00:49:48.000 --> 00:49:49.000
+John Viernes: Lots of stuff.
+
+00:49:55.000 --> 00:49:57.000
+August Snyder: Professor, you're muted.
+
+00:50:29.000 --> 00:50:35.000
+David Smith: Wow, I'm sorry, I got… somehow I got muted. That was really weird. I lost all sorts of…
+
+00:50:35.000 --> 00:50:37.000
+David Smith: I lost my ability to comment.
+
+00:50:37.000 --> 00:50:44.000
+David Smith: Okay, so, uh, okay, what do… anyone want to jump in, and what do we see? What are we learning from this chart?
+
+00:51:16.000 --> 00:51:17.000
+John Viernes: Thank you.
+
+00:51:18.000 --> 00:51:20.000
+John Viernes: Oh.
+
+00:51:24.000 --> 00:51:25.000
+Gabriel Aguilar: It's cool.
+
+00:51:24.000 --> 00:51:26.000
+John Viernes: Well, thank you.
+
+00:51:26.000 --> 00:51:31.000
+David Smith: Okay, so John, yeah, tell us, what do you think? What's your takeaway from this chart?
+
+00:51:31.000 --> 00:51:32.000
+John Viernes: Yeah.
+
+00:51:32.000 --> 00:51:38.000
+John Viernes: This was what… this was what I'm trying to tell people that I need to work on, and uh…
+
+00:51:39.000 --> 00:51:45.000
+John Viernes: I'm getting there, I'm getting there. I've been swamped with work lately, and uh…
+
+00:51:45.000 --> 00:51:53.000
+John Viernes: It's been really hard, but I'm pushing, I'm pushing through. And I got help from some people, too. Even you.
+
+00:51:51.000 --> 00:51:58.000
+David Smith: Good. Yeah, well, even me. I'm happy to help, John.
+
+00:51:53.000 --> 00:51:54.000
+John Viernes: Mr. Smith.
+
+00:51:58.000 --> 00:52:13.000
+David Smith: Yeah. Good. And I think, you know, the idea is not that we have to solve all these problems right now. All we're doing is identifying where our gaps are. And once we know what our gaps are, then we can start thinking about how to identify.
+
+00:52:13.000 --> 00:52:20.000
+David Smith: what that… how to resolve it. What is our plan? That's sort of the next step.
+
+00:52:21.000 --> 00:52:27.000
+David Smith: Okay, so good. Thank you, John. Ananya.
+
+00:52:24.000 --> 00:52:25.000
+John Viernes: Thank you.
+
+00:52:27.000 --> 00:52:29.000
+David Smith: Hi.
+
+00:52:29.000 --> 00:52:30.000
+John Viernes: Bye.
+
+00:52:31.000 --> 00:52:33.000
+John Viernes: Individuals.
+
+00:52:34.000 --> 00:52:36.000
+John Viernes: Okay.
+
+00:52:35.000 --> 00:52:47.000
+David Smith: That's all right. As I said, these are real rough, crude things. I don't care that you don't have a legend yet. You'll describe it, and that's what people say. Oh, it doesn't have a legend. It gives them something to say, so.
+
+00:52:45.000 --> 00:52:48.000
+John Viernes: Thank you. That's nice.
+
+00:53:00.000 --> 00:53:01.000
+John Viernes: Okay.
+
+00:53:04.000 --> 00:53:06.000
+Ananya: I have it on like my dock.
+
+00:53:23.000 --> 00:53:25.000
+Ananya: Is it being seen?
+
+00:53:25.000 --> 00:53:27.000
+David Smith: Yes, it is!
+
+00:53:26.000 --> 00:53:42.000
+Ananya: Okay. Okay, so let me pull it up on my computer first, so I can say it correctly. So the blue is supposed to be me, and then the green is supposed to be, like, what the overall success in, like, career.
+
+00:53:34.000 --> 00:53:36.000
+David Smith: Yeah.
+
+00:53:37.000 --> 00:53:38.000
+David Smith: Okay.
+
+00:53:42.000 --> 00:53:50.000
+Ananya: creative career in general. And then the purple is supposed to be just being a creative technologist in the direction of, like, you know, media and the stuff that I like.
+
+00:53:44.000 --> 00:53:46.000
+David Smith: Okay.
+
+00:53:50.000 --> 00:53:51.000
+David Smith: Okay.
+
+00:53:52.000 --> 00:53:54.000
+David Smith: And, uh…
+
+00:53:54.000 --> 00:53:59.000
+David Smith: I guess, but I did the wrong thing. Everyone should write, what do you see here?
+
+00:53:59.000 --> 00:54:01.000
+Ananya: Oh, sorry.
+
+00:54:00.000 --> 00:54:04.000
+David Smith: Yeah, that was my fault. I should have said, stop, stop.
+
+00:54:04.000 --> 00:54:08.000
+David Smith: 30 seconds right away. What do you see? What does this tell you?
+
+00:54:40.000 --> 00:54:47.000
+David Smith: Okay, that's about 30 seconds. Someone want to just jump in first impressions or what you're seeing?
+
+00:55:05.000 --> 00:55:10.000
+August Snyder: Um, I don't see a key, so that makes it a little hard to know what's going on with everything, but…
+
+00:55:08.000 --> 00:55:11.000
+Ananya: That's what I said.
+
+00:55:10.000 --> 00:55:12.000
+August Snyder: Yeah, um…
+
+00:55:12.000 --> 00:55:16.000
+Ananya: I can try and like add it. Give me a second.
+
+00:55:18.000 --> 00:55:20.000
+Ananya: We'll be live while you guys are looking.
+
+00:55:21.000 --> 00:55:27.000
+August Snyder: But I'm getting like the purple and green are like one or two different jobs, and then blue is your current skill. Is that right?
+
+00:55:27.000 --> 00:55:29.000
+Ananya: Yes, and blue is me.
+
+00:55:29.000 --> 00:55:36.000
+August Snyder: Yeah, I mean, it seems like you're like pretty close in a lot of areas and then, you know, like a couple of things you have to work on. Yeah.
+
+00:55:36.000 --> 00:55:39.000
+August Snyder: But you seem to know what you like need to work on. And yeah.
+
+00:55:42.000 --> 00:55:57.000
+David Smith: Yeah, okay, uh, good, yeah, so I agree, you know, and Ananya, you said it right at the beginning, it doesn't have the key. Um, the things that would be very useful to add would be, um, in, uh, sort of…
+
+00:55:57.000 --> 00:56:07.000
+David Smith: the target career, which I know might show up in terms of the job postings in… and I don't know why I lost my ability to…
+
+00:56:07.000 --> 00:56:10.000
+David Smith: Is it? Maybe it's over here.
+
+00:56:10.000 --> 00:56:11.000
+David Smith: Thank you.
+
+00:56:11.000 --> 00:56:12.000
+David Smith: went away.
+
+00:56:11.000 --> 00:56:14.000
+Ananya: Whoa whoa whoa.
+
+00:56:13.000 --> 00:56:15.000
+David Smith: So, uh…
+
+00:56:15.000 --> 00:56:17.000
+David Smith: My question.
+
+00:56:17.000 --> 00:56:27.000
+David Smith: relates to the quantization. So you throw numbers up here. I'm assuming they're somewhat like percentages.
+
+00:56:26.000 --> 00:56:29.000
+Ananya: Yes, they are percentages.
+
+00:56:28.000 --> 00:56:37.000
+David Smith: Yeah. So how do you derive that in communication that the green, which. Oh, success. Wait, so what is.
+
+00:56:35.000 --> 00:56:38.000
+Ananya: Ah, sorry.
+
+00:56:37.000 --> 00:56:39.000
+David Smith: Yeah.
+
+00:56:39.000 --> 00:56:44.000
+David Smith: So I'm not sure what you mean by when you say success.
+
+00:56:44.000 --> 00:56:56.000
+Ananya: Um, this is supposed to be, uh, like, I couldn't figure out the correct terminology, but, like, I just meant success in, like, overall, like, if I wasn't specifically going in creative technological, like, techno…
+
+00:56:57.000 --> 00:56:59.000
+David Smith: Yeah.
+
+00:57:02.000 --> 00:57:03.000
+David Smith: Mm-hmm.
+
+00:57:09.000 --> 00:57:11.000
+David Smith: Yep.
+
+00:57:24.000 --> 00:57:29.000
+David Smith: Mm-hmm. Okay. Um, and then I think also…
+
+00:57:29.000 --> 00:57:34.000
+David Smith: For you grabbing your own quantified.
+
+00:57:34.000 --> 00:57:35.000
+David Smith: Um…
+
+00:57:35.000 --> 00:57:52.000
+David Smith: Versions, right? So you have numbers and you can, you know, qualitatively, you can get, you can get the same information without looking at the numbers and just say, oh, you're a little low in communications, but you're right there in organizations.
+
+00:57:53.000 --> 00:58:04.000
+David Smith: I'm curious why you think you exceed the organizational requirements of a creative technologist, but we don't have to talk about that right now.
+
+00:58:04.000 --> 00:58:06.000
+David Smith: Um…
+
+00:58:06.000 --> 00:58:18.000
+David Smith: But that as soon as we start to throw numbers down, we have to have some sort of a calculation to determine how we arrived at the specific numbers.
+
+00:58:18.000 --> 00:58:34.000
+David Smith: if we're using, like, the radial charts, which only have 5, that's pretty qualitative, and you can sort of see it. This… you can sort of see the same stuff in this type of a chart. It could be converted over, but it shows the information.
+
+00:58:34.000 --> 00:58:37.000
+David Smith: Um, but…
+
+00:58:37.000 --> 00:58:41.000
+David Smith: That then sort of becomes.
+
+00:58:41.000 --> 00:58:50.000
+David Smith: The idea is that if I am going to assess that creative technologists need to achieve a 90 in coding.
+
+00:58:50.000 --> 00:59:13.000
+David Smith: How do we get the number 90 and how do we get the number 68? That's just the question. If you feel it, then maybe we don't want to use numbers that are this accurate. And what we do want to do is we want to be able to come up with ways of realistically assessing our capabilities in each of these areas. And so that means we have to come up with some kind of a test.
+
+00:58:54.000 --> 00:58:57.000
+Ananya: Okay.
+
+00:59:13.000 --> 00:59:16.000
+David Smith: Ourself. And, uh…
+
+00:59:14.000 --> 00:59:17.000
+Ananya: Can I explain my thought process a little bit then?
+
+00:59:17.000 --> 00:59:19.000
+David Smith: Say that once again, I'm sorry.
+
+00:59:20.000 --> 00:59:22.000
+David Smith: Yes, absolutely. It's your turn.
+
+00:59:27.000 --> 00:59:28.000
+David Smith: Mm-hmm.
+
+00:59:29.000 --> 00:59:30.000
+David Smith: Yes.
+
+00:59:39.000 --> 00:59:41.000
+David Smith: Mm-hmm.
+
+00:59:57.000 --> 00:59:58.000
+David Smith: Mm-hmm.
+
+00:59:58.000 --> 01:00:00.000
+David Smith: Mm-hmm.
+
+01:00:17.000 --> 01:00:18.000
+David Smith: Mm-hmm.
+
+01:00:28.000 --> 01:00:32.000
+Ananya: tiny box AI assist.
+
+01:00:32.000 --> 01:00:51.000
+David Smith: And that's fine. I mean, the point, what we're doing is we're just sort of touching visualization. We'll be working with visualization the rest of the semester. So it's really, this is sort of a palette cleansing exercise at the moment, and also sort of to open up that sometimes just because you can put it on a chart doesn't mean the chart is accurate.
+
+01:00:33.000 --> 01:00:34.000
+Gabriel Aguilar: I think…
+
+01:00:51.000 --> 01:01:02.000
+David Smith: Or it doesn't mean that… or it may mean that you're not really getting what you need to know from the chart, and so those are other types of things, uh, that we're going to be, uh, sort of looking at.
+
+01:01:02.000 --> 01:01:05.000
+David Smith: But good. Okay. Yeah.
+
+01:01:09.000 --> 01:01:10.000
+Ananya: Oh.
+
+01:01:16.000 --> 01:01:21.000
+Gabriel Aguilar: to people, but you're not a 40 at talking to people. I feel like that's pretty low.
+
+01:01:23.000 --> 01:01:24.000
+Gabriel Aguilar: Yeah.
+
+01:01:34.000 --> 01:01:45.000
+Ananya: Not very good at that. I'm kind of bad with names, which is a very big part of networking. Um, so I definitely think there's a lot of things that I can learn in that area, hence the 40.
+
+01:01:45.000 --> 01:01:46.000
+David Smith: Right.
+
+01:01:45.000 --> 01:01:47.000
+Ananya: But I'm not like…
+
+01:01:47.000 --> 01:01:54.000
+Ananya: you know, jibber-jabber, can't code-switch type thing, you know? I think that I have some type of skill.
+
+01:01:54.000 --> 01:02:15.000
+David Smith: Yeah, I think an important thing about that last exchange is that you're recognizing networking is just that there is no one single grade to networking, just as there's no one single grade to communications. These are sort of aggregates. And if we go deeper into an analysis, we might have to split networking into that ability to communicate with other people.
+
+01:01:55.000 --> 01:01:57.000
+Ananya: Appreciate it.
+
+01:02:15.000 --> 01:02:33.000
+David Smith: Um, comfort level of communications, I think, um, number of professional organizations that you belong to. And what you're going to recognize is, is that as we start to do our deeper analysis, we have to break these, uh, things into smaller pieces so that we can assess it.
+
+01:02:33.000 --> 01:02:48.000
+David Smith: I think it is quite obvious under coding when you say JavaScript, comma, CSE, comma, etc, that we can also drill down a little bit more specifically into these areas as well.
+
+01:02:48.000 --> 01:03:03.000
+David Smith: Um, but this is a good, uh, palate cleansing, you know, sort of first approximation about what we want to be able to do, um, with our analyses. And one of the things that we have not done yet.
+
+01:03:03.000 --> 01:03:19.000
+David Smith: And this will happen as we move into portfolio is that we want to take a look at existing, people in the industry and what do they show for their skill set. And you can look at that compared to what you feel your skill set is.
+
+01:03:19.000 --> 01:03:38.000
+David Smith: And in this case, it's like, well, I've been doing, um, CAD for 5 years, I have 12 computer programs that I've written in JavaScript, you know, and at those points, you're starting to get something a little more quantitative than just what I would say, maybe a feeling. I feel like I'm pretty good in this area because I've done stuff.
+
+01:03:38.000 --> 01:03:53.000
+David Smith: But, you know, feeling it and you could be, but you may also you're going to need to sort of, compare yourself to other people that are already in the industry or otherwise, people that sit in the positions that you're looking for or have equivalent, positions.
+
+01:03:53.000 --> 01:04:04.000
+David Smith: That's what we're going to do next. This is good. Let us end this share.
+
+01:04:04.000 --> 01:04:06.000
+David Smith: I will go back to my…
+
+01:04:07.000 --> 01:04:09.000
+David Smith: I think I'm doing this.
+
+01:04:09.000 --> 01:04:10.000
+David Smith: Yeah.
+
+01:04:10.000 --> 01:04:12.000
+David Smith: I think we were…
+
+01:04:12.000 --> 01:04:25.000
+David Smith: Here, yes. Okay. So, thank you for that. That was just a little bit of, uh, you know, a little exercise here so that we can get started into what I want to cover in the class today. Um…
+
+01:04:25.000 --> 01:04:40.000
+David Smith: is that we've been working on our career model, and what we want to be able to do is to, to, uh, to continue to, uh, move forward. So we started with speculation. That's the initial reflection. I think I can…
+
+01:04:40.000 --> 01:04:43.000
+David Smith: Is that a laser pointer? Woo!
+
+01:04:43.000 --> 01:05:01.000
+David Smith: Okay, so… oh, it doesn't let me draw. Okay, so, you know, we started with an initial speculation saying, oh, this is what I think I want to be. And then we went out and we started to do a little bit of research. These are jobs that are advertisements for what I want to be.
+
+01:05:01.000 --> 01:05:14.000
+David Smith: And then from that, we started to do what we call a gap analysis, or what types of patterns. Do we see the different things that are being asked for, and how do we feel we do in each of those?
+
+01:05:14.000 --> 01:05:23.000
+David Smith: Then from this, you have started to come up with some conclusions, and the question becomes.
+
+01:05:24.000 --> 01:05:39.000
+David Smith: How accurate are these conclusions? Because we, you know, if you have, if you have incorrect data or you're looking at things in a wrong way, I'm not saying anyone is, I'm just saying that it becomes important that we make sure that our conclusions.
+
+01:05:39.000 --> 01:05:57.000
+David Smith: that we're coming up with are able to be held up when we dive deeper into it. Remember that what we want to do at this moment is that we started very broad, and we're starting to work our way in. And part of this whole process is that as we do research.
+
+01:05:57.000 --> 01:06:08.000
+David Smith: we start to get more questions. And the questions are going to become, oh, if I'm a 40 here and I need to get to 60, or whatever the numbers are, if I'm a 2 and I need to get to 5.
+
+01:06:09.000 --> 01:06:24.000
+David Smith: First, is that true? Am I a two and is that a five? And two, what are the steps? What are the specific steps? And we can't just say like, oh, I love the glasses. We can't just say that computer, I mean, we can't just say that.
+
+01:06:24.000 --> 01:06:41.000
+David Smith: um, we need to get better at communication. It's like, what type of communication do we need to get better at? Once we identify sort of a broad area, we say, oh, I need to do more coding, I need to do more back-end, now we have to go in and be, okay, what parts of back-end, what parts of coding?
+
+01:06:41.000 --> 01:06:44.000
+David Smith: And so this then becomes sort of the next step.
+
+01:06:44.000 --> 01:06:56.000
+David Smith: Uh, so that's what we're gonna be working with today. And, uh… yeah. So this, I think, is what we just did, so I realize that's out of order. Um…
+
+01:06:56.000 --> 01:07:02.000
+David Smith: So what did your visualization reveal? And.
+
+01:07:02.000 --> 01:07:08.000
+David Smith: And I think what I want you to recognize is that.
+
+01:07:08.000 --> 01:07:22.000
+David Smith: you showed a SWAT or a skills gap. Everybody did skills gap, that's fine. Um, is what became visible when you mapped that evidence? In other words, now that you're actually.
+
+01:07:22.000 --> 01:07:33.000
+David Smith: starting to put things out numerically, things should start to pop out. And from that, you should be able to draw some initial.
+
+01:07:33.000 --> 01:07:34.000
+David Smith: um…
+
+01:07:34.000 --> 01:07:37.000
+David Smith: conclusions about where you need to work.
+
+01:07:37.000 --> 01:07:53.000
+David Smith: However, my take is that you may not be detailed yet enough to really know specifically where you need to work in some of the areas, because we recognize and I think that we could see this every single one of your charts.
+
+01:07:53.000 --> 01:08:09.000
+David Smith: those categories by definition are fairly broad, and yet they have subcategories in them, and you're going to be better at some sub subcategories within that category than others. And that's what we need to do is as we start to do an actionable plan. It doesn't help.
+
+01:08:09.000 --> 01:08:30.000
+David Smith: to say, I need to learn coding. But then you spend all this time learning modular 2, and then you realize that no one uses modular 2 anymore. Right? You know it doesn't. You need to be able to optimize where your efforts go, so that they're the most helpful for your continued development into the area.
+
+01:08:30.000 --> 01:08:33.000
+David Smith: So then that becomes.
+
+01:08:33.000 --> 01:08:42.000
+David Smith: Uh, a question that you want to say is, is that I'm coming up… I've come up with some conclusions for my visualization.
+
+01:08:43.000 --> 01:08:49.000
+David Smith: Do… what additional support may I need in order to…
+
+01:08:49.000 --> 01:09:02.000
+David Smith: Uh… continue with that conclusion. This is not… I'm not asking you to answer the question right now, I'm just sort of staging what we're talking about. But I do have the next provocation for you, which is, I think, maybe a 10-minute…
+
+01:09:02.000 --> 01:09:04.000
+David Smith: exercise.
+
+01:09:04.000 --> 01:09:09.000
+David Smith: This is a speculation. I want you to write it into your journal.
+
+01:09:09.000 --> 01:09:30.000
+David Smith: We have acquired some evidence. We've done some speculation with our research, but we have to convert it to a strategy. So how does that happen? How would you take the evidence that you know that you have right now, based on your visualization? And and you know your strategic.
+
+01:09:30.000 --> 01:09:45.000
+David Smith: roadmap plan. And how do we turn that into a strategy? I'm not asking. I'm not saying that there's a grade on this. I just want you to speculate about different techniques.
+
+01:09:45.000 --> 01:10:00.000
+David Smith: And at this point I recognize I haven't introduced this in this class yet. I introduced it in my 3501 class, which is this idea of and then magical thinking or the miracle thinking. Do you remember what this.
+
+01:10:00.000 --> 01:10:03.000
+David Smith: Any of my 3,501 people from last year.
+
+01:10:04.000 --> 01:10:06.000
+David Smith: What miracle thinking is.
+
+01:10:11.000 --> 01:10:16.000
+David Smith: Am I — I'm not showing the right thing anymore, am I not? I was going to do a quick —.
+
+01:10:16.000 --> 01:10:17.000
+David Smith: Yikes.
+
+01:10:20.000 --> 01:10:21.000
+David Smith: No, I need that.
+
+01:10:33.000 --> 01:10:36.000
+David Smith: Is that… will that do it? Yes. This is…
+
+01:10:36.000 --> 01:10:39.000
+David Smith: This is miracle thinking.
+
+01:10:39.000 --> 01:10:46.000
+David Smith: And there's a very famous — I don't like that one as much as — I'll find the famous one. This is the most famous one.
+
+01:10:46.000 --> 01:11:00.000
+David Smith: Is that going to work? Yeah. Okay, so you have two scientists, and they have this big, elaborate equation. And yet, in order to get to the answer, you have to clear a gap.
+
+01:11:00.000 --> 01:11:02.000
+David Smith: That is not explained in the equation.
+
+01:11:02.000 --> 01:11:18.000
+David Smith: So that's miracle thinking. And very often what happens is that people will come up with an idea or they'll come up with a solution, but they're relying on, quote, a miracle. They're not connecting every single dot.
+
+01:11:18.000 --> 01:11:25.000
+David Smith: We need to connect every single dot. So that's what I mean when I talk about miracle.
+
+01:11:26.000 --> 01:11:32.000
+David Smith: Um, anyway, so here's your provocation. I want to give you, uh…
+
+01:11:32.000 --> 01:11:33.000
+David Smith: 10 minutes.
+
+01:11:34.000 --> 01:11:40.000
+David Smith: Is that what I said? Yeah, 10 minutes to, uh…
+
+01:11:40.000 --> 01:11:42.000
+David Smith: Speculate.
+
+01:11:42.000 --> 01:11:58.000
+David Smith: How do we take our evidence and turn it into a strategy? I'm not asking for your strategy. I'm talking about this general idea of how do we move from the information that we may have on any particular question.
+
+01:11:58.000 --> 01:12:01.000
+David Smith: And turn that into.
+
+01:12:01.000 --> 01:12:03.000
+David Smith: Um, a set of tasks.
+
+01:12:03.000 --> 01:12:06.000
+David Smith: Any questions on that?
+
+01:12:08.000 --> 01:12:17.000
+David Smith: If not, then go ahead. Write in your journal. We'll report back after about 10 min. I will go into.
+
+01:12:17.000 --> 01:12:35.000
+David Smith: I'll leave this up on the screen. I will go into mute mode, but if anyone has any questions or clarifications, just shout out, I'm right here. And I will be back at… I mean, we will get… we will be back at 3.42. Let's make it 3.42. I think we can do it in…
+
+01:12:35.000 --> 01:12:41.000
+David Smith: 9 min. Okay, start writing. If you have any questions, call out.
+
+01:24:53.000 --> 01:24:57.000
+David Smith: Okay, I am back. So we should all be back.
+
+01:24:59.000 --> 01:25:02.000
+David Smith: And, uh, yeah, so when we pop back in…
+
+01:25:04.000 --> 01:25:07.000
+David Smith: And, uh…
+
+01:25:07.000 --> 01:25:10.000
+David Smith: Let's see. Yeah, I gotta find this place.
+
+01:25:10.000 --> 01:25:15.000
+David Smith: Where are we? We did that. We did that. Okay, here we are.
+
+01:25:19.000 --> 01:25:21.000
+David Smith: Uh, back to Zoom.
+
+01:25:21.000 --> 01:25:23.000
+David Smith: Share.
+
+01:25:24.000 --> 01:25:26.000
+David Smith: Desktop 2.
+
+01:25:27.000 --> 01:25:29.000
+David Smith: There we go.
+
+01:25:29.000 --> 01:25:36.000
+David Smith: Okay, so yeah, how does evidence become a strategy?
+
+01:25:36.000 --> 01:25:39.000
+David Smith: Um, I'm going to…
+
+01:25:39.000 --> 01:25:45.000
+David Smith: just ask each of you to just say one thing, one idea, one technique.
+
+01:25:45.000 --> 01:25:52.000
+David Smith: One approach, one philosophy, anything like that. So be prepared to spout it out.
+
+01:25:52.000 --> 01:26:04.000
+David Smith: you can think about it for, like, 10 seconds, write down or circle the area of the thing you want to say, and then I'm just gonna go around the… around the horn, and then we're gonna take a look at a real use case that I just, uh, explored, uh…
+
+01:26:04.000 --> 01:26:16.000
+David Smith: earlier today, because I wanted to make sure that the… that the job applications were fresh off the press, so to speak, and… and then we'll move on into the next part of the… part of the class.
+
+01:26:16.000 --> 01:26:20.000
+David Smith: Okay, so I'm going to just work my way down. Ananya.
+
+01:26:20.000 --> 01:26:27.000
+David Smith: How would you think that evidence becomes strategy? What would be an approach or something that you would use?
+
+01:26:32.000 --> 01:26:38.000
+Ananya: Sorry, I still… Wait, can you put this away for a second? I literally have like chicken nuggets I was eating on my break.
+
+01:26:38.000 --> 01:26:40.000
+Ananya: I was writing as well but I have like food.
+
+01:26:39.000 --> 01:26:42.000
+David Smith: That's alright. Okay, I'll come back to you.
+
+01:26:42.000 --> 01:26:52.000
+David Smith: You used your special get-out-of-jail-free card for the class, and that's fine. Okay, everyone gets one get-out-of-jail-free card. Uh, JJ?
+
+01:26:52.000 --> 01:26:54.000
+David Smith: An approach.
+
+01:26:55.000 --> 01:26:57.000
+JJ Liriano: Okay. Um…
+
+01:26:58.000 --> 01:27:04.000
+JJ Liriano: like as an approach of like, like, give an example of what I like, how I'll use it, or what I wrote down.
+
+01:27:03.000 --> 01:27:20.000
+David Smith: I don't know. You've been writing for 10 minutes. I just want to know, you know, how do we take evidence and turn it into a strategy? And it can be generalized. You don't necessarily have to think about just this class. But in general, we have to, in order to develop a strategy, we have to come up with, we have to know stuff.
+
+01:27:09.000 --> 01:27:10.000
+JJ Liriano: Bye, Rob.
+
+01:27:20.000 --> 01:27:22.000
+David Smith: You know, anyway, that's all I'm saying.
+
+01:27:52.000 --> 01:27:55.000
+David Smith: Right, so what might be an approach?
+
+01:27:57.000 --> 01:27:58.000
+JJ Liriano: And…
+
+01:27:58.000 --> 01:28:06.000
+David Smith: So I know some stuff. I learned some stuff. I got a SWAT. I have a career radar map. That's evidence.
+
+01:28:04.000 --> 01:28:07.000
+Ananya: One of the one of the words I said was like.
+
+01:28:07.000 --> 01:28:12.000
+Ananya: Studying. I know it's maybe that's not the best word for it.
+
+01:28:12.000 --> 01:28:14.000
+Ananya: But I was like talking.
+
+01:28:14.000 --> 01:28:17.000
+Ananya: I'm not gonna read everything I said, but I was talking about how, like.
+
+01:28:17.000 --> 01:28:24.000
+Ananya: Um, using the evidence, obviously, the facts that he's talking about, as the other person said.
+
+01:28:24.000 --> 01:28:27.000
+Ananya: And making it a strategy by using, like, disciplines and, like.
+
+01:28:27.000 --> 01:28:31.000
+Ananya: Using it as, like, a plan, do it step by step.
+
+01:28:31.000 --> 01:28:48.000
+David Smith: Right, but strategy is a plan, so you can't say, I'm gonna do my strategy by making a plan. You know, that's, that's all I'm saying here, you know, we, we, we need to come up with concrete, actionable steps. This is, this is really.
+
+01:28:38.000 --> 01:28:39.000
+JJ Liriano: So…
+
+01:28:38.000 --> 01:28:40.000
+Ananya: That's kinda… okay, sorry.
+
+01:28:48.000 --> 01:29:07.000
+David Smith: what I'm saying about in terms of miracle thinking. It's not like, Oh, we have this evidence. And then, okay, I'm going to get better. And that's it. I'm done. You know, a miracle occurred. And now I'm an expert. There have to be actionable steps, and we have to connect the dots, you know, like, if you're if you're if you're writing code and you have an if statement.
+
+01:28:58.000 --> 01:29:01.000
+JJ Liriano: Cooking it. Yeah, it's on.
+
+01:29:07.000 --> 01:29:22.000
+David Smith: Uh, and it's, and there's, uh, and you're splitting it, you need a then. If you don't have the then, you'll never get to the then. So, you know, that's a problem. That may have been a bad metaphor, but okay, uh, August, what do you think? Give me an idea.
+
+01:29:24.000 --> 01:29:27.000
+August Snyder: Um, I mean, I think, like, right, so you're using your, uh.
+
+01:29:27.000 --> 01:29:35.000
+August Snyder: Okay. Uh, you're, yeah, you're gathering your evidence, and then you're, uh, like, creating an action plan based to it. That could be, like, talking with people who have.
+
+01:29:35.000 --> 01:29:40.000
+August Snyder: Um, who have the skill you're trying to get, or, like, practicing or taking a class.
+
+01:29:39.000 --> 01:29:41.000
+David Smith: Okay, so…
+
+01:29:41.000 --> 01:29:46.000
+David Smith: Is that acquiring more evidence, or is that developing a strategy, talking to others?
+
+01:29:42.000 --> 01:29:43.000
+August Snyder: Is that…
+
+01:29:45.000 --> 01:29:47.000
+August Snyder: That's it.
+
+01:29:47.000 --> 01:29:52.000
+August Snyder: It's… well, I think the… I mean, it can be both, but I think it's, you know, it's.
+
+01:29:52.000 --> 01:30:01.000
+August Snyder: It's starting by, you know, you, oh, I know I need to, I have a deficit. How can I, like, yeah, talking with someone to develop a strategy, like more of a strategy, I guess, yeah.
+
+01:29:58.000 --> 01:30:20.000
+David Smith: Okay, okay, okay. So what you're saying is, is that I'm speculating that I have a or I've done my research. I know I have a deficit in this area. I need to get better at it. But maybe I don't know how much better or what the path is. And so now you are speculating that I don't know enough. So I have to do more research. And I'm going to do that by talking.
+
+01:30:05.000 --> 01:30:07.000
+August Snyder: Mmhm.
+
+01:30:20.000 --> 01:30:34.000
+David Smith: with someone that knows more about the field, right? I mean, that's still not a strategy that's still gathering evidence. What you could do then is you could say, well, what do you think my strategy should be?
+
+01:30:34.000 --> 01:30:39.000
+David Smith: Now we're starting to get to the point where we're researching strategies.
+
+01:30:39.000 --> 01:30:53.000
+David Smith: Okay, now it was maybe over a threshold. He says, yeah, well, there's this great certification course that I took at MIT, and it's free, and here it is, and take this, and then it shows up on your… that becomes… that becomes a… that becomes…
+
+01:30:53.000 --> 01:31:00.000
+David Smith: a tactic. Do we recognize the difference between strategy and tactics? Because I think there's an important.
+
+01:31:00.000 --> 01:31:07.000
+David Smith: differentiation between these 2 terms, and I want to make sure that we all understand that.
+
+01:31:09.000 --> 01:31:15.000
+David Smith: Someone want to make a stab at defining the difference between strategy and tactics?
+
+01:31:31.000 --> 01:31:38.000
+David Smith: Yeah, yeah, I mean, I think that's that's reasonable. I can think.
+
+01:31:38.000 --> 01:31:40.000
+David Smith: that…
+
+01:31:41.000 --> 01:31:45.000
+David Smith: I'm trying to think if that if that is.
+
+01:31:45.000 --> 01:31:48.000
+David Smith: universal enough.
+
+01:31:48.000 --> 01:31:52.000
+David Smith: I mean, the way I generally think about it is strategy is what do you want to do?
+
+01:31:48.000 --> 01:31:50.000
+August Snyder: Someone was detected at your.
+
+01:31:52.000 --> 01:32:16.000
+David Smith: And tactics are how are we going to do what we want to do? So the strategy is what we're really looking at. We know our strategy. We want to have a career, right? We want to go out into the professional world. The strategy is that we're going to get better at what we're doing. That's part of the strategy. But the tactics are what are the actionable steps that we're going to take in order to make that happen.
+
+01:32:16.000 --> 01:32:31.000
+David Smith: Uh, and so that's what we're looking at, is that we need to come up with a strategy which is saying, in order to get to this position, creative technologists, a middle-level position, whatever it is that we're going to do.
+
+01:32:31.000 --> 01:32:37.000
+David Smith: Then that means my strategy is to get better at these different areas.
+
+01:32:37.000 --> 01:32:47.000
+David Smith: Um, because that's what my analysis showed me, that, oh, they all want me to know GitHub, and I don't know GitHub, so I guess I need to learn GitHub.
+
+01:32:47.000 --> 01:32:48.000
+David Smith: Um…
+
+01:32:49.000 --> 01:33:05.000
+David Smith: Those aren't the tactics. How do you learn GitHub? What are the techniques? What are the specific steps that we're going to take? That's what we're going to try to get to. And this is often some of the more difficult parts because it's pretty easy.
+
+01:33:05.000 --> 01:33:26.000
+David Smith: I don't know if it's pretty easy, but I feel that it's easier to be able to come up with a big picture than it is to figure out how to take all the steps to get to the big picture. And so that's what we need, is we need to recognize that our heads are full of miracle thinking. They're full of magical thinking.
+
+01:33:26.000 --> 01:33:32.000
+David Smith: that we have great intuitions, we have great abilities to match patterns, but we…
+
+01:33:32.000 --> 01:33:47.000
+David Smith: may just be making an assumption. And, you know, there are some very interesting, examples, which I won't go into today. Maybe I'll bring some in next week that are where something seems obvious.
+
+01:33:47.000 --> 01:33:50.000
+David Smith: Seems absolutely obvious.
+
+01:33:50.000 --> 01:34:05.000
+David Smith: And then when we… and our intuitions are telling us this, our pattern matching is telling us this, and then when we actually go under the hood, we find that, oh, this is actually wrong. So that's what we need to do, is to get down to the point… one sec…
+
+01:34:10.000 --> 01:34:13.000
+David Smith: Yeah, that's good. Okay.
+
+01:34:15.000 --> 01:34:17.000
+David Smith: Um…
+
+01:34:25.000 --> 01:34:30.000
+David Smith: Uh, yeah, so, uh, where was I? Yes. Um…
+
+01:34:30.000 --> 01:34:32.000
+David Smith: So, Gabriel.
+
+01:34:33.000 --> 01:34:41.000
+David Smith: What do you think? What's an option about how to make evidence become a strategy?
+
+01:34:42.000 --> 01:34:43.000
+Gabriel Aguilar: Um…
+
+01:34:44.000 --> 01:34:47.000
+Gabriel Aguilar: I was kind of expecting to do more of…
+
+01:34:47.000 --> 01:34:53.000
+Gabriel Aguilar: what I thought about myself, but I think a strategy is to create metrics.
+
+01:34:53.000 --> 01:34:55.000
+Gabriel Aguilar: that you then…
+
+01:34:56.000 --> 01:35:00.000
+Gabriel Aguilar: grade yourself on. Like, I think that…
+
+01:35:00.000 --> 01:35:09.000
+Gabriel Aguilar: Literally turning the data and the evidence into like achievable, maybe not achievable, but like structured.
+
+01:35:09.000 --> 01:35:16.000
+Gabriel Aguilar: Ideas then allows you to make it a strategy easier because it shows you where your weak points are, I guess.
+
+01:35:10.000 --> 01:35:11.000
+David Smith: Mm-hmm.
+
+01:35:16.000 --> 01:35:17.000
+David Smith: Mm-hmm.
+
+01:35:17.000 --> 01:35:25.000
+Gabriel Aguilar: But I guess I'm describing actually like building evidence. So I'm not sure I necessarily have an answer to that.
+
+01:35:23.000 --> 01:35:29.000
+David Smith: Yeah, I mean, that's… it's called a provocation for a reason.
+
+01:35:27.000 --> 01:35:30.000
+Gabriel Aguilar: Yeah, that's fair.
+
+01:35:29.000 --> 01:35:44.000
+David Smith: you know, because this is what we want to do. But then we're realizing, how do we do it? And it's not as if there's any one specific step. It's not as if there's this is the one and only way. But what we do have to come up with is a some techniques.
+
+01:35:44.000 --> 01:35:59.000
+David Smith: that we can use in order to take the evidence of what we're learning and turn it into strategy. And, I think part of that that is important is.
+
+01:36:00.000 --> 01:36:14.000
+David Smith: that we also need to test our evidence, and we need to test our conclusions. So just because we drew some points on a map, on a chart, doesn't necessarily mean that those are accurate points.
+
+01:36:14.000 --> 01:36:19.000
+David Smith: And so this is all sort of part of this larger question about.
+
+01:36:19.000 --> 01:36:25.000
+David Smith: what we want to do. So I do have.
+
+01:36:25.000 --> 01:36:27.000
+David Smith: Um…
+
+01:36:27.000 --> 01:36:29.000
+David Smith: Oh, that didn't work.
+
+01:36:32.000 --> 01:36:35.000
+David Smith: Why is this? Do I have to be over here?
+
+01:36:37.000 --> 01:36:38.000
+David Smith: Why is…
+
+01:36:41.000 --> 01:36:43.000
+David Smith: There we go.
+
+01:36:43.000 --> 01:36:46.000
+David Smith: Okay, so, um…
+
+01:36:46.000 --> 01:37:00.000
+David Smith: Yeah, so what I did is I went out earlier today, and I just did the same thing I asked you to do, is to, like, find 3 job postings for, uh, game audio postings, right? Uh, I want to get into game audio.
+
+01:37:00.000 --> 01:37:09.000
+David Smith: And what I did then is that looking through these, I started to identify.
+
+01:37:09.000 --> 01:37:16.000
+David Smith: areas that are a little more specific than, you know, team teamwork or.
+
+01:37:16.000 --> 01:37:23.000
+David Smith: innovative. You know, they have a lot of words in there that don't really mean anything, but then they have other words that do mean things.
+
+01:37:23.000 --> 01:37:38.000
+David Smith: And these are sort of 3 takeaway things that I found in all 3, and this is sort of a way of being able to look a little bit deeper in this case.
+
+01:37:38.000 --> 01:37:53.000
+David Smith: Um, I'm gonna lay these out there, and then I'm gonna want… I mean, you can look at it, but integrate and tune audio assets using Wwise, Unreal Engine, and what do you think they mean when they say proprietary tools?
+
+01:38:01.000 --> 01:38:06.000
+David Smith: Look who the advertiser is. Do we see this?
+
+01:38:06.000 --> 01:38:07.000
+David Smith: Where's my pen?
+
+01:38:08.000 --> 01:38:11.000
+Jose: That's like, um…
+
+01:38:14.000 --> 01:38:15.000
+Jose: to…
+
+01:38:15.000 --> 01:38:17.000
+Jose: tools that, um…
+
+01:38:18.000 --> 01:38:19.000
+Jose: or…
+
+01:38:19.000 --> 01:38:22.000
+Jose: specific to a…
+
+01:38:19.000 --> 01:38:21.000
+August Snyder: Yeah, electronic arts.
+
+01:38:21.000 --> 01:38:23.000
+August Snyder: I know.
+
+01:38:23.000 --> 01:38:26.000
+Jose: I can only think of proprietary hardware right now.
+
+01:38:26.000 --> 01:38:29.000
+David Smith: Yeah, well, it's the same thing, so what's proprietary hardware?
+
+01:38:29.000 --> 01:38:34.000
+Jose: Uh, proprietary hardware is making so that…
+
+01:38:34.000 --> 01:38:39.000
+Jose: An object can only be used with a specific.
+
+01:38:39.000 --> 01:38:44.000
+Jose: Hardware can only be used with a specific other hardware. So in this context, it'd be.
+
+01:38:44.000 --> 01:38:50.000
+Jose: You can only work if you know how to use this specific software.
+
+01:38:49.000 --> 01:39:05.000
+David Smith: Right, or in this case, I'll say what it means here. This is Electronic Arts, right, EA, one of the largest gaming companies in the world, and they work in Unreal. WRISE, we'll notice, is a through line. We'll talk about that in a little bit, and um…
+
+01:39:05.000 --> 01:39:22.000
+David Smith: And, uh, they also have some in-shop software tools that they are not selling, sharing, or anything. They're proprietary to the proprietor, to the ownership of it. And so what they're saying is.
+
+01:39:22.000 --> 01:39:37.000
+David Smith: That this is what you're going to have to do. You're going to have to use WYS, Unreal Engine, and also we don't expect you to know these proprietary tools because they're a secret, but we expect you to have the skills to acquire.
+
+01:39:37.000 --> 01:39:42.000
+David Smith: These proprietary tools. That's what that sort of means.
+
+01:39:42.000 --> 01:39:47.000
+David Smith: So that means that if they were in a… if they were in a job interview.
+
+01:39:48.000 --> 01:39:49.000
+David Smith: Um…
+
+01:39:49.000 --> 01:39:51.000
+David Smith: You would, uh…
+
+01:39:51.000 --> 01:40:11.000
+David Smith: want in this case to demonstrate different types of tools other than wis and unreal engine that you are have competencies in. So when we think about audio, that means, do you use audacity? What sort of plugins do you have any das? Do you?
+
+01:40:11.000 --> 01:40:29.000
+David Smith: You know, do you have… have you experienced in Foley and recording and, you know, a lot of these other areas that you may not have the software application or the toolset that they're using, but you can demonstrate that you're doing it equivalently in other spaces as well.
+
+01:40:29.000 --> 01:40:42.000
+David Smith: And that's sort of a clue at this point that you might need to do a little bit more work in terms of what does electronic arts mean by proprietary tools.
+
+01:40:42.000 --> 01:40:54.000
+David Smith: That then becomes a question, and it becomes really important as you're looking at these job descriptions to try to ask as many possible questions as you can.
+
+01:40:54.000 --> 01:41:04.000
+David Smith: And some of these are going to relate to our rating scale. So, for example, when they say, um, you know, good use of Unreal Engine.
+
+01:41:04.000 --> 01:41:08.000
+David Smith: What does that mean you need to be able to do in Unreal?
+
+01:41:08.000 --> 01:41:25.000
+David Smith: These are questions that we might need to pull forward in using, uh, you know, some additional research. This is a cyclical thing, and we recognize that we're going to lay down and speculate about stuff based on what's in our head, but we need to get a little more quantitative. We need to.
+
+01:41:25.000 --> 01:41:40.000
+David Smith: really close the book and make sure that the values that we are describing are in line with what the industry is thinking about. Okay, so that was at EA with a sound designer. Okay, here's Hoyaverse, senior audio designer.
+
+01:41:41.000 --> 01:41:43.000
+David Smith: What does it say?
+
+01:41:51.000 --> 01:41:56.000
+Gabriel Aguilar: Craft and implement dynamic audio systems into Wwise and Unreal Engine 5.
+
+01:41:57.000 --> 01:42:00.000
+David Smith: That is what it says. What does that mean?
+
+01:42:03.000 --> 01:42:05.000
+David Smith: What's a dynamic audio system?
+
+01:42:05.000 --> 01:42:07.000
+David Smith: Let's start there.
+
+01:42:05.000 --> 01:42:08.000
+Gabriel Aguilar: Reacting in real time.
+
+01:42:08.000 --> 01:42:10.000
+David Smith: Yeah, so it's not a movie.
+
+01:42:10.000 --> 01:42:27.000
+David Smith: Our output is a game. That means that we cannot predict what's going to happen in the next second with 100% accuracy. I mean, there are times when you can in games, but there are also times when you recognize, when's he going to pull the trigger and I need to put out a gunshot? When are they going to exit the room?
+
+01:42:27.000 --> 01:42:43.000
+David Smith: You know, are they are they underwater? Are they breathing? There are all sorts of different types of attributes, which means that the ability to work within a system that can accept external commands and from those external commands, change the audio profile.
+
+01:42:43.000 --> 01:42:53.000
+David Smith: is what they're looking for. This is sort of the higher level type of a thing. Okay, and then Absurd Ventures, technical sound design. And what does that say?
+
+01:43:00.000 --> 01:43:02.000
+Jose: It says, uh…
+
+01:43:02.000 --> 01:43:08.000
+Jose: Advanced Audio Implementation Skills in Wwise and Unreal Blueprints.
+
+01:43:09.000 --> 01:43:11.000
+David Smith: Yes.
+
+01:43:11.000 --> 01:43:13.000
+David Smith: So… does…
+
+01:43:11.000 --> 01:43:12.000
+Jose: Well…
+
+01:43:13.000 --> 01:43:16.000
+David Smith: Who here is an unreal person?
+
+01:43:18.000 --> 01:43:20.000
+David Smith: Yeah, so what's a blueprint?
+
+01:43:22.000 --> 01:43:38.000
+Anderson Tenecela: Well, Unreal work, it works a little differently where there's less coding, but there's more of the 3D design process that goes into it.
+
+01:43:22.000 --> 01:43:25.000
+Gabriel Aguilar: It's an… oops.
+
+01:43:36.000 --> 01:43:37.000
+David Smith: Mm-hmm.
+
+01:43:38.000 --> 01:43:39.000
+Anderson Tenecela: The tools are there.
+
+01:43:39.000 --> 01:43:58.000
+David Smith: Yeah, yeah. And and I think overall, it is coding. It's just that you're not coding with with hurts right? You're connecting things together, building a blueprint, which is a which is a which is an action flow, and then encapsulating that blueprint is something that performs a particular task or something.
+
+01:43:39.000 --> 01:43:42.000
+Anderson Tenecela: That's the best way to describe it.
+
+01:43:43.000 --> 01:43:47.000
+Anderson Tenecela: Yeah.
+
+01:43:57.000 --> 01:44:01.000
+Anderson Tenecela: Okay.
+
+01:43:58.000 --> 01:44:15.000
+David Smith: Unreal is a pig. Unreal is deep. Unreal is rich. And it's one of those environments that you can't just dabble in and say, I know Unreal. You have to be able to be really, to start to recognize that. But what we're starting to see.
+
+01:44:10.000 --> 01:44:11.000
+Anderson Tenecela: Sorry, is there a problem?
+
+01:44:15.000 --> 01:44:18.000
+David Smith: Is that, um, I remember I…
+
+01:44:18.000 --> 01:44:25.000
+David Smith: I think, I think that JJ had, put.
+
+01:44:22.000 --> 01:44:25.000
+Anderson Tenecela: Okay.
+
+01:44:25.000 --> 01:44:39.000
+Anderson Tenecela: Yes, ma'am.
+
+01:44:25.000 --> 01:44:33.000
+David Smith: Certain… like, you had some code-specific, uh, software applications…
+
+01:44:33.000 --> 01:44:37.000
+David Smith: Uh, that you felt were important on your chart.
+
+01:44:37.000 --> 01:44:46.000
+David Smith: And I'm assuming that you found that because they that particular piece, JavaScript or, you know, whatever it is, kept showing up again and again and again. Right.
+
+01:44:46.000 --> 01:44:50.000
+David Smith: I'm assuming… that… JJ, that's why that… sorry?
+
+01:44:48.000 --> 01:44:50.000
+Anderson Tenecela: You have to do one.
+
+01:44:48.000 --> 01:44:51.000
+JJ Liriano: Yeah. Yeah, it kept showing up.
+
+01:44:51.000 --> 01:45:01.000
+David Smith: Yeah, I mean, that was what we're supposed to do. We're only supposed to pull these particular things out and put it on it if we saw that there's some kind of a pattern.
+
+01:44:52.000 --> 01:44:53.000
+Anderson Tenecela: Okay.
+
+01:44:53.000 --> 01:45:02.000
+Anderson Tenecela: Right, right, right.
+
+01:45:01.000 --> 01:45:11.000
+David Smith: So this is what we're looking at, and yet we recognize, I think, what does it mean to be good at crafting and implementing in a dynamic audio system?
+
+01:45:02.000 --> 01:45:06.000
+Anderson Tenecela: Oh, absolutely!
+
+01:45:15.000 --> 01:45:30.000
+David Smith: So what I'm pointing out is is that as we do our research, we're creating more questions for ourselves. We need to be able to go in. So, for example, August, when you were, you know, talking about.
+
+01:45:21.000 --> 01:45:25.000
+Anderson Tenecela: Right now?
+
+01:45:30.000 --> 01:45:32.000
+Anderson Tenecela: No, no, no.
+
+01:45:30.000 --> 01:45:45.000
+David Smith: well, we… no, we just mentioned SolidWorks, that wasn't on your list. Uh… woodworking. We'll talk about woodworking. So, you gave yourself bad scores in woodworking, you want to get better at it, but…
+
+01:45:42.000 --> 01:45:44.000
+Anderson Tenecela: I don't have anybody.
+
+01:45:44.000 --> 01:45:59.000
+Anderson Tenecela: But that question to me — Think about it. You're taking care of your mom. And you're trying to figure out all these other things in your relationship. And now it's like, when I needed this the most, it was right there.
+
+01:45:45.000 --> 01:45:47.000
+David Smith: Is that a strategy?
+
+01:45:54.000 --> 01:46:01.000
+David Smith: Yeah, the evidence shows that I have a bad score in woodworking, and I want to get better at it. But is that the strategy?
+
+01:46:00.000 --> 01:46:07.000
+Anderson Tenecela: I think that, you know, I've tried to control things in my life.
+
+01:46:01.000 --> 01:46:15.000
+David Smith: No. So, this is what I'm saying is, what would… what might a strategy be here? Now you can speculate a little. I'm… I'm gonna stick with you, August, for a while, because I'm… I'm… I… I feel comfortable that you're not insulted by saying that you need to get better, it would work.
+
+01:46:07.000 --> 01:46:10.000
+Anderson Tenecela: It felt like I had to control it, and then I realized that I needed.
+
+01:46:12.000 --> 01:46:16.000
+Anderson Tenecela: And when I surrendered.
+
+01:46:15.000 --> 01:46:20.000
+David Smith: But yeah, okay, you want to get better at woodwork. What's your strategy?
+
+01:46:16.000 --> 01:46:20.000
+Anderson Tenecela: And the more I do, Linda, the same thing you do in WWE.
+
+01:46:20.000 --> 01:46:22.000
+Anderson Tenecela: I'm not quite sure.
+
+01:46:22.000 --> 01:46:37.000
+Anderson Tenecela: Just stay on SmackDown or stay on Raw or stay on whatever. Whatever you need, whatever you need, I am here for you. And the more I've been able to do that, the more happy I am in my life.
+
+01:46:32.000 --> 01:46:33.000
+David Smith: Excuse me.
+
+01:46:35.000 --> 01:46:38.000
+David Smith: Are you aware that you've been certified in our scene shop?
+
+01:46:38.000 --> 01:46:40.000
+Anderson Tenecela: Okay.
+
+01:46:41.000 --> 01:46:44.000
+Anderson Tenecela: Okay.
+
+01:46:42.000 --> 01:46:48.000
+David Smith: Yeah, anyway, I'm I'm suggesting that if you recognize that you want to get better at woodworking.
+
+01:46:48.000 --> 01:46:53.000
+David Smith: Then we have. We have a couple of different things we need to look at one.
+
+01:46:53.000 --> 01:47:04.000
+David Smith: What does it mean, woodworking? How many different types of individual skills are probably involved in becoming a master at woodworking, or even competent in woodworking?
+
+01:47:05.000 --> 01:47:08.000
+David Smith: Are you able to articulate those yet?
+
+01:47:13.000 --> 01:47:15.000
+August Snyder: Yeah.
+
+01:47:14.000 --> 01:47:16.000
+David Smith: Yeah, I mean, this…
+
+01:47:16.000 --> 01:47:17.000
+Anderson Tenecela: Well, uh…
+
+01:47:16.000 --> 01:47:20.000
+David Smith: Okay, but this all I'm saying is that you can right now you can speculate.
+
+01:47:19.000 --> 01:47:20.000
+August Snyder: Yeah.
+
+01:47:20.000 --> 01:47:26.000
+David Smith: how to do it. But now that our evidence has pointed out that.
+
+01:47:26.000 --> 01:47:41.000
+David Smith: at least at the moment, and we'll, we'll, we'll circle back, because I think we need to be able to test our assumptions before we know that they're true, but is that, um, our evidence says that you need to get better at woodwork. Our strategy, um.
+
+01:47:29.000 --> 01:47:32.000
+Anderson Tenecela: There's a need to go through both of them.
+
+01:47:41.000 --> 01:47:54.000
+David Smith: is that we're going to perform a variety… we're going to practice and talk to people or whatever, you know, that's sort of an overarching strategy is to get better at woodwork. But the tactics are.
+
+01:47:50.000 --> 01:47:51.000
+Anderson Tenecela: I don't know.
+
+01:47:54.000 --> 01:48:00.000
+David Smith: Learn this, learn that, learn these three things, then put these three things together and.
+
+01:48:00.000 --> 01:48:20.000
+David Smith: You may not know enough to be able to say, these are the things I need to do in order to master woodworking. So now that opens up another research question. In order to be considered a master of woodworking, or a master of WWYs, or a master of Unreal.
+
+01:48:10.000 --> 01:48:12.000
+Anderson Tenecela: I don't believe that.
+
+01:48:20.000 --> 01:48:23.000
+David Smith: What does the industry, um.
+
+01:48:23.000 --> 01:48:24.000
+David Smith: Um… okay.
+
+01:48:24.000 --> 01:48:40.000
+David Smith: mean when they say you're competent in something? And this is where I wanted to, like, come back. You have made… I will call it that your own assessment of your capabilities are speculative, right? You're basing this on.
+
+01:48:40.000 --> 01:48:57.000
+David Smith: what your own internal evidence is. Yeah, I worked in this a while, and I did some programming, and I did a little bit of 3D printing, and I feel I'm pretty good at it. But are you? How do we make an assessment about where we stand on this particular chart?
+
+01:48:54.000 --> 01:49:05.000
+Anderson Tenecela: Which is kind of ironic, but McMahon, he called them half things, he called them dinosaurs, he fought them for all out of criminal records, which is kind of ironic, but McMahon.
+
+01:48:57.000 --> 01:49:12.000
+David Smith: And that's where our evidence is now pointing to additional research saying, okay, what I need now is to break down woodworking. We're just using woodworking as the example into ten, 12 different basic types of tasks.
+
+01:49:09.000 --> 01:49:10.000
+Anderson Tenecela: Got it.
+
+01:49:12.000 --> 01:49:20.000
+David Smith: And now you're going to do the same type of analysis. For example, I'm just guessing, August, that you know how to use a hammer.
+
+01:49:17.000 --> 01:49:20.000
+Anderson Tenecela: Oh, I'm sorry.
+
+01:49:20.000 --> 01:49:22.000
+Anderson Tenecela: Oh, I'm not very…
+
+01:49:20.000 --> 01:49:37.000
+David Smith: I'm assuming, right, that there are certain things that you can do. You can probably pull out a pen knife and, you know, carve a little bit of wood on a stick or something. Maybe you haven't done too much of it, but there are certain things you can do. And then there are things that you know you can't do.
+
+01:49:37.000 --> 01:49:53.000
+David Smith: But even most importantly, there are things that you don't know you can't do. And you don't learn those until you actually start the process of saying, OK, now I'm going to get better at woodworking, and I have to develop some tactics. So that's what I'm saying here.
+
+01:49:40.000 --> 01:49:44.000
+Anderson Tenecela: Yes. You don't need it.
+
+01:49:55.000 --> 01:49:59.000
+August Snyder: Yeah, I think… I mean, I've used most tools, but I think it's more like…
+
+01:49:56.000 --> 01:49:57.000
+David Smith: Any…
+
+01:49:59.000 --> 01:50:03.000
+August Snyder: using them safely, you know, like in a more organized way.
+
+01:50:02.000 --> 01:50:04.000
+Anderson Tenecela: That happened to me.
+
+01:50:03.000 --> 01:50:06.000
+August Snyder: Uh, environment, I guess.
+
+01:50:06.000 --> 01:50:11.000
+David Smith: Yeah, or I call it workflow or best practice.
+
+01:50:06.000 --> 01:50:09.000
+Anderson Tenecela: Yes.
+
+01:50:09.000 --> 01:50:12.000
+August Snyder: Yeah. Yeah.
+
+01:50:11.000 --> 01:50:15.000
+David Smith: We can all… we can all… oh, what's the term? Dabble.
+
+01:50:15.000 --> 01:50:17.000
+David Smith: I dabble in lots of stuff.
+
+01:50:17.000 --> 01:50:19.000
+Anderson Tenecela: Oh yeah, any questions, any comments, any comments?
+
+01:50:17.000 --> 01:50:25.000
+David Smith: I have professional competencies in a smaller amount of things, but I can dabble at practically anything. And if I dabble enough.
+
+01:50:20.000 --> 01:50:24.000
+Anderson Tenecela: Yeah, I didn't know for I don't know, so sometimes the wine, I don't know.
+
+01:50:25.000 --> 01:50:45.000
+David Smith: I might get pretty good at it, but I'm probably an intuitive dabbler. I worked at it and found the areas that were interesting to me, and I kept exploring those, and I completely missed these other 5 areas that, if you really were good at ZBrush, or whatever the software application is.
+
+01:50:45.000 --> 01:50:50.000
+David Smith: You would at least know how to navigate to here and to do these particular types of processes.
+
+01:50:47.000 --> 01:50:48.000
+Anderson Tenecela: No, thank you very much.
+
+01:50:50.000 --> 01:51:01.000
+David Smith: This is all part of what our next sort of steps are going to be, is to do further breakdown, but we also have to validate our assumptions.
+
+01:50:58.000 --> 01:51:02.000
+Anderson Tenecela: Can you take it again? Ready?
+
+01:51:01.000 --> 01:51:05.000
+Gabriel Aguilar: I have a follow-up question about that.
+
+01:51:02.000 --> 01:51:03.000
+David Smith: Yep.
+
+01:51:04.000 --> 01:51:06.000
+David Smith: Yeah, absolutely.
+
+01:51:05.000 --> 01:51:08.000
+Gabriel Aguilar: So, like, from your experience.
+
+01:51:06.000 --> 01:51:08.000
+Anderson Tenecela: Oh…
+
+01:51:08.000 --> 01:51:10.000
+Gabriel Aguilar: dabbling…
+
+01:51:10.000 --> 01:51:19.000
+Gabriel Aguilar: how do you know… I mean, I think this is just kind of my question as, like, a generalist and a creative technologist, which is kind of a general field, is, like.
+
+01:51:19.000 --> 01:51:21.000
+Gabriel Aguilar: How do you know…
+
+01:51:21.000 --> 01:51:27.000
+Gabriel Aguilar: what… when you're dabbling for is an actual passion, and how do you know when it's, like…
+
+01:51:27.000 --> 01:51:29.000
+Anderson Tenecela: No.
+
+01:51:27.000 --> 01:51:32.000
+Gabriel Aguilar: Something you want to actually be doing, rather than…
+
+01:51:32.000 --> 01:51:33.000
+Gabriel Aguilar: a…
+
+01:51:33.000 --> 01:51:35.000
+Anderson Tenecela: And.
+
+01:51:34.000 --> 01:51:37.000
+Gabriel Aguilar: solution to a problem that you need to solve.
+
+01:51:36.000 --> 01:51:39.000
+Anderson Tenecela: Okay.
+
+01:51:38.000 --> 01:51:48.000
+David Smith: Yeah, no, that's an excellent question. First, I would say I can answer the first part is that by definition, if you're dabbling, you're doing it because you want to.
+
+01:51:40.000 --> 01:51:41.000
+Anderson Tenecela: Okay.
+
+01:51:41.000 --> 01:51:42.000
+Anderson Tenecela: Okay.
+
+01:51:48.000 --> 01:51:55.000
+David Smith: I think that's sort of the first, right? Like, oh, I think I'm gonna learn how to oil paint. I'm gonna go buy some paint, and I'm gonna start painting.
+
+01:51:55.000 --> 01:52:00.000
+David Smith: You know. So I'm doing that because I want to. When does it become actionable?
+
+01:52:00.000 --> 01:52:17.000
+David Smith: I don't know, that's sort of hard. You know, I think that we all started dabbling in game development, or we all started dabbling in this when we weren't even considering this as a career, but we started to develop a passion. We just started to say, oh, this is really interesting. I would I wouldn't mind doing this.
+
+01:52:17.000 --> 01:52:21.000
+David Smith: Um, real, for real. And at that point.
+
+01:52:21.000 --> 01:52:24.000
+David Smith: It's no longer a game.
+
+01:52:24.000 --> 01:52:31.000
+David Smith: It's your job. Our goal is to find a job that we love to do, but.
+
+01:52:31.000 --> 01:52:37.000
+David Smith: You do things that you love to do it because you love to do them.
+
+01:52:37.000 --> 01:52:54.000
+David Smith: You don't have to love what you do in a job, but you do have to do everything that they want you to do in the job. And I think very often dabbling allows you to do the stuff that you're interested in and fun. But as soon as you say this is now going to be a career area.
+
+01:52:54.000 --> 01:53:01.000
+David Smith: I gotta do all the stuff I gotta. I gotta work in all the areas, and I have to be more.
+
+01:53:01.000 --> 01:53:07.000
+David Smith: methodical about my approach to learning it.
+
+01:53:07.000 --> 01:53:14.000
+David Smith: and at that point you recognize. Oh, I'm never gonna I don't think I'm ever going to use this feature.
+
+01:53:13.000 --> 01:53:14.000
+Anderson Tenecela: Thank you for having me.
+
+01:53:14.000 --> 01:53:21.000
+David Smith: But I'm expected to be an expert, and there may be a time in the future when I might need that feature.
+
+01:53:21.000 --> 01:53:23.000
+David Smith: so that…
+
+01:53:23.000 --> 01:53:31.000
+David Smith: Um, you… in order to ex… be able to explain the competency within any of these.
+
+01:53:28.000 --> 01:53:30.000
+Anderson Tenecela: No, no, no.
+
+01:53:31.000 --> 01:53:36.000
+David Smith: Um, types of platforms, you have to expect that in an interview.
+
+01:53:36.000 --> 01:53:45.000
+David Smith: They're gonna be asking you questions about any part of that application. And you could reply saying.
+
+01:53:45.000 --> 01:54:01.000
+David Smith: I don't know. I don't really use that section. But this is what you can do in this section. A, B, Xyz, and I say, in terms of workflow, I generally go this other way, and I use this other. I use this particular plugin, and I and it is, and at a certain point.
+
+01:53:53.000 --> 01:53:56.000
+Anderson Tenecela: I didn't want to do that.
+
+01:54:01.000 --> 01:54:10.000
+David Smith: And it happens relatively quickly. They'll know whether you have the competencies at the level that they're expecting.
+
+01:54:10.000 --> 01:54:16.000
+David Smith: And you know that the questions are going to be in the areas that they are considered, important to them.
+
+01:54:16.000 --> 01:54:18.000
+David Smith: So…
+
+01:54:18.000 --> 01:54:26.000
+David Smith: This is all sort of part of this larger development, I think. I'm not sure if I answered your question.
+
+01:54:26.000 --> 01:54:29.000
+David Smith: Partially or a little bit.
+
+01:54:28.000 --> 01:54:31.000
+Gabriel Aguilar: Yeah, it helped. It helped, for sure.
+
+01:54:30.000 --> 01:54:43.000
+David Smith: Yeah, at a certain point you have to say, Okay, I used to. I do this because I love it. I do it because it's my passion. But now it's a job, and I have to do every part of it. I have to do the parts I don't like as well as the parts I do like.
+
+01:54:43.000 --> 01:54:55.000
+David Smith: you know, paperwork. For me, that's, ah! But, you know, it's essential, and you have to be good at it. And you have to be able to, you know, you have to at least find it interesting.
+
+01:54:45.000 --> 01:54:47.000
+Gabriel Aguilar: Yeah, that makes sense.
+
+01:54:48.000 --> 01:54:49.000
+Anderson Tenecela: What time is it?
+
+01:54:55.000 --> 01:55:00.000
+David Smith: Okay, is that is that good? So.
+
+01:55:01.000 --> 01:55:04.000
+David Smith: Here is…
+
+01:55:04.000 --> 01:55:10.000
+David Smith: One possible way of turning into a strategy.
+
+01:55:10.000 --> 01:55:29.000
+David Smith: Um, so we noticed all three of those postings, and of course, this is… I didn't cherry pick. I randomly picked, but I'd imagine that if I went to 1020, I'd find, you know, there's some unity over here, and there's some other things, but it looks that there is a large number of.
+
+01:55:26.000 --> 01:55:29.000
+Anderson Tenecela: Okay, okay, okay, okay.
+
+01:55:29.000 --> 01:55:48.000
+David Smith: these types of game developer for sound that really want to use Wwise, and that's a… Wwise, by the way, is middleware, and it allows you to do spatial audio and other types of things in an easier way than Unreal is. Unreal, you can do everything in it.
+
+01:55:38.000 --> 01:55:40.000
+Anderson Tenecela: Just one minute, please.
+
+01:55:48.000 --> 01:55:54.000
+David Smith: But you have to build it from the ground up. And very often you find these implementation tools that speed up the process.
+
+01:55:53.000 --> 01:55:55.000
+Anderson Tenecela: Could you tell me more about your symptoms?
+
+01:55:54.000 --> 01:55:55.000
+David Smith: Um…
+
+01:55:55.000 --> 01:56:12.000
+David Smith: And so the inference, though, is that these types of audio implementations, in other words, we want you to be able to connect different types of applications and put them together to develop a workflow is maybe the larger question that they're looking for.
+
+01:56:09.000 --> 01:56:12.000
+Anderson Tenecela: Thank you very much.
+
+01:56:12.000 --> 01:56:26.000
+David Smith: And so, you know, if they're saying that, uh, they need WIs, and you're going into this interview, and you don't… haven't used it all that much, you better have used some other types of integration middlewares or things like that.
+
+01:56:26.000 --> 01:56:37.000
+David Smith: Um, and also, as you start to see it, you recognize that maybe using only other types of middleware is somewhat stopgap, and I should probably.
+
+01:56:33.000 --> 01:56:34.000
+Anderson Tenecela: Okay.
+
+01:56:36.000 --> 01:56:37.000
+Anderson Tenecela: Okay, thank you.
+
+01:56:37.000 --> 01:56:43.000
+David Smith: build a demo out of WYS, right? If they're asking for it.
+
+01:56:43.000 --> 01:56:59.000
+David Smith: You want to do more than just say, yeah, I can do that. Oh, yeah, I can do that. I can do that. Well, yeah, well, prove prove it to me. How? Oh, well, here's my demo. I built this, and I can describe what's happening. And if you want me to open it up, I can, you know, talk about the different aspects.
+
+01:56:49.000 --> 01:56:50.000
+Anderson Tenecela: Yep, yep.
+
+01:56:59.000 --> 01:57:12.000
+David Smith: And the assumption, however, is that a demo would show readiness for this work. At this point, everything that I've said here is a speculation.
+
+01:57:10.000 --> 01:57:11.000
+Anderson Tenecela: I don't have to know either.
+
+01:57:12.000 --> 01:57:14.000
+David Smith: Can we prove it?
+
+01:57:14.000 --> 01:57:17.000
+Anderson Tenecela: Craig, are you from New York?
+
+01:57:15.000 --> 01:57:20.000
+David Smith: It's still a strategy, but, you know, like, uh, there was a, um…
+
+01:57:20.000 --> 01:57:22.000
+David Smith: You know, someone that says.
+
+01:57:22.000 --> 01:57:23.000
+David Smith: Oh.
+
+01:57:23.000 --> 01:57:27.000
+David Smith: I may not know art, but I know what I like.
+
+01:57:27.000 --> 01:57:29.000
+David Smith: is, uh…
+
+01:57:29.000 --> 01:57:30.000
+David Smith: um…
+
+01:57:30.000 --> 01:57:33.000
+David Smith: is sort of…
+
+01:57:33.000 --> 01:57:37.000
+David Smith: But there can — this is coming out wrong.
+
+01:57:34.000 --> 01:57:36.000
+Anderson Tenecela: Okay, okay, okay.
+
+01:57:37.000 --> 01:57:40.000
+David Smith: You can make a strategy. Is it a good strategy?
+
+01:57:40.000 --> 01:57:47.000
+David Smith: So it's the strategies. We don't know if the strategies work or not. So we have to also evaluate.
+
+01:57:47.000 --> 01:57:48.000
+Anderson Tenecela: Okay, I'll be covering for you.
+
+01:57:47.000 --> 01:57:52.000
+David Smith: Is this path going to work for us? That's sort of our next step.
+
+01:57:50.000 --> 01:57:53.000
+Anderson Tenecela: Thank you.
+
+01:57:52.000 --> 01:57:54.000
+David Smith: Um…
+
+01:57:54.000 --> 01:58:03.000
+David Smith: And I think from that, once you have this plan, even if it's a speculative, then we can…
+
+01:57:57.000 --> 01:57:59.000
+Anderson Tenecela: Yeah, I've been doing pretty great.
+
+01:58:03.000 --> 01:58:05.000
+David Smith: Um, be…
+
+01:58:05.000 --> 01:58:10.000
+David Smith: I have to be able to test any assumptions.
+
+01:58:10.000 --> 01:58:20.000
+David Smith: that this plan that we have is going to work. This is sort of part of an assessment feedback. We'll work on this again.
+
+01:58:20.000 --> 01:58:33.000
+David Smith: But the idea is that no, there's a famous saying, Clausewitz is the second time I've used it today. So Clausewitz said no plan. Clausewitz was a great military strategist, frankly.
+
+01:58:31.000 --> 01:58:37.000
+Anderson Tenecela: Okay.
+
+01:58:33.000 --> 01:58:48.000
+David Smith: or earlier, and, um, Napoleonic era. I guess he sort of, uh, summarized the whole Napoleonic battle area. And his… probably his most famous aphorism is, no plan survives the battlefield.
+
+01:58:43.000 --> 01:58:45.000
+Anderson Tenecela: Oh, yeah, pretty much. Thank you.
+
+01:58:48.000 --> 01:58:56.000
+David Smith: And what this basically means is that no matter how meticulously you prepare and plan.
+
+01:58:56.000 --> 01:58:59.000
+David Smith: Things are going to happen that are going to make your plan change.
+
+01:58:59.000 --> 01:59:09.000
+David Smith: And, that means that our plans can't be so beholden in stone that we can't change them.
+
+01:59:09.000 --> 01:59:24.000
+David Smith: we have to be able to continually evaluate, modify, and make changes to it. Because we're changing, the job market is changing, the tools are changing, you know, all of these things are changing, they're moving targets. That's what we want to do, is to be able to keep up with the moving.
+
+01:59:24.000 --> 01:59:25.000
+David Smith: targets.
+
+01:59:25.000 --> 01:59:39.000
+David Smith: So, um, what we are going to be doing in this next part is to look for some approaches to.
+
+01:59:39.000 --> 01:59:54.000
+David Smith: how to let me look at my time. Okay, we have enough time barely. I want to look at what are approaches that you can take in order to start to turn this material into.
+
+01:59:50.000 --> 01:59:54.000
+Anderson Tenecela: Thank you.
+
+01:59:54.000 --> 02:00:00.000
+David Smith: into actionable, meaningful plans.
+
+02:00:00.000 --> 02:00:05.000
+David Smith: And that we can start to develop the actual roadmap.
+
+02:00:02.000 --> 02:00:07.000
+Anderson Tenecela: Thank you.
+
+02:00:05.000 --> 02:00:09.000
+David Smith: And so I have some.
+
+02:00:09.000 --> 02:00:10.000
+David Smith: um…
+
+02:00:12.000 --> 02:00:27.000
+David Smith: I'm going to introduce the next topic right now, and then we'll come back, and you'll see what what your work is, because I need to introduce this before what the what the next step is in terms of proving and testing your hypothesis about what my strategy is going to be, or.
+
+02:00:18.000 --> 02:00:23.000
+Anderson Tenecela: Yeah, I don't have too much.
+
+02:00:27.000 --> 02:00:40.000
+David Smith: Or, is the evidence that I'm acquiring realistic? Those are important parts. Whenever you have a number on one of these charts, you have to have a reason for why you made yourself a 2 as opposed to a 3.
+
+02:00:40.000 --> 02:00:55.000
+David Smith: Or, you know, 40 as opposed to a 60. That's that is, under the hood at the moment, those numbers are just your feelings about how good you are. And you need to be able to find out how good am I really at each of these.
+
+02:00:55.000 --> 02:01:11.000
+David Smith: To do that, we need to figure out what the industry thinks is good, and then we have to have a way of breaking that down into the individual pieces so you can assess each of these pieces that are required. That's sort of the next step.
+
+02:01:11.000 --> 02:01:27.000
+David Smith: Here is my question because we are in emerging media. Emerging media technology means that the areas that we cover are those types of techniques, technologies.
+
+02:01:27.000 --> 02:01:42.000
+David Smith: or capabilities that have been proven in the science laboratory, but may not have been completely engaged in to our society. So in emerging media, what do you think? What's the big, what's the big gorilla?
+
+02:01:42.000 --> 02:01:45.000
+David Smith: in emerging media right now.
+
+02:01:48.000 --> 02:01:53.000
+David Smith: The most emerging of emerging emergencies, I guess.
+
+02:01:52.000 --> 02:01:53.000
+Gabriel Aguilar: There you are.
+
+02:01:53.000 --> 02:02:11.000
+David Smith: AI. So what this means, and I recognize, I mean, this is AI is a wicked problem. AI is a developing tool. There are all sorts of recognitions about how much to use or what's appropriate or what is ethical.
+
+02:02:11.000 --> 02:02:25.000
+David Smith: But under the hood of all of these is that AI is an emerging technology, and no matter where you end up on this arc of use, you have to develop some competencies in it.
+
+02:02:25.000 --> 02:02:35.000
+David Smith: I would be shocked if none of if there were people here that never used a single piece of AI. But I also recognize that there are people that don't really like to use it.
+
+02:02:35.000 --> 02:02:37.000
+David Smith: Um, uh, but…
+
+02:02:37.000 --> 02:02:54.000
+David Smith: We're an emerging media technology. And I think that there are things that you have to know, no matter what your passions are. And so what I want to do over sort of this, this, this next period is to sort of explore a little bit about how we might be able to use.
+
+02:02:54.000 --> 02:03:10.000
+David Smith: AI to help us in some of these processes with appropriate ethical and verification checks along the way. So I'm going to start this because we have little time, but I think we can do it in half an hour. I'm sure we can do it in half an hour.
+
+02:03:10.000 --> 02:03:15.000
+David Smith: I am going to give you another provocation, and I want you to.
+
+02:03:15.000 --> 02:03:16.000
+David Smith: Um…
+
+02:03:16.000 --> 02:03:18.000
+David Smith: Right, about five minutes.
+
+02:03:19.000 --> 02:03:24.000
+David Smith: 5. Oh, it is 5 min. So where has AI helped you?
+
+02:03:26.000 --> 02:03:28.000
+David Smith: My, my Deutsches.
+
+02:03:28.000 --> 02:03:42.000
+David Smith: Shreklish. Okay, so, um, where has AI helped you perform an operation, whatever that operation is, right? Write a term paper, write an email, um, draw a picture, I don't know. And then.
+
+02:03:43.000 --> 02:03:54.000
+David Smith: Has there been a time when AI's response has changed how you understand a problem? So, 5 minutes. I'll leave this up. I was going to show you this.
+
+02:03:54.000 --> 02:04:09.000
+David Smith: But this actually has the 2 questions. So I give you 5 min right in your journal. And then I'm going to come back and suggest a couple of strategies that. And then we're going to talk about next week's assignment.
+
+02:04:10.000 --> 02:04:12.000
+David Smith: And then I'm gonna…
+
+02:04:12.000 --> 02:04:25.000
+David Smith: close the class, and next week we're in person, of course. Okay, if there are no questions, I will go ahead and mute myself, and I will pop back at 4:29, giving us 31 minutes.
+
+02:09:38.000 --> 02:09:41.000
+David Smith: Okay, here we are, last half hour.
+
+02:09:41.000 --> 02:09:43.000
+David Smith: Um…
+
+02:09:44.000 --> 02:09:52.000
+David Smith: You'll have time to report more on this as we think about it. I just wanted to lay this down as a marker. Just, you know, to.
+
+02:09:52.000 --> 02:10:02.000
+David Smith: at this particular point. And now I'm just going to move forward. So that, where do I do it here?
+
+02:10:02.000 --> 02:10:20.000
+David Smith: Yeah, here we go. So that was supposed to be the provocation slide. My apologies. But what I want to do is that, as most of you are aware, I work in this area called balanced blended space and that I'm looking at AI and how do we approach AI as a collaborator rather than as a tool.
+
+02:10:20.000 --> 02:10:34.000
+David Smith: Um, those can sometimes be soft, amorphous concepts, but I have some very specific ways that I differentiate between what I consider a tool and what I consider a collaborator. Um, so…
+
+02:10:35.000 --> 02:10:50.000
+David Smith: The idea is that, of course, we can use it both ways, just as we use people both ways. My definition of a tool is that you tell a tool what to do and it does it for you. And I'm not saying how well it does because you can have a good tool or a bad tool.
+
+02:10:50.000 --> 02:11:06.000
+David Smith: But the idea is if you need to dig a hole, you can do it with a spoon, but a shovel might be better. Rake probably doesn't work very well at all. And I don't even want to consider how I would do it with a straw. They're all tools, and some perform the job better than others.
+
+02:11:06.000 --> 02:11:25.000
+David Smith: And so, these would be a couple of, um… yeah, so here's an example. Organize my job research notes. In other words, I did a stream of consciousness, I was writing a lot of notes, they're in a document, and now I would like you to just put it in order. Put it in order by most important to least important, or alphabetically, or…
+
+02:11:25.000 --> 02:11:42.000
+David Smith: or something like that. That is an example of the use of a tool. My definition of collaboration is that it's iterative, that there's a conversation of some level, that there's an exchange and there's an iterative loop where you keep coming back.
+
+02:11:42.000 --> 02:12:00.000
+David Smith: And refining or speculating or all the types of things that you might do, with humans. And I think that we can see that humans can also be tools or not. You know, I would have, college assistant when I was dean, and I would tell the college assistant, I want all of these put into a spreadsheet.
+
+02:12:00.000 --> 02:12:17.000
+David Smith: and they would put it into a spreadsheet. I'm not asking the college assistant to come up with any strategic conclusions about what's in the spreadsheet. I'm just asking them to do that. But other people, like all my research associates I work with it in in Chi.
+
+02:12:17.000 --> 02:12:32.000
+David Smith: our collaborators, because we have a conversation that goes back and forth. And so I think that that's what we want to look at when we use machine intelligence as well. These are capabilities. We don't know where they're going, but at the moment they they can do certain things.
+
+02:12:32.000 --> 02:12:40.000
+David Smith: But at the point where you're starting to ask a question as opposed to.
+
+02:12:40.000 --> 02:12:45.000
+David Smith: Telling it to do something is.
+
+02:12:45.000 --> 02:12:57.000
+David Smith: is the point where you are moving into collaboration mode. And I think that that's the sort of the way that we want to to use it for this next particular.
+
+02:12:57.000 --> 02:13:01.000
+David Smith: set. So I move to this next slide.
+
+02:13:02.000 --> 02:13:03.000
+David Smith: Um…
+
+02:13:06.000 --> 02:13:11.000
+David Smith: You have a model, and you have.
+
+02:13:11.000 --> 02:13:14.000
+David Smith: evidence about your model.
+
+02:13:14.000 --> 02:13:19.000
+David Smith: You will identify.
+
+02:13:19.000 --> 02:13:33.000
+David Smith: from what your chart has, and I hope that when I was going through it that you can… you could see where I was sort of poking a little bit, because what you want to do is you want to start to come up with a list of questions.
+
+02:13:33.000 --> 02:13:48.000
+David Smith: Um, and assumptions that this evidence has given you, and you already spoke about it, you know, woodworking. My assumption is that I need to get better at woodworking. That's the assumption.
+
+02:13:48.000 --> 02:14:01.000
+David Smith: The question might be, how do I get better at woodworking? But you have, you know, you will come up with a set. You have a set of criteria. You know, I…
+
+02:14:04.000 --> 02:14:08.000
+David Smith: Where's my mouse? Trying to find how this thing works.
+
+02:14:09.000 --> 02:14:20.000
+David Smith: Yeah, so Ananya used percentage points. And so there were some assumptions made about what those percentage points mean.
+
+02:14:20.000 --> 02:14:26.000
+David Smith: And what we want to be able to do is to come up with a way of being able to question our assumptions.
+
+02:14:26.000 --> 02:14:41.000
+David Smith: This is always very important. Always question an assumption. Always question a speculation. That's what research is. And what we're trying to do now is we're trying to dig in deeper to get a more detailed picture of those types of things that would be needed.
+
+02:14:42.000 --> 02:14:57.000
+David Smith: And then what we can do when you come back is that AI will examine that same evidence, and then we're going to compare what these are. And this is something that you can do on your own, but we will also do this in class next week.
+
+02:14:57.000 --> 02:15:02.000
+David Smith: as we'll be moving on to the next part. So.
+
+02:15:03.000 --> 02:15:05.000
+David Smith: However…
+
+02:15:05.000 --> 02:15:10.000
+David Smith: When we have AI giving us stuff back.
+
+02:15:10.000 --> 02:15:34.000
+David Smith: I have a couple of rules that are bedrock. One, if you don't understand AI output for a particular question, task, or whatever, you have no business using AI to do that because AI is a probabilistic machine that comes up with what may be considered a most likely result. Sometimes that aligns with what we're thinking about, and sometimes it just makes stuff up.
+
+02:15:34.000 --> 02:15:49.000
+David Smith: And often, and I'm sure you've heard all these stories, you know, AI is just trying to be friendly and telling you what you want to do, and it leads you down a rabbit's hole. And the next thing you know, you're sitting on top of a mountain because you sold all of your stuff. And then you say, AI, you told me I was going to be happy. And I said.
+
+02:15:50.000 --> 02:16:08.000
+David Smith: why are you trusting me? I'm an AI. You know, the idea is you can't trust it, um, and uh… also, um… uh… yeah, so that was the second one. You have to verify anything that comes out of AI. If AI is saying that this is the case.
+
+02:16:08.000 --> 02:16:17.000
+David Smith: Check it out. It can point you in a direction, but it may not be pointing you in the right direction.
+
+02:16:17.000 --> 02:16:18.000
+David Smith: So…
+
+02:16:18.000 --> 02:16:25.000
+David Smith: if AI is making claims, or if you're making claims, this counts, I should just make this intelligence.
+
+02:16:25.000 --> 02:16:34.000
+David Smith: Um, a supported claim means that the source, a verifiable or a reasonable source.
+
+02:16:34.000 --> 02:16:50.000
+David Smith: supports that argument. And I do this all the time with AI. And very often now, they provide you where they got the source from. And often I see, oh, they're going to Facebook. I say, wait a second. No, I don't want Facebook. I need something real.
+
+02:16:50.000 --> 02:16:54.000
+David Smith: Because, you know, it's just pulling stuff. It doesn't know. And.
+
+02:16:54.000 --> 02:17:14.000
+David Smith: So if the claim that is made by you or by AI can be supported, then that adds weight to that particular claim. That becomes important. Unverified means that the source has not been provided, but it may seem reasonable.
+
+02:17:14.000 --> 02:17:32.000
+David Smith: And if it's unverified, how do we test that? This becomes really important when you pull things out of AI, or you pull things out of anything, you know, a newspaper, you want to be able to say, is this verifiable? This is one of the big things in academic research, which is why there's so.
+
+02:17:32.000 --> 02:17:51.000
+David Smith: gung-ho on citations and bibliographies and footnotes and indexes. Anytime you make a claim in an academic paper that's not something like, you know, we breathe air, or the United States Declaration of Independence was 1776, you know, there's certain claims that are just sort of.
+
+02:17:52.000 --> 02:18:10.000
+David Smith: known, or sort of allowed to be considered common knowledge, but even that is problematic. But any other kind of claim, you're going to say, you know, more sleep makes you more productive, or better sleep makes you more productive. You better have a source, some medical.
+
+02:18:10.000 --> 02:18:27.000
+David Smith: peer-reviewed journal that has done a test to demonstrate that more sleep makes you study better, or whatever the claim is. We want to be able to list our claims, and the claims can come from the evidence that we've created. You know, I'm claiming that I'm.
+
+02:18:27.000 --> 02:18:47.000
+David Smith: moderately good at this, but I'm not very good at that. Okay, how do you test that? How do we know that you are moderately good? What does moderately good mean? This is the next step. And you know you're doing the right thing. You're at the right place. You have to do research in order to speculate, to do more research. And that's where we are right now.
+
+02:18:47.000 --> 02:18:56.000
+David Smith: What I'm suggesting is that you have other ways of also testing for accuracy or for helping you as you start to speculate it.
+
+02:18:56.000 --> 02:19:00.000
+David Smith: The third part, um, unsupported.
+
+02:19:00.000 --> 02:19:07.000
+David Smith: It's wrong! You know, or it's… it's so incomplete that…
+
+02:19:07.000 --> 02:19:22.000
+David Smith: it's not helping at all. And I'm running into this. I use a lot of times, and I do this a lot. You probably do, too, is that instead of going to owner's manuals anymore, and for complex questions, I'm learning Dorico, which is a notation application.
+
+02:19:22.000 --> 02:19:37.000
+David Smith: and it's very rich and very deep, as many of these other things are, and I may not know how to add an up bow. So instead of like hunting down the down the manual and looking for it, I go to. Well, it depends. I use Gemini right now for this, I say.
+
+02:19:37.000 --> 02:19:40.000
+David Smith: In Dorco, how do I do an up bow?
+
+02:19:40.000 --> 02:19:49.000
+David Smith: And it says, oh, that's easy. You hit the shift B, and then you use the V, and now you have an upo sign. Okay, well, that's a claim.
+
+02:19:49.000 --> 02:19:51.000
+David Smith: How do we verify it?
+
+02:19:54.000 --> 02:19:55.000
+David Smith: Anyone?
+
+02:20:00.000 --> 02:20:02.000
+JJ Liriano: Try trying it out.
+
+02:20:02.000 --> 02:20:17.000
+David Smith: Try it out! That's all, yeah, this is an obvious thing, right? Okay, I'm gonna go to Dorico, I'm gonna hold the shift P, and I'm gonna type the V, and if I get an up-bow sign, by the way, it's a V, um, it… then I know it works, and if it doesn't.
+
+02:20:17.000 --> 02:20:32.000
+David Smith: then I know it's wrong. And I was in this one loop earlier today where I was just trying to get it to remove all the rests that were in a measure, and it kept taking me back to the same thing again and again and again, and I got mad and stuff, and eventually I figured it out. But.
+
+02:20:32.000 --> 02:20:43.000
+David Smith: You know, the point is, this is that I would not I would never trust it unless I checked it. And here's a good way of thinking about this.
+
+02:20:43.000 --> 02:21:00.000
+David Smith: I need to find the actual paper that discusses it. But the idea is that you can assess the accuracy of other news stories in a paper or a publication based on how accurate they are about a story.
+
+02:21:00.000 --> 02:21:16.000
+David Smith: or an area that you're an expert in. And what we find, and this happens all the time, so you need to be able to put this into your hat. And I'll tell you about my, I have a story about this in New York Times, because you think of New York Times as a reputable source of truth.
+
+02:21:16.000 --> 02:21:35.000
+David Smith: But, the point being is that I will be if I'm an expert in area and I have some areas that I'm expert in, I can read it and know immediately whether it's bullshit or not. You know, I know. Oh, that's wrong. And that's right. And that's right. But that's not right. And this is backwards. And they got this upside down.
+
+02:21:35.000 --> 02:21:56.000
+David Smith: But and then, if I go to another thing in the same paper. But I'm not an expert in. I sort of assume that they're right. But why should I assume they're right? If I'm going to the area I'm an expert in, and it's full of mistakes, you know. So this is something that we have this view in our head that if we're getting this information and we don't know about it.
+
+02:21:56.000 --> 02:22:13.000
+David Smith: that that information is true. And as professionals, we need to push back strongly on that, because there's so much bad information out there. And I'll point out that the LLMs that upon which these, uh, these, uh, generative AI.
+
+02:22:13.000 --> 02:22:21.000
+David Smith: applications have been built are mostly trained on the internet. And how much of the internet do you think is just wrong?
+
+02:22:22.000 --> 02:22:31.000
+David Smith: I don't, you know, what do you think? What do you think the percentage is, you know, of all the words that are on the internet and the way that they're put together?
+
+02:22:31.000 --> 02:22:34.000
+David Smith: How many stupid ideas are out on the Internet?
+
+02:22:34.000 --> 02:22:37.000
+Jose: I don't know, like 99%.
+
+02:22:36.000 --> 02:22:53.000
+David Smith: I don't know if it's 99%. But the point is, it's not. It's not an insignificant amount of of stuff that's just wrong on the Internet. And if it's if it's on the Internet, it's baked into the Llm. And that means that some of the wrong headedness of the Internet.
+
+02:22:53.000 --> 02:22:57.000
+David Smith: is going to be baked into these LLMs, and you just have to be careful.
+
+02:22:57.000 --> 02:23:08.000
+David Smith: You know, for the most part, there's some ability, if you have 100 news reports on the same thing, same event, and 98 of them.
+
+02:23:08.000 --> 02:23:13.000
+David Smith: Are saying that the car was red, and one of them was saying the car was blue.
+
+02:23:13.000 --> 02:23:16.000
+David Smith: Probably the car was red.
+
+02:23:16.000 --> 02:23:25.000
+David Smith: And so, you know, there are certain ways that aggregation of multiple things might tend to move us towards the truth, but we're never at the truth.
+
+02:23:25.000 --> 02:23:33.000
+David Smith: Because it's the virtual world, it's just a model. Anyway, I don't want to go on further with that, but I will point out, I'll be right back, I'm taking this off the wall.
+
+02:23:39.000 --> 02:23:51.000
+David Smith: So I was. I was blessed. I don't know if blessed, but I did some inventions in virtual orchestra, and I guess I was blessed. The New York Times picked.
+
+02:23:51.000 --> 02:23:59.000
+David Smith: our patent to be on the front page of their patent section back in May 31st of 2004.
+
+02:23:59.000 --> 02:24:11.000
+David Smith: And, uh, when I read it, because, you know, I'm the inventor, I know what the invention is, there are probably 8 things in this article that they got wrong.
+
+02:24:11.000 --> 02:24:29.000
+David Smith: either I didn't explain it well enough, or they didn't understand it. I guess if they didn't understand it. I didn't explain it well enough. For the most part it does a fairly good job of being able to describe what the invention is and what our goals and things are, but some of the minutiae.
+
+02:24:29.000 --> 02:24:31.000
+David Smith: are wrong.
+
+02:24:31.000 --> 02:24:32.000
+David Smith: Okay.
+
+02:24:35.000 --> 02:24:50.000
+David Smith: Yeah. For example, last year, during a musician strike, Broadway producers threatened to replace picketing musicians with the virtual orchestra, and they call it the virtual orchestra machine, which is, I won't even go into there. That's what the union called it, because they wanted to deny its, musicality.
+
+02:24:50.000 --> 02:25:03.000
+David Smith: The result was a labor agreement with the Musicians Union allowing the system to be used on Broadway only as a supplement. Never happened. Never happened. The agreement was only about minimums, and they lowered the minimums.
+
+02:25:03.000 --> 02:25:11.000
+David Smith: They never said anything about that. So that was wrong. And there are probably 8 or 9 other things in here. And this is the New York Times.
+
+02:25:11.000 --> 02:25:16.000
+David Smith: And it's one article. So here's my take on newspapers.
+
+02:25:17.000 --> 02:25:35.000
+David Smith: Maybe the bulk of any given article in a newspaper might sort of be correct. It's going to be full of little minutiae errors and things like that they just didn't get, because who has time in a newspaper to do the level of checking that you have to do in academia.
+
+02:25:35.000 --> 02:25:39.000
+David Smith: Anyway, that is, um…
+
+02:25:39.000 --> 02:25:48.000
+David Smith: something that we need to be very careful about, no matter where our information is. Check your sources, verify, get a second opinion, all of this kind of stuff.
+
+02:25:48.000 --> 02:25:51.000
+David Smith: Okay. Yeah, that was that.
+
+02:25:51.000 --> 02:26:02.000
+David Smith: So, this is sort of what I want you to be considering as we move into this next assignment, and um…
+
+02:26:05.000 --> 02:26:14.000
+David Smith: What I want you to do is to take all of your writing, your analysis, the selected ads.
+
+02:26:15.000 --> 02:26:17.000
+David Smith: Any of this kind of stuff.
+
+02:26:17.000 --> 02:26:19.000
+David Smith: And I want you to…
+
+02:26:19.000 --> 02:26:29.000
+David Smith: I want you to analyze your own analysis. I want you to come up with what are the conclusions.
+
+02:26:29.000 --> 02:26:34.000
+David Smith: that come from this particular analysis.
+
+02:26:34.000 --> 02:26:39.000
+David Smith: And what are questions?
+
+02:26:39.000 --> 02:26:40.000
+David Smith: that…
+
+02:26:40.000 --> 02:26:42.000
+David Smith: Um…
+
+02:26:42.000 --> 02:26:58.000
+David Smith: that come to mind because I don't know the answer to it. And a lot of those are going to be to become more specific in this right. We're talking about some evidence, and we have to turn it into a strategy and.
+
+02:26:58.000 --> 02:27:00.000
+David Smith: And then.
+
+02:27:01.000 --> 02:27:03.000
+David Smith: You're going to give this to AI.
+
+02:27:03.000 --> 02:27:07.000
+David Smith: And you want to find out.
+
+02:27:07.000 --> 02:27:18.000
+David Smith: based on your list what it thinks. But you also just want to give it everything that you have and ask it for.
+
+02:27:18.000 --> 02:27:31.000
+David Smith: What are conclusions that I have made that are not supported by evidence? May there be other alternative careers or options that I missed?
+
+02:27:31.000 --> 02:27:35.000
+David Smith: And what questions would you ask?
+
+02:27:35.000 --> 02:27:38.000
+David Smith: In order to, um…
+
+02:27:38.000 --> 02:27:50.000
+David Smith: have a better design. For each one of these, then, I want you to ask it how you know that. What is the evidence that you're using to support that claim?
+
+02:27:50.000 --> 02:28:06.000
+David Smith: And this is where I think the important part is for this overall activity. And just in terms of the larger picture of your life is to start to recognize when a statement that you make is a claim.
+
+02:28:06.000 --> 02:28:24.000
+David Smith: In other words, it's just something that I am saying based on my speculative evidence or whatever. Anyone can make a claim. I claim I'm floating on the ceiling. That doesn't mean I'm really floating on the ceiling. In fact, I probably am not. In fact, I think that the evidence is not supporting my claim.
+
+02:28:24.000 --> 02:28:27.000
+David Smith: of ceiling floating this.
+
+02:28:27.000 --> 02:28:37.000
+David Smith: And this can become very subtle, but you're… you're making… in the visualization and in your analysis, you're making a bunch of assumptions, you're…
+
+02:28:37.000 --> 02:28:42.000
+David Smith: Implying a number of questions.
+
+02:28:42.000 --> 02:28:57.000
+David Smith: And we need to make sure that we have a veracity, that it is true. So that is like, if you look at your radar chart, you made some assumptions about how good you are. OK.
+
+02:28:57.000 --> 02:29:06.000
+David Smith: How do we know that that assumption is correct? Because right now, it's just speculation. We're gonna… this is sort of the next step. Notice…
+
+02:29:06.000 --> 02:29:21.000
+David Smith: I'm not asking. Do not ask them for a rewritten career plan that's treating the AI as a tool. Rewrite my career plan. No, don't do that. I mean, you can later. You can do it. But for purposes of this particular activity, we just want.
+
+02:29:21.000 --> 02:29:37.000
+David Smith: to use AI to help us question the assumptions that we've made to identify places where there are holes in our argument, or where our reasoning is faulty. I guess those mean the same thing. But maybe there is no evidence.
+
+02:29:37.000 --> 02:29:53.000
+David Smith: And I think also to quantify your your Likert scale, your scale about your capabilities compared to the capabilities of the world is what we need, to quantify next. I'm not asking for the career plan. This is analysis.
+
+02:29:53.000 --> 02:29:57.000
+David Smith: And the use of AI as an investigation.
+
+02:29:57.000 --> 02:30:00.000
+David Smith: Um, and…
+
+02:30:00.000 --> 02:30:01.000
+David Smith: Um…
+
+02:30:01.000 --> 02:30:12.000
+David Smith: at the end of it, we will have a response, and I want you to be able to check the veracity of the claims that they made, and the… and, um…
+
+02:30:12.000 --> 02:30:15.000
+David Smith: And then, of course, the question then becomes.
+
+02:30:15.000 --> 02:30:32.000
+David Smith: what do you do next? And for it to be sort of a collaboration, you have to push back or provide other things. I think one of the… a really good type of a prompt is, do you have any questions for me? Is there anything that I'm leaving out? Can I provide more information? Blah, blah, blah, blah.
+
+02:30:33.000 --> 02:30:39.000
+David Smith: So that's the exercise. I'll show you the assignment.
+
+02:30:39.000 --> 02:30:43.000
+David Smith: Yeah. Here's your exit ticket. So.
+
+02:30:46.000 --> 02:30:49.000
+David Smith: I want you to, uh…
+
+02:30:49.000 --> 02:30:54.000
+David Smith: Identify what are the assumptions that you are making?
+
+02:30:54.000 --> 02:31:00.000
+David Smith: Do they hold up for under review?
+
+02:31:00.000 --> 02:31:07.000
+David Smith: And what can I bring out of this particular interaction with the AI that I can use?
+
+02:31:08.000 --> 02:31:16.000
+David Smith: And also what we're going to be starting to talk about next week. This is week four. So week five.
+
+02:31:16.000 --> 02:31:25.000
+David Smith: we're gonna… we're gonna start to pivot towards this idea of future jobs, future careers, what is the industry gonna be like in the future? Because…
+
+02:31:25.000 --> 02:31:42.000
+David Smith: We're not getting a job in the past, and we're not getting a job in the present. We're getting jobs in the future. We need to keep up with where the technology is and the direction of the field. This is a challenging time, I understand it, but I want to equip you with as many tools and as many approaches as possible.
+
+02:31:42.000 --> 02:31:56.000
+David Smith: So you can continue your evolution. OK, so that ends the slideshow. Let me bring up the — oh.
+
+02:31:56.000 --> 02:32:00.000
+David Smith: Wait. No, that's not. Is this what I'm showing? What am I showing?
+
+02:32:00.000 --> 02:32:04.000
+David Smith: Here it is. Okay.
+
+02:32:04.000 --> 02:32:05.000
+David Smith: Okay.
+
+02:32:05.000 --> 02:32:12.000
+David Smith: I'm gonna make sure I'm gonna bring this up right in in Github. Can you see this?
+
+02:32:13.000 --> 02:32:22.000
+David Smith: I don't know. I don't know what this means. Can you see that I'm bringing up the class Github site? Or do I need to reshare my screen again?
+
+02:32:21.000 --> 02:32:23.000
+Gabriel Aguilar: Yeah, we can see it.
+
+02:32:22.000 --> 02:32:23.000
+Ananya: You can see it.
+
+02:32:23.000 --> 02:32:28.000
+David Smith: Okay, good. So here we are. Here's the GitHub site.
+
+02:32:28.000 --> 02:32:40.000
+David Smith: I will update this to 1D, but this is the assignment that we had as of today. And, um, I never update this until after the class, because I never really know what the assignment is until the class is over.
+
+02:32:36.000 --> 02:32:38.000
+John Viernes: Wait.
+
+02:32:39.000 --> 02:32:42.000
+John Viernes: Sorry, uh, if I'm interrupting.
+
+02:32:41.000 --> 02:32:43.000
+David Smith: I'm sorry?
+
+02:32:44.000 --> 02:32:50.000
+John Viernes: Uh, weren't you gonna post assignment 1C in Brightspace? I think you skipped that.
+
+02:32:51.000 --> 02:32:52.000
+John Viernes: Like last week.
+
+02:32:51.000 --> 02:32:53.000
+David Smith: Wait a second. What?
+
+02:32:53.000 --> 02:32:55.000
+John Viernes: Assignment 1C.
+
+02:32:54.000 --> 02:32:56.000
+David Smith: Let me go back.
+
+02:32:57.000 --> 02:32:59.000
+David Smith: to the README.
+
+02:33:03.000 --> 02:33:19.000
+David Smith: Uh, well, you're working on assignment 1, which is ABCDE, so that's why I have assignment 1. That was week 3, that was assignment 1C. We had an assignment 1A, a 1B, and a 1C. If you look under the assignments, there they are, 1A, 1B.
+
+02:33:19.000 --> 02:33:21.000
+David Smith: 1C.
+
+02:33:20.000 --> 02:33:23.000
+John Viernes: Yeah, I know. Just wanted to know.
+
+02:33:21.000 --> 02:33:27.000
+David Smith: And that's the visualization, John. You did a visualization, you're trying to do it, that's the assignment 1C.
+
+02:33:29.000 --> 02:33:32.000
+David Smith: Okay, anyway. So here's 1D.
+
+02:33:33.000 --> 02:33:48.000
+David Smith: AI collaboration and future careers. So I want you to spend a little time thinking about and working through this process about how the your field is going to be changing in the future. Note.
+
+02:33:48.000 --> 02:34:03.000
+David Smith: by definition, we have trend lines, we have, you know, linear regressions and ways of plotting forward, but it's all speculation. Anything that's gonna happen in the future is speculation. Even if I…
+
+02:34:03.000 --> 02:34:09.000
+David Smith: Oh, let me hold up something. Even if I have this little amazing jewel, those piece of glass.
+
+02:34:09.000 --> 02:34:13.000
+David Smith: And I speculate that if I let go of it, it drops.
+
+02:34:13.000 --> 02:34:15.000
+David Smith: Uh, and it hits the desk.
+
+02:34:16.000 --> 02:34:25.000
+David Smith: And probably pretty clear that if I do let go, it will hit the desk because it's over the desk. But we don't know for sure until I actually drop it.
+
+02:34:25.000 --> 02:34:34.000
+David Smith: Oh, it hit the desk! Okay, yay! But now it's in the past, so now it's no longer speculation. It did hit the desk, but if I do it again…
+
+02:34:34.000 --> 02:34:49.000
+David Smith: Probably it will hit the desk again. I could go on and on. I don't need to. But I think the important part is recognizing that You know, past performance is no guarantee of future progress. And that's what we have to think about. But we also want to be.
+
+02:34:49.000 --> 02:34:58.000
+David Smith: limber, facile, and able to adapt to change as it happens. And in order to adapt to change, you have to see the change come in.
+
+02:34:58.000 --> 02:35:13.000
+David Smith: And those who see the change coming two years down the road are going to be better prepared to deal with it than people that see it coming one year down the road, and certainly better prepared than people that just see it happening, and it's showing up in front of their front view mirror, and oof.
+
+02:35:13.000 --> 02:35:21.000
+David Smith: head-on collision. So that's what we want to do. Anyway, back to the purpose. So…
+
+02:35:22.000 --> 02:35:27.000
+David Smith: I'm requiring the AI use in this assignment just to, you know.
+
+02:35:27.000 --> 02:35:43.000
+David Smith: And you, you choose the system, you pick what it is you want to use, but display, you know, provide who you used or whatever. And you're still responsible for all your sources, interpretations and final writing.
+
+02:35:43.000 --> 02:35:49.000
+David Smith: We can use AI later, but at this point, please, you know, sort of stay away from it from the actual writing component.
+
+02:35:49.000 --> 02:35:51.000
+David Smith: Um…
+
+02:35:51.000 --> 02:36:02.000
+David Smith: So what I want you to do is to start with a summary of your existing work. I'm not asking you to speculate on how well you did.
+
+02:36:02.000 --> 02:36:05.000
+David Smith: In a particular class.
+
+02:36:05.000 --> 02:36:10.000
+David Smith: And from that, make an assessment. I just want you to provide some existing work.
+
+02:36:10.000 --> 02:36:12.000
+David Smith: And um.
+
+02:36:12.000 --> 02:36:14.000
+David Smith: Uh…
+
+02:36:14.000 --> 02:36:25.000
+David Smith: your career direction, your competing directions. I think just use your speculative proposal that everything should be in your speculative proposal. Just make sure that these are included when you feed it to it.
+
+02:36:25.000 --> 02:36:40.000
+David Smith: Some of your job advertisements that you identified. So give it that. Provide the the gaps. Just provide your skills chart and anything else.
+
+02:36:40.000 --> 02:36:57.000
+David Smith: That may affect this strategy. For example, I don't like working during the day or, I really love working with my hands. You know, those are important little ancillary things. You can get a job whether you love it or not, but we want to find jobs that we love to do.
+
+02:36:57.000 --> 02:36:59.000
+David Smith: Okay.
+
+02:36:59.000 --> 02:37:00.000
+David Smith: Um…
+
+02:37:00.000 --> 02:37:06.000
+David Smith: As I said before, any advertisements or external sources go into Zotero.
+
+02:37:06.000 --> 02:37:08.000
+David Smith: And um.
+
+02:37:08.000 --> 02:37:19.000
+David Smith: Then what you're going to do is that you are going to, uh, you know, you've developed somewhat of a strategy that's based on this, and you want to, um…
+
+02:37:19.000 --> 02:37:27.000
+David Smith: Uh, do an exchange that allows it to explore with you what this strategy might be.
+
+02:37:27.000 --> 02:37:29.000
+David Smith: Um…
+
+02:37:29.000 --> 02:37:30.000
+David Smith: And then.
+
+02:37:30.000 --> 02:37:52.000
+David Smith: What you should get from that is some observations and some ideas, and I want you to pull those ideas. This could be iterative. In other words, explain a little bit more about this, and many of these Llms are designed to keep the conversation going. You'll find more and more with these that they always end with a question. Would you like me to blah blah blah?
+
+02:37:52.000 --> 02:38:01.000
+David Smith: Uh, you know, don't go blindly along with them, but, you know, guide the conversation and see what information you can get out. Then…
+
+02:38:02.000 --> 02:38:18.000
+David Smith: Speculate about possible future careers. So what we want to do is that based on this ask AI, what other types of careers with based on all this stuff might be usable, might be useful, and it's fine to.
+
+02:38:18.000 --> 02:38:33.000
+David Smith: Work with existing careers, but also a little speculation about future. Next week we're talking future careers. The the entire, day, the class is going to be dealing with where is the market going and what are possible.
+
+02:38:33.000 --> 02:38:48.000
+David Smith: directions, and how can we… how may we anticipate where the careers are going so we can… we can pre-order, we can start to develop the competencies about where… where the career is going to go, as opposed to where the career is right now. I think these are important.
+
+02:38:48.000 --> 02:38:55.000
+David Smith: And then for each of these trajectories, we have some questions.
+
+02:38:55.000 --> 02:39:05.000
+David Smith: Then, I'm asking you to challenge it. One of the things that happens a lot in AI is that you just sort of take it for granted. It's so friendly, and it's telling you what you're thinking is brilliant.
+
+02:39:05.000 --> 02:39:22.000
+David Smith: It's going to tell everybody, you know, I brought a banana for lunch today. Oh, what an amazing good idea that is. Bananas are highly nutritious and full of potassium. Oh, wait, no, I brought a peanut, you know, I brought a Snickers bar. Oh, yeah, Snickers are great.
+
+02:39:22.000 --> 02:39:34.000
+David Smith: You know, you're gonna get this kind of stuff, so it's always really important to push back, question assumptions, tell it to be truthful, ask it if it's lying, uh, you know, those are the types of things. And then, um…
+
+02:39:34.000 --> 02:39:40.000
+David Smith: And then I want you to just sort of do an analysis.
+
+02:39:40.000 --> 02:39:55.000
+David Smith: about this, and whether anything came out of it. Nothing may come out of it. I don't know, but it's a it's an interesting place to explore, and you do need to at least be able to take a look and get a better feeling, for you know the way that these new.
+
+02:39:55.000 --> 02:40:00.000
+David Smith: productivity agents are being used.
+
+02:40:00.000 --> 02:40:03.000
+David Smith: And, uh, yeah, then there you are, you submit it.
+
+02:40:04.000 --> 02:40:27.000
+David Smith: That's the assignment. Continue with your evaluation. I mean, your strategic plan. After next week, we're going to bundle it together, and we're going to start to get very, very specific about what are the next steps. Some of these steps may be things that you should be doing right now, even before you're no longer a student. And we talk more about that later. It's 5:01. I just realized I went over.
+
+02:40:27.000 --> 02:40:30.000
+David Smith: Any questions right now? I'm going to stop the share.
+
+02:40:30.000 --> 02:40:32.000
+John Viernes: Yeah, and…
+
+02:40:30.000 --> 02:40:32.000
+David Smith: Oh.
+
+02:40:32.000 --> 02:40:34.000
+David Smith: Yes, John?
+
+02:40:33.000 --> 02:40:40.000
+John Viernes: One, thanks for the whole career advice thing. It really helps a lot. And second.
+
+02:40:40.000 --> 02:40:47.000
+John Viernes: Didn't I kind of do one here already, since you said it was this, uh, chart analysis thing?
+
+02:40:47.000 --> 02:40:51.000
+David Smith: Yeah, but that was one C. This is one D. This is the next assignment.
+
+02:40:51.000 --> 02:40:53.000
+John Viernes: Mm. Mm.
+
+02:40:52.000 --> 02:41:06.000
+David Smith: So if you go into — here's GitHub. If you go into the assignments, they're all in order. We just finished one — oh, I'm not sharing. I'm sorry. Stupid me. Hold on. I'll do a final share.
+
+02:41:06.000 --> 02:41:12.000
+David Smith: Desktop 2. Here we are. So here are the assignments in Github.
+
+02:41:12.000 --> 02:41:14.000
+David Smith: And.
+
+02:41:14.000 --> 02:41:21.000
+David Smith: Let's see. Yeah. So here's 1C. That's where we were. And this is the assignment for this week.
+
+02:41:21.000 --> 02:41:38.000
+David Smith: And then you'll see that this is next week. 1F is obsolete. Um, but 1E is future modeling and adaptive planning. That's what we're going to be working on next week. Um, this week is about introducing the AI, and, uh, oh, I see a bunch of things in chat. Were people chatting? And I should have been…
+
+02:41:38.000 --> 02:41:41.000
+David Smith: Monitoring it, or…
+
+02:41:41.000 --> 02:41:42.000
+David Smith: Everyone.
+
+02:41:41.000 --> 02:41:49.000
+John Viernes: So my career assessment thing from last week had a part of 1C in it, as well as 1B?
+
+02:41:49.000 --> 02:42:09.000
+David Smith: Yeah, everything is iterative, right? In the end, there's one strategic roadmap plan that's going to have all of these together, and it's going to be the document that is your planning document, so you can continue to develop your skills, because we have a plan, and I'm not just doing it willy-nilly. I have a plan, and I know what's the most important, and I know.
+
+02:41:51.000 --> 02:41:52.000
+John Viernes: Hmm. Okay.
+
+02:42:02.000 --> 02:42:04.000
+John Viernes: Yes.
+
+02:42:09.000 --> 02:42:16.000
+David Smith: what the steps are, and I know I have to get a bronze medal before I can get the silver medal, etc, etc.
+
+02:42:17.000 --> 02:42:18.000
+John Viernes: Because…
+
+02:42:18.000 --> 02:42:24.000
+John Viernes: I got two out of the three for this week, and now there's this fourth one.
+
+02:42:23.000 --> 02:42:25.000
+David Smith: That's right.
+
+02:42:24.000 --> 02:42:30.000
+John Viernes: I got the first reflection, that's 1A. I got the career assessment, that's 1B.
+
+02:42:29.000 --> 02:42:31.000
+David Smith: Yep.
+
+02:42:30.000 --> 02:42:36.000
+John Viernes: And the analysis at the bottom of 1B, that's… is that 1C? That was 1C already?
+
+02:42:35.000 --> 02:42:40.000
+David Smith: No, 1C is visualization. Here's 1C.
+
+02:42:41.000 --> 02:42:48.000
+David Smith: So you're supposed to go to every job search site.
+
+02:42:48.000 --> 02:42:54.000
+David Smith: And you want to see. And this is a quick thing. You just want to see which ones work for you.
+
+02:42:54.000 --> 02:43:09.000
+David Smith: You know. Oh, I have nothing to do with. I don't want to work on a cruise ship, and I'm not interested in sound. This is, carnival cruise lines. I don't need that. You know, others say, oh, this is good. This has lots of game developers or whatever it is. Once you identify those.
+
+02:42:54.000 --> 02:42:56.000
+John Viernes: Yes.
+
+02:43:09.000 --> 02:43:11.000
+David Smith: Then, um…
+
+02:43:11.000 --> 02:43:19.000
+David Smith: You will in the shared Zotero library, which I can share Zotero.
+
+02:43:19.000 --> 02:43:24.000
+David Smith: Zotero, this is the easiest way. Oh, look, it's already in tech 402.
+
+02:43:22.000 --> 02:43:23.000
+John Viernes: Okay.
+
+02:43:26.000 --> 02:43:29.000
+David Smith: And we go to the library.
+
+02:43:29.000 --> 02:43:40.000
+David Smith: And in the library I built a student collections. And you'll see in it that, Anderson, August, Ethan, Gabriel, Joab, John, that's you.
+
+02:43:40.000 --> 02:43:49.000
+David Smith: And Riccardi have their folders, and this is where you're going to put your job advertisements and things in your Zotero links.
+
+02:43:49.000 --> 02:43:50.000
+John Viernes: Got it.
+
+02:43:50.000 --> 02:44:06.000
+David Smith: So that's, that is part of, uh, this is the one C, yeah. And then you're supposed to look at some visualization platforms, right? And that's what you were talking about. You were, you were having some problems, but we can look at some of those. And then, um, and then, um.
+
+02:44:07.000 --> 02:44:12.000
+David Smith: Uh, you build a skills gap and a SWAT.
+
+02:44:07.000 --> 02:44:08.000
+John Viernes: Bye.
+
+02:44:12.000 --> 02:44:22.000
+David Smith: those are the two different, uh, visualization things that we were looking at. We'll look… we'll do other visualizations, because you're going to need some Gantt charts and stuff as you develop a roadmap.
+
+02:44:22.000 --> 02:44:24.000
+David Smith: And then, um, you submit.
+
+02:44:25.000 --> 02:44:27.000
+David Smith: That's it.
+
+02:44:26.000 --> 02:44:28.000
+John Viernes: Yeah, got it.
+
+02:44:27.000 --> 02:44:33.000
+David Smith: Okay? And then, now, though, it is this one assignment. One d. Next one.
+
+02:44:34.000 --> 02:44:36.000
+John Viernes: Yes, indeed.
+
+02:44:35.000 --> 02:44:46.000
+David Smith: Okay, so you're close, John. You're almost there. You're almost done with 1C. Just finish that up and then go on to 1D. It shouldn't take that much time. And, uh, yeah, we will see you next week.
+
+02:44:38.000 --> 02:44:39.000
+John Viernes: Luna.
+
+02:44:41.000 --> 02:44:43.000
+John Viernes: Got it.
+
+02:44:46.000 --> 02:44:48.000
+John Viernes: Yes. See you next week.
+
+02:44:48.000 --> 02:45:07.000
+David Smith: Yes, and I will be in… we're in person. I know you're right on the other side of this door, but next week, we'll be in the same room with each other, and I will see all of you then. Um, I will hang on. I do have a 5.10, so I will hang on until 5.09, if anyone else has any questions, or they want to touch base, or anything. Otherwise, I will see you next week.
+
+02:45:08.000 --> 02:45:10.000
+David Smith: Thank you.
+
+02:45:22.000 --> 02:45:26.000
+David Smith: I will stop share.
+
+02:45:25.000 --> 02:45:28.000
+Jose: David, I'm gonna knock on your door now.
+
+02:45:27.000 --> 02:45:33.000
+David Smith: Oh, I'll open the door. I do literally have four minutes. I do have a 510.
+
+02:45:36.000 --> 02:45:38.000
+David Smith: There you are.
+
+02:45:45.000 --> 02:45:47.000
+David Smith: I think that's…
+
+02:45:47.000 --> 02:45:49.000
+David Smith: You should try every day.
+
+02:45:59.000 --> 02:46:01.000
+David Smith: Okay, good, thank you.
+
+02:46:01.000 --> 02:46:02.000
+David Smith: Okay.
+
+02:46:02.000 --> 02:46:03.000
+David Smith: Okay, okay.
+
+02:46:06.000 --> 02:46:08.000
+David Smith: Well, if you're a professional.
+
+02:46:10.000 --> 02:46:13.000
+David Smith: I was — I'm a wildcat. I was being my professional pilot.
+
+02:46:17.000 --> 02:46:18.000
+David Smith: Bye.
+
+02:46:18.000 --> 02:46:20.000
+David Smith: That's if you want to do it.
+
+02:46:20.000 --> 02:46:35.000
+David Smith: I don't know if you're trying to go out and play more. I don't know if you just want to develop some competencies and pleasure being able to play on it, and then maybe use it as a tool to input stuff so that you can compose music.
+
+02:46:36.000 --> 02:46:47.000
+David Smith: So if that's the case, you don't need to achieve this huge strength. You do need some facility to get around. You're not doing live real performance in your recording.
+
+02:46:47.000 --> 02:46:49.000
+David Smith: Or, you know, what a…
+
+02:46:49.000 --> 02:46:58.000
+David Smith: audio production or something like that. You can slow it way down and play very slowly and go back and say, all right, it's the wrong note. I'm gonna change that in the.
+
+02:46:58.000 --> 02:47:09.000
+David Smith: Simon Marquez, F5CA: So Simon Marquez, F5CA: that part's all right. Simon Marquez, F5CA: We do want to be able to see if we can carve out a little time like I think I told you.
+
+02:47:09.000 --> 02:47:16.000
+David Smith: But every morning, even like, even if it sucks, but get down and.
+
+02:47:16.000 --> 02:47:18.000
+David Smith: I put a couple of dots in there. So.
+
+02:47:19.000 --> 02:47:20.000
+David Smith: I see.
+
+02:47:21.000 --> 02:47:22.000
+David Smith: F's.
+
+02:47:22.000 --> 02:47:24.000
+David Smith: The idea is that.
+
+02:47:24.000 --> 02:47:28.000
+David Smith: to get better at something at the beginning system.
+
+02:47:30.000 --> 02:47:33.000
+David Smith: I just got a new shelf.
+
+02:47:36.000 --> 02:47:39.000
+David Smith: I wasn't there earlier today.
+
+02:47:39.000 --> 02:47:41.000
+David Smith: Um, good.
+
+02:47:41.000 --> 02:47:45.000
+David Smith: So yeah, that's that's what I have to say.
+
+02:47:46.000 --> 02:47:53.000
+David Smith: Erica Brewster WVLS and Sorry that I'm checking that I have said Erica Brewster WVLS and at the top on this other thing. I'.
+
+02:47:55.000 --> 02:48:00.000
+David Smith: Good. I'm assuming this is JAWS. Yeah. Okay. Cool.
+
+02:49:21.000 --> 02:49:24.000
+David Smith: I'm just about to pop in on my next class.
+
+02:49:24.000 --> 02:49:31.000
+David Smith: Sorry. No worries. Recording in progress. Sorry about this whole mess. Please would be my feast, right?
+
+02:49:31.000 --> 02:49:45.000
+David Smith: It's going to ask you for K3 nearest neighbors, close images or labels to this one, and then show display the image, yes or no, by default group.
+
+02:49:45.000 --> 02:49:56.000
+David Smith: So, what it does is open the image as an RGB. If show, it displays the image, that's why it's here on the bottom, right? And then it calls.
+
+02:49:56.000 --> 02:50:08.000
+David Smith: um, uh, something called image model, uh, uh, with creds, and then it asks the score for the predictions of each one of them, and then it calls, uh.
+
+02:50:08.000 --> 02:50:24.000
+David Smith: This is what the image does, the predict function does, and with the image we have, we have the image over here, and these are the predictions. It says that these are hard disk, this disk or something with the 0.55.
+
+02:50:24.000 --> 02:50:33.000
+David Smith: probability, a joystick with 0.049 or a modem with 0.038.
+
+02:50:33.000 --> 02:50:46.000
+David Smith: Uh, I can… I can see that it thinks it's a hard drive, because there are these, uh, solid-state hard drives that look like that, right? But, uh, it doesn't recognize that thing very well, you know?
+
+02:50:46.000 --> 02:50:52.000
+David Smith: and you recognize only one object. You can run it again. You can run this.
+
+02:50:53.000 --> 02:50:55.000
+David Smith: Took the file.
+
+02:50:56.000 --> 02:51:00.000
+David Smith: Then this time, this time I'm gonna pick…
+
+02:51:00.000 --> 02:51:05.000
+David Smith: The thing is that the images that I have.
+
+02:51:05.000 --> 02:51:08.000
+David Smith: I've moved to things. Let me let me open one.
+
+02:51:19.000 --> 02:51:33.000
+David Smith: when you upload your homework, please upload the couple of images you use, so that I can check how it works with those images. And then, at the same time, I can create a library of images that future generations.
+
+02:51:33.000 --> 02:51:35.000
+David Smith: Uh, other students can use for these, you know.
+
+02:51:35.000 --> 02:51:41.000
+David Smith: Professor, how will this show with two images, though?
+
+02:51:41.000 --> 02:51:42.000
+David Smith: Say it again?
+
+02:51:42.000 --> 02:51:49.000
+David Smith: Or will it show with two images? Because this only has one image and it showed the words.
+
+02:51:49.000 --> 02:51:52.000
+David Smith: Will it show the other image, like, right next to it?
+
+02:51:52.000 --> 02:52:01.000
+David Smith: No, no, no, this works one image at a time. Oh, okay. So how do you, how do you know?
+
+02:52:02.000 --> 02:52:12.000
+David Smith: Well, either you can take a screenshot or just describe what images you use. When you upload the project, you can upload the equipment.
+
+02:52:13.000 --> 02:52:15.000
+David Smith: Okay. Yes.
+
+02:52:17.000 --> 02:52:21.000
+David Smith: So this time, it says it's an acoustic guitar.
+
+02:52:21.000 --> 02:52:24.000
+David Smith: Point 33, an abacus.
+
+02:52:24.000 --> 02:52:30.000
+David Smith: 1.33, or electric guitar 1.2, right? Because it sees this…
+
+02:52:30.000 --> 02:52:35.000
+David Smith: It is this thing that look like strings, right?
+
+02:52:35.000 --> 02:52:40.000
+David Smith: Uh, so yeah, it's very confusing. And…
+
+02:52:40.000 --> 02:52:43.000
+David Smith: I'm going to do it one more time.
+
+02:52:47.000 --> 02:52:49.000
+David Smith: I'm gonna use…
+
+02:52:49.000 --> 02:52:50.000
+David Smith: is one.
+
+02:52:57.000 --> 02:53:03.000
+David Smith: This model is very old, right? I'm talking about probably 15 years old.
+
+02:53:03.000 --> 02:53:10.000
+David Smith: And it's a small, very free, cheap, right?
+
+02:53:10.000 --> 02:53:19.000
+David Smith: So, it recognizes only one object, you know, it doesn't do segmentation, so there are newer models that actually.
+
+02:53:19.000 --> 02:53:21.000
+David Smith: Do whose segmentation? Look.
+
+02:53:21.000 --> 02:53:25.000
+David Smith: Granny's meat, so granny's meat's a banana.
+
+02:53:25.000 --> 02:53:31.000
+David Smith: And then — sorry, Granny's meat is an apple, so he thought it was an apple.
+
+02:53:31.000 --> 02:53:38.000
+David Smith: And banana, 0.74. So the closest thing is an apple Granny's made.
+
+02:53:38.000 --> 02:53:40.000
+David Smith: Not even 5%.
+
+02:53:40.000 --> 02:53:43.000
+David Smith: And 50% is…
+
+02:53:43.000 --> 02:53:45.000
+David Smith: 140%.
+
+02:53:45.000 --> 02:53:49.000
+David Smith: And I'm going to do one more time. One more, please.
+
+02:53:52.000 --> 02:53:54.000
+David Smith: I'm gonna use…
+
+02:53:55.000 --> 02:53:57.000
+David Smith: Here's one.
+
+02:54:28.000 --> 02:54:38.000
+David Smith: I remember we are going to have a guest today. Professor Smith's here. Hi, everybody. I'll back out. Finish your thing. I'm happy.
+
+02:54:38.000 --> 02:54:40.000
+David Smith: I'm enjoying it.
+
+02:54:40.000 --> 02:54:41.000
+David Smith: Okay.
+
+02:54:49.000 --> 02:54:58.000
+David Smith: All right, so how we do with banana? Yeah, banana was recognized very well. You know, banana is clear that it's a banana, right?
+
+02:54:58.000 --> 02:55:05.000
+David Smith: I don't know why it mentioned these other three, but so this is pretty good, right?
+
+02:55:06.000 --> 02:55:21.000
+David Smith: Now, I want you to keep working on that, change the parameters for you to check if your image — remember, this is going to be different for everybody.
+
+02:55:21.000 --> 02:55:35.000
+David Smith: depending on the images you use, right? And that's how it's going to be interesting to see all that. So please upload your images into the homework so that I can see what happened, right? And answer these questions.
+
+02:55:35.000 --> 02:55:49.000
+David Smith: we, as I, as I mentioned to you, we have two models, one that is, uh, image-based, you know, and then the other part over here is, uh, we have this other model, where is it?
+
+02:55:50.000 --> 02:55:58.000
+David Smith: No, what is the other part? Breaking purpose. Yeah, this from here, from point.
+
+02:55:58.000 --> 02:56:16.000
+David Smith: From 4 and up, we are going to do something similar to what we did in the previous lab. We have these tickets which represent documents, right? But we are going to use the model that we got from Hugging Face.
+
+02:56:16.000 --> 02:56:28.000
+David Smith: to do zero-shot classification, right? So we are gonna classify these documents into different categories without telling anything, you know? So we are gonna classify them for software.
+
+02:56:29.000 --> 02:56:44.000
+David Smith: Or other categories, you know. So here is, okay, sorry, we have the categories are network, account, and hardware, right? So these are the categories. And then these tickets are going to be classified in each one of them. This is something, again.
+
+02:56:44.000 --> 02:57:01.000
+David Smith: There was no training for that. It was pre-trained, and you can start using these kind of things. Again, these models are very old, so they are not the latest. But one thing that you can do is try to figure out.
+
