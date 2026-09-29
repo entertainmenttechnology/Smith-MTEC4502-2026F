@@ -13,13 +13,12 @@ You are currently working on:
 <details>
   <summary>Past Assignments and Resources</summary>
 
-- [Assignment 1c - Integrating Visualization into Your Career Strategy](assignments/01c_Integrating_Visualization.md)
-- [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
-- [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)
 - [Assignment 00 - Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md)
 - [Assignment 1a - Reflective Essay Draft](assignments/01a_Reflective_Essay_Draft.md)
-- [Assignment 1 - Career Strategy Master Overview](assignments/01_Career_Strategy_Master_Overview.md)
+- [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
 - [Assignment 1b - Strategic Framework & Job Market Gap Analysis](assignments/01b_Strategic_Framework.md)
+- [Assignment 1c - Integrating Visualization into Your Career Strategy](assignments/01c_Integrating_Visualization.md)
+- [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)
 
 </details>
 
