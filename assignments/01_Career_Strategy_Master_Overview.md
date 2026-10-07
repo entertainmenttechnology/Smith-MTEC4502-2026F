@@ -63,12 +63,12 @@ flowchart TD
 
 ## Target Deliverables & Final Package
 
-By **Week 5**, you will compile your work into a unified PDF/Google Doc submission containing:
+By **Week 6**, you will compile your work into a unified PDF/Google Doc submission containing:
 
 1. **Final Reflective Essay & Strategic Framework Document** (incorporating revisions from Parts 1a & 1b).
-2. **Visual Career Strategy Artifact** (embedded image or shareable link from Parts 1c & 1d).
+2. **Visual Career Strategy Artifact** (embedded image or shareable link from Parts 1c, 1d, and 1e).
 3. **Annotated Future-of-Work Sources** (added to shared course Zotero library).
-4. **AI Process Log & Critical Reflection Report** (Part 1e).
+4. **AI Process Log & Critical Reflection Report** (if you have completed the cumulative reflection component in the current sequence).
 
 ---
 

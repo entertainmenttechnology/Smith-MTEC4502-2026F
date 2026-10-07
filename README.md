@@ -7,7 +7,7 @@ This repository is your working space for developing a career strategy, research
 
 You are currently working on:
 
-1. [**Assignment 1d - AI Collaboration and Career Futures**](assignments/01d_AI_Collaboration_and_Career_Futures.md) - Use AI to interrogate your current career strategy, speculate on two distinct career trajectories, and critically evaluate the collaboration.
+1. [**Assignment 1e - Future Modeling and Adaptive Planning**](assignments/01e_Future_Modeling_and_Adaptive_Planning.md) - Stress-test your career plan against future-of-work trends and revise your visual strategy map.
 2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
 
 <details>
@@ -18,6 +18,7 @@ You are currently working on:
 - [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
 - [Assignment 1b - Strategic Framework & Job Market Gap Analysis](assignments/01b_Strategic_Framework.md)
 - [Assignment 1c - Integrating Visualization into Your Career Strategy](assignments/01c_Integrating_Visualization.md)
+- [Assignment 1d - AI Collaboration and Career Futures](assignments/01d_AI_Collaboration_and_Career_Futures.md)
 - [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)
 
 </details>
