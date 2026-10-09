@@ -7,8 +7,9 @@ This repository is your working space for developing a career strategy, research
 
 You are currently working on:
 
-1. [**Assignment 1e - Future Modeling and Adaptive Planning**](assignments/01e_Future_Modeling_and_Adaptive_Planning.md) - Stress-test your career plan against future-of-work trends and revise your visual strategy map.
-2. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
+1. [**Assignment 1e v2: Future Modeling, Recursive Competency Mapping, and Adaptive Planning**](assignments/01e_Future_Modeling_and_Adaptive_Planning.md) - Continue developing your radar charts by making them more specific, recursive, and evaluable. Use the [Radar Chart Construction and Recursive Competency Assessment Guide](resources/radar_chart_construction_and_competency_assessment.md) to refine a role-level chart, break key axes into sub-radars, and build rubrics that clarify what evidence and performance level correspond to each competency. Bring your current iteration to class so we can assess what works, what needs revision, and what should be made more actionable.
+2. [**Assignment 2: Résumé Development & Analysis**](assignments/02_Resume_Development_Assignment.md) - This assignment is the next stage in the discussion: use your refined radar-chart work and competency language to begin shaping a more targeted résumé and professional narrative. It should grow out of the recursive assessment process, not replace it.
+3. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
 
 <details>
   <summary>Past Assignments and Resources</summary>
@@ -19,6 +20,9 @@ You are currently working on:
 - [Assignment 1b - Strategic Framework & Job Market Gap Analysis](assignments/01b_Strategic_Framework.md)
 - [Assignment 1c - Integrating Visualization into Your Career Strategy](assignments/01c_Integrating_Visualization.md)
 - [Assignment 1d - AI Collaboration and Career Futures](assignments/01d_AI_Collaboration_and_Career_Futures.md)
+- [Assignment 1e v2 - Future Modeling, Recursive Competency Mapping, and Adaptive Planning](assignments/01e_Future_Modeling_and_Adaptive_Planning.md)
+- [Radar Chart Construction and Recursive Competency Assessment Guide](resources/radar_chart_construction_and_competency_assessment.md)
+- [Resume Development Guide](resources/resume_development_guide.md)
 - [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)
 
 </details>
