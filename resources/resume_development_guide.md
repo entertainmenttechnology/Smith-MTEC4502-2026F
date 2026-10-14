@@ -1,5 +1,6 @@
 # 🧭 Best Practices in Resume Development  
 **For MTEC 4502 – Career and Portfolio Seminar**  
+David B. Smith - Last updated 2026-10-07. 
 
 ---
 
