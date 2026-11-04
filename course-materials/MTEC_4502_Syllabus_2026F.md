@@ -131,8 +131,8 @@ For the successful completion of this course, the student should be able to:
 | **8** | 10/21 | H | Portfolio implementation | Updated resume and portfolio draft |
 | **9** | 10/28 | FTF | Portfolio feedback: Round 1 | Portfolio update |
 | **10** | 11/04 | H | Portfolio progress review on Zoom | Present your current portfolio or prototype; comment on every other student's GitHub Discussion post. See the [Portfolio Progress Review class plan](../resources/portfolio_planning_guide.md). |
-| **11** | 11/11 | FTF | Cover letters | Cover letter draft due |
-| **12** | 11/18 | H | Cover-letter feedback and workplace ethics | Updated cover letter |
+| **11** | 11/11 | FTF | Portfolio publication and revision | Publish a live, accessible portfolio; complete the self-evaluation and respond to November 4 peer feedback. See [Assignment 6](../assignments/06_Online_Portfolio_and_Professional_Pitch.md). |
+| **12** | 11/18 | H | Cover letters: introduction, drafting, and feedback | Cover letter draft due; bring the target opportunity and draft for workshop. See [Assignment 4](../assignments/04_Cover_Letter_Assignment.md). |
 | **NO** | 11/25 | - | **Thanksgiving: no classes scheduled** | |
 | **13** | 12/02 | H | Budgeting as professional practice | Budget reflection and standalone artifact due |
 | **14** | 12/09 | FTF | Portfolio integration and professional pitch | Portfolio pitch rehearsal |

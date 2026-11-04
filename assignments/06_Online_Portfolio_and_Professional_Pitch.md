@@ -8,6 +8,23 @@
 
 ---
 
+## Portfolio Checkpoint: November 11, 2026
+
+For next week's checkpoint, focus on publishing and improving your portfolio. **Your portfolio site must be live and accessible to visitors by November 11.** It does not need to be final or fully polished, but it must open without edit access, an invitation, or a special course login. Test the link in a private or logged-out browser window.
+
+Use the feedback from the November 4 class and the [Portfolio Evaluation Questions](../resources/portfolio_evaluation_questions.md) to review your own site. Update your existing portfolio post in the [course GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general); do not create a duplicate.
+
+### Checkpoint Deliverables
+
+1. **Live portfolio URL:** Add or update the link in your existing GitHub Discussion post.
+2. **Self-evaluation:** Use the evaluation questions to assess your own site. Identify at least one strength, one issue or gap, and your highest-priority next revision.
+3. **Response to peer feedback:** Review the suggestions classmates gave you on November 4. Briefly summarize the feedback and explain what you have acted on, what you plan to revise next, and what you chose not to adopt (with a reason, if applicable).
+4. **Revision evidence:** Describe at least one change you made to the site in response to your self-evaluation or peer feedback. If you cannot implement it yet, state the next step and when you expect to complete it.
+
+Your self-evaluation and feedback response may be written in the same discussion post as your live link. Keep feedback and portfolio content professional, and do not publish private or sensitive personal information.
+
+---
+
 ## Overview
 
 The final capstone deliverable of MTEC 4502 is your **Online Professional Portfolio** and **Timed Professional Pitch**. Your portfolio synthesizes your work throughout the semester into a live, professional digital artifact that communicates your technical capabilities, strategic career narrative, and personal brand to employers, clients, or graduate admissions.

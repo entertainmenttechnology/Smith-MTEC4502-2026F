@@ -8,7 +8,7 @@ This repository is the shared course workspace for MTEC 4502 assignments, resour
 
 The current focus is the online portfolio and professional pitch:
 
-1. [**Assignment 6: Online Portfolio & Professional Pitch**](assignments/06_Online_Portfolio_and_Professional_Pitch.md) - Continue building and revising your portfolio. For portfolio review, use your existing individual post in [GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general); do not create a duplicate. If you have not posted, follow the pinned [Portfolio Evaluation instructions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/3). During the review, each student must comment substantively on every other student's post, excluding their own. See the [Portfolio Progress Review class plan](resources/portfolio_planning_guide.md).
+1. [**Assignment 6: Online Portfolio & Professional Pitch**](assignments/06_Online_Portfolio_and_Professional_Pitch.md) - Publish a live, accessible portfolio by November 11, evaluate your own site with the portfolio questions, and respond to feedback from the November 4 peer review. Use your existing individual post in [GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general); do not create a duplicate. See the [Portfolio Progress Review class plan](resources/portfolio_planning_guide.md) and [Portfolio Evaluation Questions](resources/portfolio_evaluation_questions.md).
 2. [**Assignment 3: Exploring and Evaluating Portfolio Platforms**](assignments/03_Evaluating_Portfolio_Platforms.md) - Refer to your platform evaluation and portfolio structure as you make revisions.
 
 <details>
