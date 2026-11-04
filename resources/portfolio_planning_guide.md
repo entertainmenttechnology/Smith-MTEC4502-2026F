@@ -73,6 +73,8 @@ Use these criteria to guide peer and instructor feedback; they do not add a new 
 | Next-step readiness | Is there a specific, achievable revision the student can make next? |
 | Peer participation | Did the student comment substantively on every classmate's post? |
 
+For constructive feedback prompts, use the standalone [Portfolio Evaluation Questions](portfolio_evaluation_questions.md).
+
 ## Copy-Ready Update for the Pinned Discussion
 
 The following text can replace or supplement the current instructions in the pinned [Portfolio Evaluation discussion](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/3):
@@ -95,6 +97,7 @@ Use your existing portfolio discussion post; do not create a duplicate if you ha
 - Before class ends, comment on **every other student's portfolio post**. Do not comment on your own. For a class of N students, each student must write N−1 comments.
 - Make each comment specific and constructive. Include one thing that is effective or clear, one question or observation, and one actionable suggestion related to the author's stated goals.
 - Comments such as “looks good” alone do not meet the requirement.
+- Use the standalone [Portfolio Evaluation Questions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/blob/main/resources/portfolio_evaluation_questions.md) to choose questions that fit each portfolio; you do not need to answer every question.
 ```
 
 > **A portfolio is a working document: use today's feedback to decide what to improve next.**

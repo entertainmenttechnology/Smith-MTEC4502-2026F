@@ -29,6 +29,7 @@ The current focus is the online portfolio and professional pitch:
 - [Assignment 6 - Online Portfolio and Professional Pitch](assignments/06_Online_Portfolio_and_Professional_Pitch.md)
 - [AI Collaboration Log Template](assignments/AI_Collaboration_Log_Template.md)
 - [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
+- [Portfolio Evaluation Questions](resources/portfolio_evaluation_questions.md)
 - [Radar Chart Construction and Recursive Competency Assessment Guide](resources/radar_chart_construction_and_competency_assessment.md)
 - [Resume Development Guide](resources/resume_development_guide.md)
 - [Shared Zotero Library](https://www.zotero.org/groups/6416274/mtec4502/library)

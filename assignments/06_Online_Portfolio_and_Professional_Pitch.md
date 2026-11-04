@@ -49,6 +49,7 @@ Your live portfolio site must include the following core sections:
 ## Resources & Reference Guides
 
 * [Portfolio Planning & Presentation Guide](../resources/portfolio_planning_guide.md)
+* [Portfolio Evaluation Questions](../resources/portfolio_evaluation_questions.md)
 * [Common Portfolio Platforms Guide](../resources/common_portfolio_platforms.md)
 
 ---
