@@ -2,7 +2,8 @@
 
 **Course:** MTEC 4502 – Career and Portfolio Seminar  
 **Instructor:** Dr. David B. Smith  
-**Rehearsal:** Week 14 | **Final Submission & Presentation:** Week 15  
+**Progress Review:** November 4, 2026 | **Rehearsal:** Week 14 | **Final Submission & Presentation:** Week 15
+
 **Grade Weight:** 40% of Final Course Grade  
 
 ---
@@ -12,6 +13,16 @@
 The final capstone deliverable of MTEC 4502 is your **Online Professional Portfolio** and **Timed Professional Pitch**. Your portfolio synthesizes your work throughout the semester into a live, professional digital artifact that communicates your technical capabilities, strategic career narrative, and personal brand to employers, clients, or graduate admissions.
 
 Your portfolio must be published separately from your course workspace. GitHub Pages is one option for students who want to build a portfolio website using GitHub and `github.io`; WordPress, OpenLab, and other professional portfolio platforms are also acceptable. Select a platform that supports your work, audience, and technical goals.
+
+## November 4 Portfolio Progress Review
+
+The November 4 Zoom session is a formative progress review, not the final pitch. Use your existing portfolio post in the [course GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general); do not create a duplicate if you have already posted.
+
+Before class, check that your portfolio link works for classmates. If the site is not live, share a prototype, screenshots, or an outline. During your brief walkthrough, explain your intended audience, show one featured project, describe your role and process, and ask one specific question.
+
+**Required peer review:** Before class ends, comment on every other student's portfolio post, excluding your own. For a class of N students, each student must write N−1 substantive comments. Each comment should identify something effective or clear, ask or raise one useful question, and offer one specific, actionable suggestion related to the author's goals. This is formative participation and does not create a new grade or change the final portfolio requirements.
+
+See the [Portfolio Progress Review class plan](../resources/portfolio_planning_guide.md) for the Zoom agenda, walkthrough prompts, comment format, and copy-ready update for the pinned discussion.
 
 ---
 

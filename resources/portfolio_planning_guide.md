@@ -1,110 +1,100 @@
-# Portfolio Planning & Mid-Stage Presentations Guide
+# Portfolio Progress Review: Zoom Class Plan
 
 **Course:** MTEC 4502 – Career and Portfolio Seminar  
-**Assignment Context:** Linked to Assignment 03 (Portfolio Platforms) & Assignment 06 (Online Portfolio & Pitch)  
-**Instructor:** Dr. David B. Smith  
 
----
+**Session:** November 4, 2026 | Portfolio Feedback: Round 2
 
-## 🎯 Class Objectives
-By the end of this session, students will:  
-1. Present their portfolio concepts and platform selections.  
-2. Share draft structures, design ideas, and goals for their portfolio sites.  
-3. Receive peer and instructor feedback on organization, content, and tone.  
-4. Clarify the next steps for completing their prototype portfolio.  
+**Format:** Zoom
 
----
+**Instructor:** Dr. David B. Smith
 
-## 🧩 Pre-Class Preparation
-Students should have:  
-- Completed Assignment 03 (Platform Selection & Portfolio Outline).  
-- Prepared to share their chosen platform link, structural outline, or early mockups.  
-- Optional: one slide or visual mood board summarizing design intent.  
+## Purpose
 
----
+This is a formative progress review, not the final portfolio presentation. Students will demonstrate the current state of their portfolio, receive specific peer feedback, and identify a next revision before the December pitch rehearsal and final presentation.
 
-## 🕒 Class Outline
+## Before Class
 
-### 0:00 – 0:20 | Setup & Review
-**Goal:** Reconnect after independent work; clarify expectations.  
-- Quick recap of Assignment 3.2 deliverables: platform selection, portfolio purpose, design goals.  
-- Emphasize: this is not the final presentation — it’s a planning and feedback session.  
-- Open the shared Google Doc or slide deck and verify that each student’s tab/link is ready.  
-- Remind them of upcoming milestones:  
-  - Next week: structural draft or live demo.  
-  - End of unit: complete prototype with one finished section (bio, resume, or sample project).  
+Students should:
 
----
+- Open their existing portfolio discussion in the [course GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general).
+- Confirm that their portfolio link works for classmates. If the site is unfinished, share a prototype, screenshots, or a short screen-share walkthrough.
+- Be ready to describe their intended audience, platform choice, one featured project, and the feedback they need.
+- Keep the portfolio and discussion post free of private personal information.
 
-### 0:20 – 1:50 | Student Portfolio Presentations
-**Goal:** Students share ideas, get peer and instructor input.  
-Each student presents for 8–10 minutes total (6 minutes presentation + 2–4 minutes discussion).  
+If a student does not yet have a discussion post, they should create one in the General category before their presentation, using the instructions in the pinned [Portfolio Evaluation discussion](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/3).
 
-**Each presentation should include:**  
-1. Platform Chosen: Why this site suits their career or aesthetic.  
-2. Portfolio Goal: What story they want the portfolio to tell.  
-3. Structure / Sections: Planned pages or content (Bio, Resume, Projects, Contact, etc.).  
-4. Design Ideas: Inspiration from examples, visual style, or layout concepts.  
-5. Monetization or Professional Integration: How the site might support freelance, networking, or branding goals.  
-6. Early Mockup or Reference Example: Screenshot, sketch, or existing portfolio they admire.  
+## Zoom Session Plan (2:30–5:00 p.m.)
 
-**Instructor Prompts:**  
-- What kind of audience are you designing for?  
-- How does this portfolio demonstrate your core skills?  
-- Is your layout easy to update or expand?  
-- What design tone do you want — formal, creative, technical?  
-- What do you want a visitor to remember after seeing your portfolio?  
+| Time | Activity | Instructor and student actions |
+|---|---|---|
+| 2:30–2:40 | Welcome and expectations | Explain the formative purpose, review the peer-comment requirement, and share the General discussions link in Zoom chat. |
+| 2:40–2:55 | Link and post check | Students open their own post and portfolio; confirm screen-sharing and backup options. Students without a post create one now. |
+| 2:55–4:15 | Portfolio walkthroughs | Give each student up to 5 minutes to present, followed by up to 2 minutes for one or two focused questions. Adjust slot length if needed to include everyone. |
+| 4:15–4:20 | Short break | Keep the discussion links available in Zoom chat. |
+| 4:20–4:45 | Required written peer review | Every student comments on every other student's portfolio discussion post, excluding their own. That is **N−1 comments per student** for a class of N. |
+| 4:45–4:55 | Synthesis | Discuss recurring strengths, questions, and design or communication challenges without ranking students' work. |
+| 4:55–5:00 | Next steps and completion check | Each student names one revision to make. Check that the required comments have been posted before class ends. |
 
-Encourage peers to offer one positive comment and one constructive suggestion after each presentation.  
+If the class size requires a different presentation schedule, preserve the full-class commenting requirement and make sure every student has a clear opportunity to present. The instructor can adjust presentation slots and synthesis time.
 
----
+## Student Walkthrough (up to 5 minutes)
 
-### 1:50 – 2:15 | Group Discussion: Emerging Strategies
-**Goal:** Synthesize patterns and best practices.  
-Lead a reflective discussion:  
-- Which platforms seem easiest to customize?  
-- What layouts or storytelling styles were most engaging?  
-- How are students balancing aesthetics with clarity?  
-- Are there clear trends by discipline (design vs. tech vs. performance)?  
-- How could AI tools assist with writing bios, formatting visuals, or site setup?  
+Show the site, prototype, or screenshots and address:
 
-Capture notes on the board or shared doc (for example, “Best tools for customization,” “Best for visibility,” “Best for integration”).  
+1. **Audience and purpose:** Who should visit, and what should they understand or remember?
+2. **Current structure:** What can a visitor explore now? What is still in progress?
+3. **Featured work:** Show one project and explain your role, process, tools, and result.
+4. **Design and platform decision:** Why does the current platform and presentation fit your goals?
+5. **Feedback request:** Ask one specific question about a decision you are still making.
 
----
+## Required Peer Comment
 
-### 2:15 – 2:30 | Wrap-Up & Next Steps
-**Goal:** Prepare students for the next development milestone.  
-- Summarize key insights from presentations.  
-- Clarify deliverables for next week:  
-  - A working portfolio homepage (live link or prototype).  
-  - At least one completed section (Bio, Resume, or Project).  
-  - Documented AI or design tools used (for the AI Collaboration Report).  
-- Encourage students to continue refining their structure using the Portfolio Design Resources list (IDEO, AIGA, NACE, etc.).  
+Each student must post one substantive comment on **every other student's portfolio thread** before class ends. Do not comment on your own post. A class roster or checklist can help track completion.
 
-**Homework / Deliverable:**  
-- Develop the first stage of your portfolio:  
-  - Create your homepage layout.  
-  - Write your professional bio.  
-  - Upload or format one project page.  
-- Bring the live link or mockup to next class for peer critique.  
+Use this structure:
 
----
+> - **I understand your intended audience/story as:** ___.
+> - **One thing that is already clear or effective is:** ___.
+> - **One question or point I would like to understand better is:** ___.
+> - **One specific next step I suggest is:** ___.
 
-## 💯 Evaluation (In-Class)
-| Criteria | Description |
-|-----------|-------------|
-| Preparedness | Has a clear concept, selected platform, and preliminary content plan. |
-| Presentation Clarity | Effectively communicates portfolio goals and design direction. |
-| Critical Engagement | Responds thoughtfully to feedback; contributes to peer discussion. |
-| Relevance | Portfolio aligns with student’s professional path or discipline. |
+Comments should be respectful, specific, and useful to the portfolio's intended audience. Avoid comments that only say “looks good.” If a student's portfolio is unavailable, comment on the posted prototype, screenshots, outline, or presentation and say what additional evidence would help you give more targeted feedback.
 
----
+## Formative Feedback Criteria
 
-## 🧠 Instructor Notes
-- Keep timing consistent; display a timer during presentations.  
-- Take quick notes for follow-up feedback.  
-- Encourage cross-disciplinary connections — designers learning from developers, etc.  
-- Revisit any standout examples next week to discuss site-building strategies.  
+Use these criteria to guide peer and instructor feedback; they do not add a new grade or change the final portfolio requirements.
 
-> “A strong portfolio isn’t finished — it’s designed to evolve with you.”
+| Criterion | Consider |
+|---|---|
+| Audience and professional story | Is it clear who the portfolio is for and what the student offers? |
+| Navigation and clarity | Can a visitor find important information and understand the site? |
+| Project evidence | Does the featured work explain the student's role, process, tools, and outcome? |
+| Design and platform fit | Do the platform and presentation support the student's goals and work? |
+| Next-step readiness | Is there a specific, achievable revision the student can make next? |
+| Peer participation | Did the student comment substantively on every classmate's post? |
 
+## Copy-Ready Update for the Pinned Discussion
+
+The following text can replace or supplement the current instructions in the pinned [Portfolio Evaluation discussion](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/3):
+
+```markdown
+## November 4 Portfolio Progress Review (Zoom)
+
+Use your existing portfolio discussion post; do not create a duplicate if you have already posted.
+
+### Before class
+- Make sure your post is titled with your name and includes your portfolio link. If your site is not live, share a prototype, screenshots, or outline.
+- State your intended audience, why you chose your platform, and one question you want feedback on.
+- Check that classmates can access your link. Do not include private personal information.
+
+### In class
+- Be ready to give a portfolio walkthrough of up to 5 minutes on Zoom. Show your current site or prototype, explain one featured project and your role in it, and ask one specific feedback question.
+- This is a progress review, not the final presentation.
+
+### Required peer comments
+- Before class ends, comment on **every other student's portfolio post**. Do not comment on your own. For a class of N students, each student must write N−1 comments.
+- Make each comment specific and constructive. Include one thing that is effective or clear, one question or observation, and one actionable suggestion related to the author's stated goals.
+- Comments such as “looks good” alone do not meet the requirement.
+```
+
+> **A portfolio is a working document: use today's feedback to decide what to improve next.**

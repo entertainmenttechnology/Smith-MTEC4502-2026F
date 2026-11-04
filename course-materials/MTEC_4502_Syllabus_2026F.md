@@ -130,7 +130,7 @@ For the successful completion of this course, the student should be able to:
 | **7** | 10/14 | FTF | Resume and portfolio-item evaluation | Portfolio item list and platform selection |
 | **8** | 10/21 | H | Portfolio implementation | Updated resume and portfolio draft |
 | **9** | 10/28 | FTF | Portfolio feedback: Round 1 | Portfolio update |
-| **10** | 11/04 | H | Portfolio feedback: Round 2 | [CHECK-IN OR DELIVERABLE] |
+| **10** | 11/04 | H | Portfolio progress review on Zoom | Present your current portfolio or prototype; comment on every other student's GitHub Discussion post. See the [Portfolio Progress Review class plan](../resources/portfolio_planning_guide.md). |
 | **11** | 11/11 | FTF | Cover letters | Cover letter draft due |
 | **12** | 11/18 | H | Cover-letter feedback and workplace ethics | Updated cover letter |
 | **NO** | 11/25 | - | **Thanksgiving: no classes scheduled** | |

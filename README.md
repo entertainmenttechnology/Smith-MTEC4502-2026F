@@ -5,11 +5,10 @@ Welcome to the MTEC 4502 course repository.
 This repository is your working space for developing a career strategy, researching emerging opportunities, and building a portfolio of professional evidence throughout the semester. Start here, then use the assignment prompts and course materials to guide your work week by week.
 ## Current Assignments
 
-You are currently working on:
+The current focus is the online portfolio and professional pitch:
 
-1. [**Assignment 1e v2: Future Modeling, Recursive Competency Mapping, and Adaptive Planning**](assignments/01e_Future_Modeling_and_Adaptive_Planning.md) - Continue developing your radar charts by making them more specific, recursive, and evaluable. Use the [Radar Chart Construction and Recursive Competency Assessment Guide](resources/radar_chart_construction_and_competency_assessment.md) to refine a role-level chart, break key axes into sub-radars, and build rubrics that clarify what evidence and performance level correspond to each competency. Bring your current iteration to class so we can assess what works, what needs revision, and what should be made more actionable.
-2. [**Assignment 2: Résumé Development & Analysis**](assignments/02_Resume_Development_Assignment.md) - Compare two resumes in your field, refine your career competency map with observable skills and a simple rubric, and use that analysis to draft a targeted one-page resume. Identify 2–3 priority competencies and the evidence or experience you need to develop them. See the [Resume Development Guide](resources/resume_development_guide.md).
-3. [**Assignment 1 - Career Strategy Master Overview**](assignments/01_Career_Strategy_Master_Overview.md) - Overview of the Career Strategy & Reflective Analysis assignment sequence (1a-1e).
+1. [**Assignment 6: Online Portfolio & Professional Pitch**](assignments/06_Online_Portfolio_and_Professional_Pitch.md) - Continue building and revising your portfolio. The November 4 Zoom session is a formative progress review; use the [Portfolio Progress Review class plan](resources/portfolio_planning_guide.md) and post peer feedback in the existing [GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general).
+2. [**Assignment 3: Exploring and Evaluating Portfolio Platforms**](assignments/03_Evaluating_Portfolio_Platforms.md) - Refer to your platform evaluation and portfolio structure as you make revisions.
 
 <details>
   <summary>Past Assignments and Resources</summary>
@@ -198,4 +197,3 @@ This repository is not an endpoint.
 It is a **working archive** you may return to, revise, fork, or extend long after the course ends — as your career continues to evolve.
 
 Welcome to MTEC 4502.
-
