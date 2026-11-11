@@ -6,6 +6,15 @@
 
 ---
 
+## Resources
+
+- [Cover Letters: Content and Structure](https://careerservices.upenn.edu/channels/cover-letters/) — guidance from the University of Pennsylvania Career Services on tailoring the opening, using specific examples, and avoiding simply repeating the résumé.
+- [Résumé Development Guide](../resources/resume_development_guide.md) — use your résumé and portfolio evidence to identify relevant accomplishments, and keep your professional narrative consistent across application materials.
+
+Use these resources to inform your draft. The assignment requirements below determine the required format and deliverables.
+
+---
+
 ## **Objective**
 
 Students will draft a tailored, professional cover letter for a specific employment opportunity, internship, or graduate program. The goal is to connect your background, technical skills, and strategic career narrative directly to the requirements of a real-world target position.
