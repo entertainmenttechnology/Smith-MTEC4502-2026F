@@ -6,10 +6,11 @@ This repository is the shared course workspace for MTEC 4502 assignments, resour
 
 ## Current Assignments
 
-The current focus is the online portfolio and professional pitch:
+The current focus is the professional communication sequence and portfolio refinement:
 
-1. [**Assignment 6: Online Portfolio & Professional Pitch**](assignments/06_Online_Portfolio_and_Professional_Pitch.md) - Publish a live, accessible portfolio by November 11, evaluate your own site with the portfolio questions, and respond to feedback from the November 4 peer review. Use your existing individual post in [GitHub Discussions](https://github.com/entertainmenttechnology/Smith-MTEC4502-2026F/discussions/categories/general); do not create a duplicate. See the [Portfolio Progress Review class plan](resources/portfolio_planning_guide.md) and [Portfolio Evaluation Questions](resources/portfolio_evaluation_questions.md).
-2. [**Assignment 3: Exploring and Evaluating Portfolio Platforms**](assignments/03_Evaluating_Portfolio_Platforms.md) - Refer to your platform evaluation and portfolio structure as you make revisions.
+1. [**Assignment 4: Cover Letter**](assignments/04_Cover_Letter_Assignment.md) - Continue drafting and revising your tailored cover letter for a specific opportunity, with attention to alignment, evidence, and professional tone.
+2. [**Assignment 4a: Elevator Pitch + Single-Slide Introduction**](assignments/04a_Elevator_Pitch_and_Single_Slide.md) - Prepare and present a 30-second pitch plus one supporting slide that communicates who you are, what you do, and why you would be valuable to a specific audience.
+3. [**Portfolio refinement and next-step response**](assignments/06_Online_Portfolio_and_Professional_Pitch.md) - Continue refining your portfolio based on this week's feedback, your self-evaluation, and the revision steps you identified. Use the current portfolio assignment for the live site and feedback response requirements.
 
 <details>
   <summary>All Assignments and Selected Resources</summary>
@@ -25,9 +26,9 @@ The current focus is the online portfolio and professional pitch:
 - [Assignment 2 - Résumé Development and Analysis](assignments/02_Resume_Development_Assignment.md)
 - [Assignment 3 - Exploring and Evaluating Portfolio Platforms](assignments/03_Evaluating_Portfolio_Platforms.md)
 - [Assignment 4 - Cover Letter](assignments/04_Cover_Letter_Assignment.md)
+- [Assignment 4a - Elevator Pitch + Single-Slide Introduction](assignments/04a_Elevator_Pitch_and_Single_Slide.md)
 - [Assignment 5 - Budgeting as Professional Practice](assignments/05_Budgeting_as_Professional_Practice.md)
 - [Assignment 6 - Online Portfolio and Professional Pitch](assignments/06_Online_Portfolio_and_Professional_Pitch.md)
-- [Assignment 4a - Elevator Pitch + Single-Slide Introduction](assignments/04a_Elevator_Pitch_and_Single_Slide.md)
 - [AI Collaboration Log Template](assignments/AI_Collaboration_Log_Template.md)
 - [Week 3 Google Doc Reflection Exercise](https://docs.google.com/document/d/1SXZ8cv1ws1abUp5Dz4UYcgq0bV5x5m0gbEzOkR6t9bQ/edit?usp=sharing)
 - [Portfolio Evaluation Questions](resources/portfolio_evaluation_questions.md)
