@@ -12,8 +12,10 @@ The current focus is the professional communication sequence and portfolio refin
 2. [**Assignment 4a: Elevator Pitch + Single-Slide Introduction**](assignments/04a_Elevator_Pitch_and_Single_Slide.md) - Prepare and present a 30-second pitch plus one supporting slide that communicates who you are, what you do, and why you would be valuable to a specific audience.
 3. [**Portfolio refinement and next-step response**](assignments/06_Online_Portfolio_and_Professional_Pitch.md) - Continue refining your portfolio based on this week's feedback, your self-evaluation, and the revision steps you identified. Use the current portfolio assignment for the live site and feedback response requirements.
 
+For reference, the archive below lists prior assignments and course materials. Current work is listed above.
+
 <details>
-  <summary>All Assignments and Selected Resources</summary>
+  <summary>Past Assignments and Selected Resources</summary>
 
 - [Assignment 00 - Course Workspace and Research Setup](assignments/00_Course_Workspace_and_Research_Setup.md)
 - [Assignment 1a - Reflective Essay Draft](assignments/01a_Reflective_Essay_Draft.md)
