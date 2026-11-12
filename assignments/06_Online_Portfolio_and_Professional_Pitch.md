@@ -23,6 +23,10 @@ Use the feedback from the November 4 class and the [Portfolio Evaluation Questio
 
 Your self-evaluation and feedback response may be written in the same discussion post as your live link. Keep feedback and portfolio content professional, and do not publish private or sensitive personal information.
 
+### Related Assignment
+
+The elevator pitch and single-slide introduction are assigned separately in [04a_Elevator_Pitch_and_Single_Slide.md](04a_Elevator_Pitch_and_Single_Slide.md). Use that assignment as the required 30-second spoken pitch and visual support component.
+
 ---
 
 ## Overview
